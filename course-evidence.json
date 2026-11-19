@@ -1,0 +1,207 @@
+{
+  "1": {
+    "claims": [
+      "Explain how a comparison can distinguish cognitive explanations, and identify one limit of a behavioral measure.",
+      "Laboratory tasks isolate particular demands so explanations can be tested. That control can also limit how directly a result applies to a noisy repair café."
+    ],
+    "note": "Laboratory tasks isolate particular demands so explanations can be tested. That control can also limit how directly a result applies to a noisy repair café.\n\nA within-person comparison can reduce some differences between participants, but practice, fatigue and order effects remain. A between-person comparison needs sufficiently comparable groups. Replication and converging measures strengthen confidence; one successful demonstration does not settle a theory.",
+    "sources": [
+      {
+        "title": "Sternberg (1966), High-speed scanning in human memory",
+        "url": "https://doi.org/10.1126/science.153.3736.652",
+        "kind": "Original research or scholarly review; publisher access may vary."
+      },
+      {
+        "title": "OpenStax Psychology 2e: Approaches to research",
+        "url": "https://openstax.org/books/psychology-2e/pages/2-2-approaches-to-research",
+        "kind": "Open introductory textbook."
+      },
+      {
+        "title": "Poldrack (2006), Can cognitive processes be inferred from neuroimaging data?",
+        "url": "https://doi.org/10.1016/j.tics.2005.12.004",
+        "kind": "Scholarly review or theoretical paper; publisher access may vary."
+      }
+    ]
+  },
+  "2": {
+    "claims": [
+      "Distinguish sensory input from perceptual interpretation, and explain how context and uncertainty can affect a judgment.",
+      "Perceptual demonstrations show that interpretation can depend on context. They do not establish that every disagreement is an illusion, or that seeing is generally unreliable."
+    ],
+    "note": "Perceptual demonstrations show that interpretation can depend on context. They do not establish that every disagreement is an illusion, or that seeing is generally unreliable.\n\nSignal detection measures require defined signals, noise conditions and response categories. An everyday judgment with no agreed reference cannot automatically be given a sensitivity score. The café examples illustrate distinctions rather than reporting an experiment.",
+    "sources": [
+      {
+        "title": "Green and Swets (1966), Signal Detection Theory and Psychophysics",
+        "url": "https://scholar.google.com/scholar?q=Green%20and%20Swets%20%281966%29%2C%20Signal%20Detection%20Theory%20and%20Psychophysics",
+        "kind": "Scholarly framework; link searches the named publication."
+      },
+      {
+        "title": "OpenStax Psychology 2e: Sensation versus perception",
+        "url": "https://openstax.org/books/psychology-2e/pages/5-1-sensation-versus-perception",
+        "kind": "Open introductory textbook."
+      }
+    ]
+  },
+  "3": {
+    "claims": [
+      "Explain a missed event using task demands, and propose a comparison that separates attention from signal visibility.",
+      "Laboratory demonstrations show that substantial events can be missed under particular attention demands. The proportion missed varies with the task, event, similarity and expectations. A demonstration does not measure someone’s general care or intelligence."
+    ],
+    "note": "Laboratory demonstrations show that substantial events can be missed under particular attention demands. The proportion missed varies with the task, event, similarity and expectations. A demonstration does not measure someone’s general care or intelligence.\n\nInterruption studies also depend on what the tasks require. Some practiced activities overlap more easily than two unfamiliar tasks drawing on the same processes. Avoid treating every pair of activities as equally demanding.",
+    "sources": [
+      {
+        "title": "Simons and Chabris (1999), Gorillas in our midst",
+        "url": "https://doi.org/10.1068/p281059",
+        "kind": "Original research or scholarly review; publisher access may vary."
+      },
+      {
+        "title": "OpenStax Psychology 2e: Sensation versus perception",
+        "url": "https://openstax.org/books/psychology-2e/pages/5-1-sensation-versus-perception",
+        "kind": "Open introductory textbook."
+      }
+    ]
+  },
+  "4": {
+    "claims": [
+      "Identify a working-memory demand and redesign instructions without assuming one fixed capacity for everyone.",
+      "Working-memory limits are well supported, but exact capacity estimates depend on the method and assumptions. A small estimated capacity is not a diagnosis or an intelligence score."
+    ],
+    "note": "Working-memory limits are well supported, but exact capacity estimates depend on the method and assumptions. A small estimated capacity is not a diagnosis or an intelligence score.\n\nLearning a practiced task, using an external aid and changing a general cognitive capacity are different claims. Benefits from training are often strongest for trained or similar tasks; transfer to broad everyday abilities requires separate evidence.",
+    "sources": [
+      {
+        "title": "Cowan (2001), The magical number 4 in short-term memory",
+        "url": "https://doi.org/10.1017/S0140525X01003922",
+        "kind": "Original research or scholarly review; publisher access may vary."
+      },
+      {
+        "title": "OpenStax Psychology 2e: How memory functions",
+        "url": "https://openstax.org/books/psychology-2e/pages/8-1-how-memory-functions",
+        "kind": "Open introductory textbook."
+      }
+    ]
+  },
+  "5": {
+    "claims": [
+      "Choose a study method that tests delayed recall, and distinguish immediate ease from durable learning.",
+      "Retrieval practice and distributed practice have broad research support, but their effects depend on material, feedback, timing and the final assessment. A laboratory average is not a promised gain for every learner."
+    ],
+    "note": "Retrieval practice and distributed practice have broad research support, but their effects depend on material, feedback, timing and the final assessment. A laboratory average is not a promised gain for every learner.\n\nImmediate performance can improve while delayed retention remains weak. Compare methods with a meaningful delay and the same outcome. Claims about conceptual transfer need new examples, not only repetition of the study questions.",
+    "sources": [
+      {
+        "title": "Roediger and Karpicke (2006), Test-enhanced learning",
+        "url": "https://doi.org/10.1111/j.1467-9280.2006.01693.x",
+        "kind": "Original research or scholarly review; publisher access may vary."
+      },
+      {
+        "title": "OpenStax Psychology 2e: Ways to enhance memory",
+        "url": "https://openstax.org/books/psychology-2e/pages/8-4-ways-to-enhance-memory",
+        "kind": "Open introductory textbook."
+      },
+      {
+        "title": "Dunlosky and colleagues (2013), Improving students’ learning with effective learning techniques",
+        "url": "https://doi.org/10.1177/1529100612453266",
+        "kind": "Scholarly review or theoretical paper; publisher access may vary."
+      }
+    ]
+  },
+  "6": {
+    "claims": [
+      "Separate an event record from later information, and design a less leading question about a remembered event.",
+      "Experiments on misleading post-event information show that later questions can influence reports of an earlier event. Effects vary with the event, delay, wording, source and test."
+    ],
+    "note": "Experiments on misleading post-event information show that later questions can influence reports of an earlier event. Effects vary with the event, delay, wording, source and test.\n\nThe café story is fictional and cannot diagnose a particular memory process. Neither a discrepancy nor confidence alone establishes deliberate deception, a false memory, or the correctness of an alternative account.",
+    "sources": [
+      {
+        "title": "Loftus and Palmer (1974), Reconstruction of automobile destruction",
+        "url": "https://doi.org/10.1016/S0022-5371(74)80011-3",
+        "kind": "Original research or scholarly review; publisher access may vary."
+      },
+      {
+        "title": "OpenStax Psychology 2e: Problems with memory",
+        "url": "https://openstax.org/books/psychology-2e/pages/8-3-problems-with-memory",
+        "kind": "Open introductory textbook."
+      },
+      {
+        "title": "Wixted and Wells (2017), The relationship between eyewitness confidence and identification accuracy: A new synthesis",
+        "url": "https://doi.org/10.1177/1529100616686966",
+        "kind": "Scholarly review or theoretical paper; publisher access may vary."
+      }
+    ]
+  },
+  "7": {
+    "claims": [
+      "Identify ambiguity and use a specific comprehension check without treating agreement as proof of understanding.",
+      "Psycholinguistic research uses tasks such as reading, listening, naming and conversational reference to examine language processing. A result from one task does not explain every communication difficulty."
+    ],
+    "note": "Psycholinguistic research uses tasks such as reading, listening, naming and conversational reference to examine language processing. A result from one task does not explain every communication difficulty.\n\nLinguistic relativity concerns how language can influence aspects of thought. It does not require assuming that people are unable to think about anything their language does not name. Individual experience and task conditions matter.",
+    "sources": [
+      {
+        "title": "Clark and Brennan (1991), Grounding in communication",
+        "url": "https://doi.org/10.1037/10096-006",
+        "kind": "Scholarly book chapter; publisher access may vary."
+      },
+      {
+        "title": "OpenStax Psychology 2e: Language",
+        "url": "https://openstax.org/books/psychology-2e/pages/7-2-language",
+        "kind": "Open introductory textbook."
+      }
+    ]
+  },
+  "8": {
+    "claims": [
+      "Distinguish confirming evidence from a discriminating test, and reframe a problem without assuming a single strategy fits every task.",
+      "Reasoning tasks show that people often test favored rules in ways that provide limited discrimination. The pattern depends on instructions, content, goals and what alternatives are available."
+    ],
+    "note": "Reasoning tasks show that people often test favored rules in ways that provide limited discrimination. The pattern depends on instructions, content, goals and what alternatives are available.\n\nConfirmation bias is a family of related tendencies, not a diagnosis from one answer. A fair evaluation asks which hypotheses were considered and whether the proposed evidence would actually distinguish them.",
+    "sources": [
+      {
+        "title": "Wason (1960), On the failure to eliminate hypotheses in a conceptual task",
+        "url": "https://doi.org/10.1080/17470216008416717",
+        "kind": "Original research or scholarly review; publisher access may vary."
+      },
+      {
+        "title": "OpenStax Psychology 2e: Problem solving",
+        "url": "https://openstax.org/books/psychology-2e/pages/7-3-problem-solving",
+        "kind": "Open introductory textbook."
+      }
+    ]
+  },
+  "9": {
+    "claims": [
+      "Use a relevant base rate and absolute outcomes to examine a judgment without treating a shortcut as automatically irrational.",
+      "Judgment research identifies predictable influences of availability, framing and prior probabilities in specified tasks. A shortcut can be efficient or poorly suited to a problem; labeling it does not determine the correct decision."
+    ],
+    "note": "Judgment research identifies predictable influences of availability, framing and prior probabilities in specified tasks. A shortcut can be efficient or poorly suited to a problem; labeling it does not determine the correct decision.\n\nThe device-screening counts are invented to illustrate conditional probability. The uncertainty of real tests, the population sampled and the costs of different errors require additional evidence.",
+    "sources": [
+      {
+        "title": "Tversky and Kahneman (1974), Judgment under uncertainty: Heuristics and biases",
+        "url": "https://doi.org/10.1126/science.185.4157.1124",
+        "kind": "Original research or scholarly review; publisher access may vary."
+      },
+      {
+        "title": "OpenStax Psychology 2e: Problem solving",
+        "url": "https://openstax.org/books/psychology-2e/pages/7-3-problem-solving",
+        "kind": "Open introductory textbook."
+      }
+    ]
+  },
+  "10": {
+    "claims": [
+      "Evaluate a confidence judgment against performance, and design a check that combines evidence, retrieval and uncertainty.",
+      "Metacognitive accuracy varies with the task, feedback and the cues available when people judge. Familiarity and confidence can sometimes be useful and sometimes misleading."
+    ],
+    "note": "Metacognitive accuracy varies with the task, feedback and the cues available when people judge. Familiarity and confidence can sometimes be useful and sometimes misleading.\n\nThe course’s exercises provide practice in explanation and evidence checking. Completing pages or reporting confidence is not proof of mastery, a general reasoning gain or effective transfer to every setting. A delayed new case provides a more informative next check.",
+    "sources": [
+      {
+        "title": "Dunlosky and colleagues (2013), Improving students’ learning with effective learning techniques",
+        "url": "https://doi.org/10.1177/1529100612453266",
+        "kind": "Original research or scholarly review; publisher access may vary."
+      },
+      {
+        "title": "OpenStax Psychology 2e: Ways to enhance memory",
+        "url": "https://openstax.org/books/psychology-2e/pages/8-4-ways-to-enhance-memory",
+        "kind": "Open introductory textbook."
+      }
+    ]
+  }
+}

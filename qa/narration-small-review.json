@@ -1,0 +1,221 @@
+{
+  "method": "Additional independent small.en transcription, one CPU thread, all automated flags plus a chapter explanation sample.",
+  "clips": [
+    {
+      "id": "c01s03",
+      "model": "small.en",
+      "expected": "Cognitive psychology studies processes such as attention, memory, language and reasoning. Researchers infer these processes from patterns of behavior and other measurements.\n\nMaya’s repair is an observation. A claim about her memory adds an explanation. The same action could follow several different processes.\n\nA useful model predicts what should change when a relevant condition changes. An attractive story about a mind becomes a stronger explanation when its predictions survive tests.",
+      "heard": "Cognitive psychology studies processes such as attention, memory, language, and reasoning. Researchers infer these processes from patterns of behavior and other measurements. Maya's repair is an observation. A claim about her memory adds an explanation. The same action could follow several different processes. A useful model predicts what should change when a relevant condition changes. An attractive story about a mind becomes a stronger explanation when its predictions survive tests.",
+      "ratio": 1.0,
+      "raw_sha256": "138661eaef09f16148940bd0cd2a78fb2689b66f99e9dfafc2cbe4ff21ab7965",
+      "reason": "flagged or a chapter explanation sample; transcription is not human listening approval"
+    },
+    {
+      "id": "c02s03",
+      "model": "small.en",
+      "expected": "Sensation begins with physical stimulation and sensory systems. Perception involves interpreting that information as meaningful objects, events or patterns. The distinction is useful even though the processes interact.\n\nSam uses the visible strokes on the label and prior experience with familiar parts. When the print is incomplete, that prior knowledge can help recognition or favor the wrong interpretation.\n\nPerception is usually useful, but it is not a photographic copy. To check the label, improve the signal and compare it with an independent record.",
+      "heard": "Sensation begins with physical stimulation and sensory systems. Perception involves interpreting that information as meaningful objects, events, or patterns. The distinction is useful even though the processes interact. SAM uses the visible strokes on the label and prior experience with familiar parts. When the print is incomplete, that prior knowledge can help recognition or favor the wrong interpretation. Perception is usually useful, but it is not a photographic copy. To check the label, improve the signal and compare it with an independent record.",
+      "ratio": 1.0,
+      "raw_sha256": "7affca3496a17f9af8a555697c5a5a520ad10437469f70b6bca40f0d12fbe93a",
+      "reason": "flagged or a chapter explanation sample; transcription is not human listening approval"
+    },
+    {
+      "id": "c03s03",
+      "model": "small.en",
+      "expected": "Attention helps prioritize information relevant to a current task. Selection is useful because competing demands cannot all receive the same depth of processing.\n\nLeo’s tool count draws attention to items and totals. The visitor may enter his visual field without becoming part of what he consciously reports. That does not show whether the visitor was physically hard to see.\n\nDistinguish the available information from the information selected for the task. A missed event can reflect the task, the signal, expectations or several of these together.",
+      "heard": "Attention helps prioritize information relevant to a current task. Selection is useful because competing demands cannot all receive the same depth of processing. Leo's tool count draws attention to items and totals. The visitor may enter his visual field without becoming part of what he consciously reports. That does not show whether the visitor was physically hard to see. Distinguish the available information from the information selected for the task. A missed event can reflect the task, the signal, expectations, or several of these together.",
+      "ratio": 1.0,
+      "raw_sha256": "38fad559cc3f0091784e5d71450896fa31a1b599dd35328e9f4c332896d47aac",
+      "reason": "flagged or a chapter explanation sample; transcription is not human listening approval"
+    },
+    {
+      "id": "c04s03",
+      "model": "small.en",
+      "expected": "Working memory helps keep information available while we use it. Following instructions can require holding the next step, remembering what has already happened and updating the plan.\n\nMaya’s task changes when Sam revises an earlier instruction. The difficulty is not just remembering separate words; she must maintain an ordered goal and replace part of it.\n\nWorking-memory models differ in how they describe storage and control. They agree that performance depends on the task and interference rather than unlimited short-term storage.",
+      "heard": "Working memory helps keep information available while we use it. Following instructions can require holding the next step, remembering what has already happened and updating the plan. Maya's task changes when Sam revises an earlier instruction. The difficulty is not just remembering separate words. She must maintain an ordered goal and replace part of it. Working memory models differ in how they describe storage and control. They agree that performance depends on the task and interference rather than unlimited short-term storage.",
+      "ratio": 1.0,
+      "raw_sha256": "4471de636b53f6a14bdec734b8b3e51efabbcfdc40c78679db747fec28588195",
+      "reason": "flagged or a chapter explanation sample; transcription is not human listening approval"
+    },
+    {
+      "id": "c05s03",
+      "model": "small.en",
+      "expected": "Encoding, storage and retrieval are useful distinctions in describing memory. A failure at test can have several sources: information may not have been learned well, retained, or accessible with the available cues.\n\nLeo’s familiar notes provide many cues. A visitor’s new wording provides fewer of those same prompts. Recognition with the page open therefore does not guarantee unaided explanation.\n\nDecide what the later task requires. If the goal is to explain a principle, practise producing an explanation rather than judging how familiar the page looks.",
+      "heard": "Encoding, storage, and retrieval are useful distinctions in describing memory. A failure at test can have several sources. Information may not have been learned well, retained, or accessible with the available queues. Leo's familiar notes provide many queues. A visitor's new wording provides fewer of those same prompts. Recognition with the page open, therefore, does not guarantee unaided explanation. Decide what the later task requires. If the goal is to explain a principle, practice producing an explanation rather than judging how familiar the page looks.",
+      "ratio": 0.9647,
+      "raw_sha256": "7f5243c69856c718d5e661e29102d4ccff4c560bcce04e6b4179079ab6fa89fb",
+      "reason": "flagged or a chapter explanation sample; transcription is not human listening approval"
+    },
+    {
+      "id": "c06s03",
+      "model": "small.en",
+      "expected": "Memory can preserve important features while also being influenced by knowledge, goals and later information. A schema helps organize what usually happens in a situation, but can also supply a plausible detail that was not present.\n\nAt the café, a familiar tool-case story may make the later description feel natural. That feeling does not identify where the color information came from.\n\nCalling memory reconstructive does not mean all memories are false. It means confidence in a coherent account should be considered alongside its source and independent evidence.",
+      "heard": "Memory can preserve important features, while also being influenced by knowledge, goals, and later information. A schema helps organize what usually happens in a situation, but can also supply a plausible detail that was not present. At the cafe, a familiar tool case story may make the later description feel natural. That feeling does not identify where the color information came from. Calling memory reconstructive does not mean all memories are false. It means confidence in a coherent account should be considered alongside its source and independent evidence.",
+      "ratio": 0.9886,
+      "raw_sha256": "0cc2419bb0346c0c1ad4c0ab7d61705fe1e4de6fece890209b2ae406c37eec6a",
+      "reason": "flagged or a chapter explanation sample; transcription is not human listening approval"
+    },
+    {
+      "id": "c07s03",
+      "model": "small.en",
+      "expected": "Understanding a sentence involves more than recognizing its words. Syntax helps specify relationships, semantics supplies meaning, and pragmatics concerns how context shapes what a speaker intends.\n\n“The cabinet” has a familiar meaning, but there are two possible cabinets at the café. Sam and Maya rely on different assumptions about the shared situation.\n\nCommunication succeeds when the listener identifies a useful interpretation for the current purpose. The same sentence can be clear in one setting and ambiguous in another.",
+      "heard": "Understanding a sentence involves more than recognizing its words. Syntax helps specify relationships, semantics supplies meaning, and pragmatics concerns how context shapes what a speaker intends. The cabinet has a familiar meaning, but there are two possible cabinets at the café. Sam and Maya rely on different assumptions about the shared situation. Communication succeeds when the listener identifies a useful interpretation for the current purpose. The same sentence can be clear in one setting and ambiguous in another.",
+      "ratio": 1.0,
+      "raw_sha256": "6907f41d092705a847ee76b5e2d4c2417412de8b7d56ae9b4d6d4718571dce08",
+      "reason": "flagged or a chapter explanation sample; transcription is not human listening approval"
+    },
+    {
+      "id": "c08s03",
+      "model": "small.en",
+      "expected": "Categories let us use prior knowledge when encountering a new object or problem. People can draw on typical features, remembered examples or explicit rules, depending on the task.\n\nA familiar broken cable may become Leo’s typical repair problem. That makes similar cases easy to recognize, but can draw attention away from a fault with a different cause.\n\nA typical example is not a definition of every member. Check which features are actually relevant to the decision rather than relying only on resemblance.",
+      "heard": "Categories let us use prior knowledge when encountering a new object or problem. People can draw on typical features, remembered examples, or explicit rules depending on the task. A familiar broken cable may become Leo's typical repair problem. That makes similar cases easy to recognize, but can draw attention away from a fault with a different cause. A typical example is not a definition of every member. check which features are actually relevant to the decision, rather than relying only on resemblance.",
+      "ratio": 1.0,
+      "raw_sha256": "24c1f0a68bd7904ab2fdaa8dc0eb752eb8385e29261298583b453d7230928464",
+      "reason": "flagged or a chapter explanation sample; transcription is not human listening approval"
+    },
+    {
+      "id": "c09s03",
+      "model": "small.en",
+      "expected": "An availability heuristic uses how easily examples come to mind as a cue in judgment. That can be useful when recall tracks experience, but vividness, recency and publicity also affect recall.\n\nLeo can remember the overheating battery immediately. To estimate how common battery faults are, he needs a defined set of comparable assessments and a count of all relevant outcomes.\n\nA base rate describes a reference group. Choosing the wrong group can mislead even when the arithmetic is correct. Safety severity and frequency are also different questions.",
+      "heard": "An availability heuristic uses how easily examples come to mind as a cue in judgment. That can be useful when recall tracks experience, but vividness, recency, and publicity also affect recall. Leo can remember the overheating battery immediately. To estimate how common battery faults are, he needs a defined set of comparable assessments and a count of all relevant outcomes. A base rate describes a reference group. Choosing the wrong group can mislead even when the arithmetic is correct. Safety, severity, and frequency are also different questions.",
+      "ratio": 1.0,
+      "raw_sha256": "6cd324fcf197c760a24286a14598843d6552b87f1c600b296412f7119938764c",
+      "reason": "flagged or a chapter explanation sample; transcription is not human listening approval"
+    },
+    {
+      "id": "c06s02",
+      "model": "small.en",
+      "expected": "Before the explanation, make your own choice.\n\nWhich question should Leo ask first?\n\nA. What do you remember near the door?\n\nB. When did you see the red case near the door?\n\nC. Why are you sure the case was red?\n\nChoose an option before checking the feedback.",
+      "heard": "Before the explanation, make your own choice. Which question should Leo ask first? A, what do you remember near the door? B, when did you see the red case near the door? C, why are you sure the case was red? Choose an option before checking the feedback.",
+      "ratio": 1.0,
+      "raw_sha256": "ec7db9e094e25708321108806828d0b83db142840e83635e955ccbd7fd95b6a9",
+      "reason": "flagged or a chapter explanation sample; transcription is not human listening approval"
+    },
+    {
+      "id": "c01s06-feedback-1",
+      "model": "small.en",
+      "expected": "Both outcomes matter. Compare instructions, response thresholds and task difficulty before deciding whether the intended skill improved.",
+      "heard": "both outcomes matter. Compare instructions, response thresholds, and task difficulty before deciding whether the intended skill improved.",
+      "ratio": 1.0,
+      "raw_sha256": "140acb06a6341cde916c410fcfcf13343d759431ee09ddf1f0012cecafd3dc90",
+      "reason": "flagged or a chapter explanation sample; transcription is not human listening approval"
+    },
+    {
+      "id": "c09s03b",
+      "model": "small.en",
+      "expected": "Consider an invented screening example with one hundred devices. Ten have a fault. A test flags eight of those ten and also flags nine of the ninety devices without the fault.\n\nSeventeen devices test positive, but only eight of those seventeen have the fault. The test’s ability to detect a fault is not the same as the chance that a positive device is faulty.\n\nNatural frequencies keep the relevant groups visible. These numbers are fictional teaching values, not diagnostic advice or a claim about an actual repair test.",
+      "heard": "Consider an invented screening example with 100 devices. 10 have a fault. A test flags eight of those 10 and also flags nine of the 90 devices without the fault. 17 devices test positive, but only eight of those 17 have the fault. The test's ability to detect a fault is not the same as the chance that a positive device is faulty. Natural frequencies keep the relevant groups visible. These numbers are fictional teaching values, not diagnostic advice or a claim about an actual repair test.",
+      "ratio": 0.9257,
+      "raw_sha256": "7fbcbd7144218949afd24f6e9495e860a9e9165985575a3b02521f4303960e63",
+      "reason": "flagged or a chapter explanation sample; transcription is not human listening approval"
+    },
+    {
+      "id": "c03s02-feedback-2",
+      "model": "small.en",
+      "expected": "Counting faster changes instructions and may add pressure without distinguishing visibility from attention.",
+      "heard": "Counting faster changes instructions and may add pressure without distinguishing visibility from attention.",
+      "ratio": 1.0,
+      "raw_sha256": "8cb402d88707c80c153a288fd9c895ceeec8593cdc0bc9f03958a5c0f307d0f8",
+      "reason": "flagged or a chapter explanation sample; transcription is not human listening approval"
+    },
+    {
+      "id": "c07s06-feedback-0",
+      "model": "small.en",
+      "expected": "Describing the next action exposes a practical misunderstanding. Clarify any mismatch respectfully.",
+      "heard": "Describing the next action exposes a practical misunderstanding. Clarify any mismatch respectfully.",
+      "ratio": 1.0,
+      "raw_sha256": "72c380b4aed4ad9bacb008365e813d7474e3a0ac7cd3ab9dd195362472774d31",
+      "reason": "flagged or a chapter explanation sample; transcription is not human listening approval"
+    },
+    {
+      "id": "c09s07-answers",
+      "model": "small.en",
+      "expected": "Frequency requires counts over all comparable cases. Recall ease also depends on recency and vividness.\n\nA rate falling from four to two per hundred drops two percentage points; the drop is half of the original four-percent rate.",
+      "heard": "Frequency requires counts over all comparable cases. Recall Ease also depends on recency and vividness. A rate falling from four to two per hundred drops two percentage points. The drop is half of the original 4% rate.",
+      "ratio": 0.96,
+      "raw_sha256": "20b54ef6eaa1fa83383bfc268b24bdc09435c53814ca3a3329ed8ce9b2302f1a",
+      "reason": "flagged or a chapter explanation sample; transcription is not human listening approval"
+    },
+    {
+      "id": "c10s02-feedback-2",
+      "model": "small.en",
+      "expected": "A prediction and an independent performance check make a confidence–accuracy comparison possible. Use multiple appropriate tasks before generalizing.",
+      "heard": "A prediction and an independent performance check make a confidence accuracy comparison possible. Use multiple appropriate tasks before generalizing.",
+      "ratio": 1.0,
+      "raw_sha256": "d23edfbe13c90d33d8b3eba770854062e2fef8a1a034a94cff820f21bf82c520",
+      "reason": "flagged or a chapter explanation sample; transcription is not human listening approval"
+    },
+    {
+      "id": "c05s06-feedback-1",
+      "model": "small.en",
+      "expected": "Ease is a useful experience to record, but it is not a delayed learning measure.",
+      "heard": "Ease is a useful experience to record, but it is not a delayed learning measure.",
+      "ratio": 1.0,
+      "raw_sha256": "c26b9c3c44cc5cdc701bce8e78fd7088551c3d6f3133fafd4b6aaa4c63b2e383",
+      "reason": "flagged or a chapter explanation sample; transcription is not human listening approval"
+    },
+    {
+      "id": "c07s02-feedback-1",
+      "model": "small.en",
+      "expected": "The repeated sentence preserves the original ambiguity.",
+      "heard": "The repeated sentence preserves the original ambiguity.",
+      "ratio": 1.0,
+      "raw_sha256": "b8a1dfde13c014892760b5508e1491948aed3715f51e7a0b9d3dbf87251247d9",
+      "reason": "flagged or a chapter explanation sample; transcription is not human listening approval"
+    },
+    {
+      "id": "c02s02-feedback-0",
+      "model": "small.en",
+      "expected": "Familiarity can make an interpretation fluent without resolving ambiguous print.",
+      "heard": "Familiarity can make an interpretation fluent without resolving ambiguous print.",
+      "ratio": 1.0,
+      "raw_sha256": "19031f85d5f149d3bfaa0c96e4a0992cb5b2772b75a68e2d909a416a905a1147",
+      "reason": "flagged or a chapter explanation sample; transcription is not human listening approval"
+    },
+    {
+      "id": "c10s03",
+      "model": "small.en",
+      "expected": "Metacognition concerns how people monitor and regulate their own cognitive activity. A feeling of knowing can guide a decision to study, answer or seek help.\n\nMonitoring can be informative, but it relies on cues that sometimes mislead. Familiar wording may feel like understanding even when a person cannot explain the principle independently.\n\nCalibration compares confidence with actual performance across suitable judgments. It cannot be inferred from whether one answer sounds modest or certain.",
+      "heard": "Medicognition concerns how people monitor and regulate their own cognitive activity. A feeling of knowing can guide a decision to study, answer, or seek help. Monitoring can be informative, but it relies on cues that sometimes mislead. Familiar wording may feel like understanding even when a person cannot explain the principle independently. Calibration compares confidence with actual performance across suitable judgments. It cannot be inferred from whether one answer sounds modest or certain.",
+      "ratio": 0.9863,
+      "raw_sha256": "f87afe477d0aab37344c93691f41e25667e45f142baa22ab012d9fd90aa0b146",
+      "reason": "flagged or a chapter explanation sample; transcription is not human listening approval"
+    },
+    {
+      "id": "c10s06-feedback-1",
+      "model": "small.en",
+      "expected": "Confidence without an outcome cannot establish improved accuracy or calibration.",
+      "heard": "Confidence without an outcome cannot establish improved accuracy or calibration.",
+      "ratio": 1.0,
+      "raw_sha256": "31d67f0401498a26c5d28b03b5e6f6096f49bbbaee5ea04c4e81cc4edd9dea45",
+      "reason": "flagged or a chapter explanation sample; transcription is not human listening approval"
+    },
+    {
+      "id": "c01s03b",
+      "model": "small.en",
+      "expected": "To investigate Maya’s repair, compare familiar and unfamiliar equipment, and compare helpful with unhelpful labels. Decide beforehand how each explanation predicts performance.\n\nA controlled experiment changes a proposed cause and measures an outcome. Random assignment helps separate that change from existing differences between people. Practice and task order also need attention.\n\nA faster repair could reflect experience, a useful cue or a willingness to make mistakes. Accuracy and response time together tell a fuller story than speed alone.",
+      "heard": "To investigate Maya's repair, compare familiar and unfamiliar equipment and compare helpful with unhelpful labels. Decide beforehand how each explanation predicts performance. A controlled experiment changes a proposed cause and measures an outcome. Random assignment helps separate that change from existing differences between people. Practice and task order also need attention. A faster repair could reflect experience, a useful cue, or a willingness to make mistakes. Accuracy and response time together tell a fuller story than speed alone.",
+      "ratio": 1.0,
+      "raw_sha256": "83774f9edb2159127f78dc891ab056507a95372fb2d676ca8cd21d14f40aa91d",
+      "reason": "flagged or a chapter explanation sample; transcription is not human listening approval"
+    },
+    {
+      "id": "c01s07",
+      "model": "small.en",
+      "expected": "Pause here and try these questions without your notes.\n\nWhat observation and inference appear in Maya’s repair story?\n\nWhy should a comparison record both time and errors?\n\nReveal the suggested answers after trying. A difficult attempt can identify what to revisit.",
+      "heard": "Pause here and try these questions without your notes. What observation and inference appear in Maya's repair story? Why should a comparison record both time and errors? Reveal the suggested answers after trying. A difficult attempt can identify what to revisit.",
+      "ratio": 1.0,
+      "raw_sha256": "8c334c4eec6aba2813cfcfd896d91d11d52b836a6232a7107d81ff1568e95fa9",
+      "reason": "flagged or a chapter explanation sample; transcription is not human listening approval"
+    },
+    {
+      "id": "c04s02",
+      "model": "small.en",
+      "expected": "Before the explanation, make your own choice.\n\nWhat is the most direct first change for Maya’s task?\n\nA. Repeat the whole instruction sequence more loudly.\n\nB. Provide an ordered checklist that can be updated.\n\nC. Treat losing her place as evidence of low ability.\n\nChoose an option before checking the feedback.",
+      "heard": "Before the explanation, make your own choice. What is the most direct first change for Maya's task? A, repeat the whole instruction sequence more loudly. B, provide an ordered checklist that can be updated. C, treat losing her place as evidence of low ability. Choose an option before checking the feedback.",
+      "ratio": 1.0,
+      "raw_sha256": "ceadf86fc56ba1916b126fa953df9e7f18ea92cdc4159ed094bb9071b59ae278",
+      "reason": "flagged or a chapter explanation sample; transcription is not human listening approval"
+    }
+  ]
+}
