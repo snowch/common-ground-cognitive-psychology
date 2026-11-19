@@ -19,10 +19,6 @@
             "text": "The original memory-scanning experiments related response-time patterns to the number of items held in memory. Their interpretation depends on task design and processing assumptions; speed is not a direct image of a mental operation."
           },
           {
-            "heading": "What this example can show",
-            "text": "The café and transfer cases are original fictional examples. They illustrate distinctions, not observations from the cited research. A useful model predicts what should change when a relevant condition changes. An attractive story about a mind becomes a stronger explanation when its predictions survive tests."
-          },
-          {
             "heading": "Scope and limitations",
             "text": "A within-person comparison can reduce some differences between participants, but practice, fatigue and order effects remain. A between-person comparison needs sufficiently comparable groups. Replication and converging measures strengthen confidence; one successful demonstration does not settle a theory."
           }
@@ -61,10 +57,6 @@
             "text": "The original memory-scanning experiments related response-time patterns to the number of items held in memory. Their interpretation depends on task design and processing assumptions; speed is not a direct image of a mental operation."
           },
           {
-            "heading": "What this example can show",
-            "text": "The café and transfer cases are original fictional examples. They illustrate distinctions, not observations from the cited research. A faster repair could reflect experience, a useful cue or a willingness to make mistakes. Accuracy and response time together tell a fuller story than speed alone."
-          },
-          {
             "heading": "Scope and limitations",
             "text": "A within-person comparison can reduce some differences between participants, but practice, fatigue and order effects remain. A between-person comparison needs sufficiently comparable groups. Replication and converging measures strengthen confidence; one successful demonstration does not settle a theory."
           }
@@ -101,10 +93,6 @@
           {
             "heading": "What the evidence addresses",
             "text": "The original memory-scanning experiments related response-time patterns to the number of items held in memory. Their interpretation depends on task design and processing assumptions; speed is not a direct image of a mental operation."
-          },
-          {
-            "heading": "What this example can show",
-            "text": "The café and transfer cases are original fictional examples. They illustrate distinctions, not observations from the cited research. Brain measurements add evidence, but an active brain region is not a unique label for one thought. Stronger explanations combine suitable methods and competing predictions."
           },
           {
             "heading": "Scope and limitations",
@@ -147,14 +135,6 @@
           {
             "heading": "What the evidence addresses",
             "text": "The original memory-scanning experiments related response-time patterns to the number of items held in memory. Their interpretation depends on task design and processing assumptions; speed is not a direct image of a mental operation."
-          },
-          {
-            "heading": "What this example can show",
-            "text": "The café and transfer cases are original fictional examples. They illustrate distinctions, not observations from the cited research. A within-person comparison can reduce some differences between participants, but practice, fatigue and order effects remain. A between-person comparison needs sufficiently comparable groups. Replication and converging measures strengthen confidence; one successful demonstration does not settle a theory."
-          },
-          {
-            "heading": "Scope and limitations",
-            "text": "A within-person comparison can reduce some differences between participants, but practice, fatigue and order effects remain. A between-person comparison needs sufficiently comparable groups. Replication and converging measures strengthen confidence; one successful demonstration does not settle a theory."
           }
         ],
         "sources": [
@@ -191,10 +171,6 @@
           {
             "heading": "What the evidence addresses",
             "text": "Signal detection theory separates the quality of discrimination from the response criterion. The linked introductory reading supplies accessible background; the classic book is identified as a theoretical source, not presented as free full text."
-          },
-          {
-            "heading": "What this example can show",
-            "text": "The café and transfer cases are original fictional examples. They illustrate distinctions, not observations from the cited research. Perception is usually useful, but it is not a photographic copy. To check the label, improve the signal and compare it with an independent record."
           },
           {
             "heading": "Scope and limitations",
@@ -235,10 +211,6 @@
             "text": "Signal detection theory separates the quality of discrimination from the response criterion. The linked introductory reading supplies accessible background; the classic book is identified as a theoretical source, not presented as free full text."
           },
           {
-            "heading": "What this example can show",
-            "text": "The café and transfer cases are original fictional examples. They illustrate distinctions, not observations from the cited research. Changing the lighting or consulting the parts register can provide new evidence. Merely feeling more certain after discussing the first reading does not improve the original signal."
-          },
-          {
             "heading": "Scope and limitations",
             "text": "Signal detection measures require defined signals, noise conditions and response categories. An everyday judgment with no agreed reference cannot automatically be given a sensitivity score. The café examples illustrate distinctions rather than reporting an experiment."
           }
@@ -277,10 +249,6 @@
             "text": "Signal detection theory separates the quality of discrimination from the response criterion. The linked introductory reading supplies accessible background; the classic book is identified as a theoretical source, not presented as free full text."
           },
           {
-            "heading": "What this example can show",
-            "text": "The café and transfer cases are original fictional examples. They illustrate distinctions, not observations from the cited research. To compare performance, record both signal-present and signal-absent trials. A high number of yes responses alone does not tell you who distinguishes the sounds best."
-          },
-          {
             "heading": "Scope and limitations",
             "text": "Signal detection measures require defined signals, noise conditions and response categories. An everyday judgment with no agreed reference cannot automatically be given a sensitivity score. The café examples illustrate distinctions rather than reporting an experiment."
           }
@@ -298,7 +266,8 @@
           }
         ]
       },
-      "visual": "c02s04"
+      "visual": "c02s04",
+      "clarification": "In this example, the volunteer wants to avoid missing a warning. Saying yes to fainter sounds lowers the reporting threshold and can raise both correct detections and false alarms."
     },
     {
       "id": "c02s05",
@@ -312,14 +281,6 @@
           {
             "heading": "What the evidence addresses",
             "text": "Signal detection theory separates the quality of discrimination from the response criterion. The linked introductory reading supplies accessible background; the classic book is identified as a theoretical source, not presented as free full text."
-          },
-          {
-            "heading": "What this example can show",
-            "text": "The café and transfer cases are original fictional examples. They illustrate distinctions, not observations from the cited research. Signal detection measures require defined signals, noise conditions and response categories. An everyday judgment with no agreed reference cannot automatically be given a sensitivity score. The café examples illustrate distinctions rather than reporting an experiment."
-          },
-          {
-            "heading": "Scope and limitations",
-            "text": "Signal detection measures require defined signals, noise conditions and response categories. An everyday judgment with no agreed reference cannot automatically be given a sensitivity score. The café examples illustrate distinctions rather than reporting an experiment."
           }
         ],
         "sources": [
@@ -356,10 +317,6 @@
           {
             "heading": "What the evidence addresses",
             "text": "The study examined noticing an unexpected event during a demanding visual task. Its conditions support a specific attention demonstration, not a universal percentage for everyday awareness."
-          },
-          {
-            "heading": "What this example can show",
-            "text": "The café and transfer cases are original fictional examples. They illustrate distinctions, not observations from the cited research. Distinguish the available information from the information selected for the task. A missed event can reflect the task, the signal, expectations or several of these together."
           },
           {
             "heading": "Scope and limitations",
@@ -400,10 +357,6 @@
             "text": "The study examined noticing an unexpected event during a demanding visual task. Its conditions support a specific attention demonstration, not a universal percentage for everyday awareness."
           },
           {
-            "heading": "What this example can show",
-            "text": "The café and transfer cases are original fictional examples. They illustrate distinctions, not observations from the cited research. To test an attention account, compare comparable arrivals while the counting demand changes and visibility stays similar. Asking people to watch specifically for visitors creates a different task from noticing an unexpected arrival."
-          },
-          {
             "heading": "Scope and limitations",
             "text": "Interruption studies also depend on what the tasks require. Some practiced activities overlap more easily than two unfamiliar tasks drawing on the same processes. Avoid treating every pair of activities as equally demanding."
           }
@@ -442,10 +395,6 @@
             "text": "The study examined noticing an unexpected event during a demanding visual task. Its conditions support a specific attention demonstration, not a universal percentage for everyday awareness."
           },
           {
-            "heading": "What this example can show",
-            "text": "The café and transfer cases are original fictional examples. They illustrate distinctions, not observations from the cited research. A practical test might compare a quiet counting period with a scheduled interruption, while recording counting errors and visitor reports. Reducing interruptions is a hypothesis to assess, not proof that people can eliminate every attentional limit."
-          },
-          {
             "heading": "Scope and limitations",
             "text": "Interruption studies also depend on what the tasks require. Some practiced activities overlap more easily than two unfamiliar tasks drawing on the same processes. Avoid treating every pair of activities as equally demanding."
           }
@@ -477,14 +426,6 @@
           {
             "heading": "What the evidence addresses",
             "text": "The study examined noticing an unexpected event during a demanding visual task. Its conditions support a specific attention demonstration, not a universal percentage for everyday awareness."
-          },
-          {
-            "heading": "What this example can show",
-            "text": "The café and transfer cases are original fictional examples. They illustrate distinctions, not observations from the cited research. Interruption studies also depend on what the tasks require. Some practiced activities overlap more easily than two unfamiliar tasks drawing on the same processes. Avoid treating every pair of activities as equally demanding."
-          },
-          {
-            "heading": "Scope and limitations",
-            "text": "Interruption studies also depend on what the tasks require. Some practiced activities overlap more easily than two unfamiliar tasks drawing on the same processes. Avoid treating every pair of activities as equally demanding."
           }
         ],
         "sources": [
@@ -521,10 +462,6 @@
           {
             "heading": "What the evidence addresses",
             "text": "Cowan reviewed evidence for a limited capacity under conditions designed to reduce rehearsal and grouping. The estimate is conditional, not a universal limit of exactly four everyday objects."
-          },
-          {
-            "heading": "What this example can show",
-            "text": "The café and transfer cases are original fictional examples. They illustrate distinctions, not observations from the cited research. Working-memory models differ in how they describe storage and control. They agree that performance depends on the task and interference rather than unlimited short-term storage."
           },
           {
             "heading": "Scope and limitations",
@@ -565,10 +502,6 @@
             "text": "Cowan reviewed evidence for a limited capacity under conditions designed to reduce rehearsal and grouping. The estimate is conditional, not a universal limit of exactly four everyday objects."
           },
           {
-            "heading": "What this example can show",
-            "text": "The café and transfer cases are original fictional examples. They illustrate distinctions, not observations from the cited research. There is no single number of items that describes every person and task. Estimates depend on rehearsal, prior knowledge, modality, interference and how the experiment defines an item."
-          },
-          {
             "heading": "Scope and limitations",
             "text": "Learning a practiced task, using an external aid and changing a general cognitive capacity are different claims. Benefits from training are often strongest for trained or similar tasks; transfer to broad everyday abilities requires separate evidence."
           }
@@ -607,10 +540,6 @@
             "text": "Cowan reviewed evidence for a limited capacity under conditions designed to reduce rehearsal and grouping. The estimate is conditional, not a universal limit of exactly four everyday objects."
           },
           {
-            "heading": "What this example can show",
-            "text": "The café and transfer cases are original fictional examples. They illustrate distinctions, not observations from the cited research. Compare performance on similar tasks with and without the aid. Improvement on that task supports the usefulness of the aid; it does not show a broad increase in working-memory capacity."
-          },
-          {
             "heading": "Scope and limitations",
             "text": "Learning a practiced task, using an external aid and changing a general cognitive capacity are different claims. Benefits from training are often strongest for trained or similar tasks; transfer to broad everyday abilities requires separate evidence."
           }
@@ -642,14 +571,6 @@
           {
             "heading": "What the evidence addresses",
             "text": "Cowan reviewed evidence for a limited capacity under conditions designed to reduce rehearsal and grouping. The estimate is conditional, not a universal limit of exactly four everyday objects."
-          },
-          {
-            "heading": "What this example can show",
-            "text": "The café and transfer cases are original fictional examples. They illustrate distinctions, not observations from the cited research. Learning a practiced task, using an external aid and changing a general cognitive capacity are different claims. Benefits from training are often strongest for trained or similar tasks; transfer to broad everyday abilities requires separate evidence."
-          },
-          {
-            "heading": "Scope and limitations",
-            "text": "Learning a practiced task, using an external aid and changing a general cognitive capacity are different claims. Benefits from training are often strongest for trained or similar tasks; transfer to broad everyday abilities requires separate evidence."
           }
         ],
         "sources": [
@@ -686,10 +607,6 @@
           {
             "heading": "What the evidence addresses",
             "text": "The experiments compared learning conditions using prose and subsequent retention tests. They distinguish performance during learning from delayed retention; they do not establish that every kind of quiz teaches every kind of skill."
-          },
-          {
-            "heading": "What this example can show",
-            "text": "The café and transfer cases are original fictional examples. They illustrate distinctions, not observations from the cited research. Decide what the later task requires. If the goal is to explain a principle, practise producing an explanation rather than judging how familiar the page looks."
           },
           {
             "heading": "Scope and limitations",
@@ -730,10 +647,6 @@
             "text": "The experiments compared learning conditions using prose and subsequent retention tests. They distinguish performance during learning from delayed retention; they do not establish that every kind of quiz teaches every kind of skill."
           },
           {
-            "heading": "What this example can show",
-            "text": "The café and transfer cases are original fictional examples. They illustrate distinctions, not observations from the cited research. Retrieval is not automatically useful if errors remain uncorrected or the practice fails to address the intended skill. A memorized phrase can be recalled without understanding its application."
-          },
-          {
             "heading": "Scope and limitations",
             "text": "Immediate performance can improve while delayed retention remains weak. Compare methods with a meaningful delay and the same outcome. Claims about conceptual transfer need new examples, not only repetition of the study questions."
           }
@@ -770,10 +683,6 @@
           {
             "heading": "What the evidence addresses",
             "text": "The experiments compared learning conditions using prose and subsequent retention tests. They distinguish performance during learning from delayed retention; they do not establish that every kind of quiz teaches every kind of skill."
-          },
-          {
-            "heading": "What this example can show",
-            "text": "The café and transfer cases are original fictional examples. They illustrate distinctions, not observations from the cited research. Spacing and interleaving are different manipulations. Neither guarantees far transfer. To assess understanding, ask Leo to explain a new situation and identify where the original rule no longer fits."
           },
           {
             "heading": "Scope and limitations",
@@ -816,14 +725,6 @@
           {
             "heading": "What the evidence addresses",
             "text": "The experiments compared learning conditions using prose and subsequent retention tests. They distinguish performance during learning from delayed retention; they do not establish that every kind of quiz teaches every kind of skill."
-          },
-          {
-            "heading": "What this example can show",
-            "text": "The café and transfer cases are original fictional examples. They illustrate distinctions, not observations from the cited research. Immediate performance can improve while delayed retention remains weak. Compare methods with a meaningful delay and the same outcome. Claims about conceptual transfer need new examples, not only repetition of the study questions."
-          },
-          {
-            "heading": "Scope and limitations",
-            "text": "Immediate performance can improve while delayed retention remains weak. Compare methods with a meaningful delay and the same outcome. Claims about conceptual transfer need new examples, not only repetition of the study questions."
           }
         ],
         "sources": [
@@ -860,10 +761,6 @@
           {
             "heading": "What the evidence addresses",
             "text": "The experiments varied questions about filmed traffic events. They support an effect of wording in those conditions, not the claim that every memory can be rewritten at will."
-          },
-          {
-            "heading": "What this example can show",
-            "text": "The café and transfer cases are original fictional examples. They illustrate distinctions, not observations from the cited research. Calling memory reconstructive does not mean all memories are false. It means confidence in a coherent account should be considered alongside its source and independent evidence."
           },
           {
             "heading": "Scope and limitations",
@@ -904,10 +801,6 @@
             "text": "The experiments varied questions about filmed traffic events. They support an effect of wording in those conditions, not the claim that every memory can be rewritten at will."
           },
           {
-            "heading": "What this example can show",
-            "text": "The café and transfer cases are original fictional examples. They illustrate distinctions, not observations from the cited research. Begin with an open invitation such as, “What do you remember near the door?” Record the account before discussing alternatives. An open question reduces one source of suggestion; it cannot guarantee complete accuracy."
-          },
-          {
             "heading": "Scope and limitations",
             "text": "The café story is fictional and cannot diagnose a particular memory process. Neither a discrepancy nor confidence alone establishes deliberate deception, a false memory, or the correctness of an alternative account."
           }
@@ -944,10 +837,6 @@
           {
             "heading": "What the evidence addresses",
             "text": "The experiments varied questions about filmed traffic events. They support an effect of wording in those conditions, not the claim that every memory can be rewritten at will."
-          },
-          {
-            "heading": "What this example can show",
-            "text": "The café and transfer cases are original fictional examples. They illustrate distinctions, not observations from the cited research. For the café case, preserve Sam’s initial wording, note Leo’s question and inspect the photo’s timing and viewpoint. The photo is also evidence with limits: it may not show every moment or location."
           },
           {
             "heading": "Scope and limitations",
@@ -990,14 +879,6 @@
           {
             "heading": "What the evidence addresses",
             "text": "The experiments varied questions about filmed traffic events. They support an effect of wording in those conditions, not the claim that every memory can be rewritten at will."
-          },
-          {
-            "heading": "What this example can show",
-            "text": "The café and transfer cases are original fictional examples. They illustrate distinctions, not observations from the cited research. The café story is fictional and cannot diagnose a particular memory process. Neither a discrepancy nor confidence alone establishes deliberate deception, a false memory, or the correctness of an alternative account."
-          },
-          {
-            "heading": "Scope and limitations",
-            "text": "The café story is fictional and cannot diagnose a particular memory process. Neither a discrepancy nor confidence alone establishes deliberate deception, a false memory, or the correctness of an alternative account."
           }
         ],
         "sources": [
@@ -1034,10 +915,6 @@
           {
             "heading": "What the evidence addresses",
             "text": "Grounding research treats understanding as something people coordinate and check in interaction. The café check-back is an application of that framework, not a claim that one scripted phrase guarantees understanding."
-          },
-          {
-            "heading": "What this example can show",
-            "text": "The café and transfer cases are original fictional examples. They illustrate distinctions, not observations from the cited research. Communication succeeds when the listener identifies a useful interpretation for the current purpose. The same sentence can be clear in one setting and ambiguous in another."
           },
           {
             "heading": "Scope and limitations",
@@ -1078,10 +955,6 @@
             "text": "Grounding research treats understanding as something people coordinate and check in interaction. The café check-back is an application of that framework, not a claim that one scripted phrase guarantees understanding."
           },
           {
-            "heading": "What this example can show",
-            "text": "The café and transfer cases are original fictional examples. They illustrate distinctions, not observations from the cited research. A useful repair is specific: “Do you mean the cabinet beside the workbench?” Repeating the original sentence more confidently leaves the same ambiguity in place."
-          },
-          {
             "heading": "Scope and limitations",
             "text": "Linguistic relativity concerns how language can influence aspects of thought. It does not require assuming that people are unable to think about anything their language does not name. Individual experience and task conditions matter."
           }
@@ -1120,10 +993,6 @@
             "text": "Grounding research treats understanding as something people coordinate and check in interaction. The café check-back is an application of that framework, not a claim that one scripted phrase guarantees understanding."
           },
           {
-            "heading": "What this example can show",
-            "text": "The café and transfer cases are original fictional examples. They illustrate distinctions, not observations from the cited research. A comprehension check should match the task and respect the listener. It is not an intelligence test. Language familiarity, hearing conditions, fatigue and the clarity of the instruction can all affect the exchange."
-          },
-          {
             "heading": "Scope and limitations",
             "text": "Linguistic relativity concerns how language can influence aspects of thought. It does not require assuming that people are unable to think about anything their language does not name. Individual experience and task conditions matter."
           }
@@ -1155,14 +1024,6 @@
           {
             "heading": "What the evidence addresses",
             "text": "Grounding research treats understanding as something people coordinate and check in interaction. The café check-back is an application of that framework, not a claim that one scripted phrase guarantees understanding."
-          },
-          {
-            "heading": "What this example can show",
-            "text": "The café and transfer cases are original fictional examples. They illustrate distinctions, not observations from the cited research. Linguistic relativity concerns how language can influence aspects of thought. It does not require assuming that people are unable to think about anything their language does not name. Individual experience and task conditions matter."
-          },
-          {
-            "heading": "Scope and limitations",
-            "text": "Linguistic relativity concerns how language can influence aspects of thought. It does not require assuming that people are unable to think about anything their language does not name. Individual experience and task conditions matter."
           }
         ],
         "sources": [
@@ -1199,10 +1060,6 @@
           {
             "heading": "What the evidence addresses",
             "text": "Wason’s rule-discovery task examined how people selected tests of a numerical rule. Its results motivate discriminating tests, but numerical tasks are not a complete model of real-world reasoning."
-          },
-          {
-            "heading": "What this example can show",
-            "text": "The café and transfer cases are original fictional examples. They illustrate distinctions, not observations from the cited research. A typical example is not a definition of every member. Check which features are actually relevant to the decision rather than relying only on resemblance."
           },
           {
             "heading": "Scope and limitations",
@@ -1243,10 +1100,6 @@
             "text": "Wason’s rule-discovery task examined how people selected tests of a numerical rule. Its results motivate discriminating tests, but numerical tasks are not a complete model of real-world reasoning."
           },
           {
-            "heading": "What this example can show",
-            "text": "The café and transfer cases are original fictional examples. They illustrate distinctions, not observations from the cited research. Testing should be safe and ethically appropriate. Do not create a dangerous failure merely to challenge an idea. Records or a low-risk simulation may provide the needed comparison."
-          },
-          {
             "heading": "Scope and limitations",
             "text": "Confirmation bias is a family of related tendencies, not a diagnosis from one answer. A fair evaluation asks which hypotheses were considered and whether the proposed evidence would actually distinguish them."
           }
@@ -1285,10 +1138,6 @@
             "text": "Wason’s rule-discovery task examined how people selected tests of a numerical rule. Its results motivate discriminating tests, but numerical tasks are not a complete model of real-world reasoning."
           },
           {
-            "heading": "What this example can show",
-            "text": "The café and transfer cases are original fictional examples. They illustrate distinctions, not observations from the cited research. An insight can feel sudden even when prior attempts contributed. A successful trick on one puzzle does not establish a general method for every complex problem."
-          },
-          {
             "heading": "Scope and limitations",
             "text": "Confirmation bias is a family of related tendencies, not a diagnosis from one answer. A fair evaluation asks which hypotheses were considered and whether the proposed evidence would actually distinguish them."
           }
@@ -1320,14 +1169,6 @@
           {
             "heading": "What the evidence addresses",
             "text": "Wason’s rule-discovery task examined how people selected tests of a numerical rule. Its results motivate discriminating tests, but numerical tasks are not a complete model of real-world reasoning."
-          },
-          {
-            "heading": "What this example can show",
-            "text": "The café and transfer cases are original fictional examples. They illustrate distinctions, not observations from the cited research. Confirmation bias is a family of related tendencies, not a diagnosis from one answer. A fair evaluation asks which hypotheses were considered and whether the proposed evidence would actually distinguish them."
-          },
-          {
-            "heading": "Scope and limitations",
-            "text": "Confirmation bias is a family of related tendencies, not a diagnosis from one answer. A fair evaluation asks which hypotheses were considered and whether the proposed evidence would actually distinguish them."
           }
         ],
         "sources": [
@@ -1364,10 +1205,6 @@
           {
             "heading": "What the evidence addresses",
             "text": "The classic review described availability, representativeness and anchoring with task examples. Later work examines when shortcuts are adaptive and how representation affects performance; the label bias is not a substitute for a comparison."
-          },
-          {
-            "heading": "What this example can show",
-            "text": "The café and transfer cases are original fictional examples. They illustrate distinctions, not observations from the cited research. A base rate describes a reference group. Choosing the wrong group can mislead even when the arithmetic is correct. Safety severity and frequency are also different questions."
           },
           {
             "heading": "Scope and limitations",
@@ -1408,10 +1245,6 @@
             "text": "The classic review described availability, representativeness and anchoring with task examples. Later work examines when shortcuts are adaptive and how representation affects performance; the label bias is not a substitute for a comparison."
           },
           {
-            "heading": "What this example can show",
-            "text": "The café and transfer cases are original fictional examples. They illustrate distinctions, not observations from the cited research. Natural frequencies keep the relevant groups visible. These numbers are fictional teaching values, not diagnostic advice or a claim about an actual repair test."
-          },
-          {
             "heading": "Scope and limitations",
             "text": "The device-screening counts are invented to illustrate conditional probability. The uncertainty of real tests, the population sampled and the costs of different errors require additional evidence."
           }
@@ -1450,10 +1283,6 @@
             "text": "The classic review described availability, representativeness and anchoring with task examples. Later work examines when shortcuts are adaptive and how representation affects performance; the label bias is not a substitute for a comparison."
           },
           {
-            "heading": "What this example can show",
-            "text": "The café and transfer cases are original fictional examples. They illustrate distinctions, not observations from the cited research. A considered decision also needs the seriousness, costs and alternatives. Equivalent arithmetic does not settle what outcome a person should value most."
-          },
-          {
             "heading": "Scope and limitations",
             "text": "The device-screening counts are invented to illustrate conditional probability. The uncertainty of real tests, the population sampled and the costs of different errors require additional evidence."
           }
@@ -1485,14 +1314,6 @@
           {
             "heading": "What the evidence addresses",
             "text": "The classic review described availability, representativeness and anchoring with task examples. Later work examines when shortcuts are adaptive and how representation affects performance; the label bias is not a substitute for a comparison."
-          },
-          {
-            "heading": "What this example can show",
-            "text": "The café and transfer cases are original fictional examples. They illustrate distinctions, not observations from the cited research. The device-screening counts are invented to illustrate conditional probability. The uncertainty of real tests, the population sampled and the costs of different errors require additional evidence."
-          },
-          {
-            "heading": "Scope and limitations",
-            "text": "The device-screening counts are invented to illustrate conditional probability. The uncertainty of real tests, the population sampled and the costs of different errors require additional evidence."
           }
         ],
         "sources": [
@@ -1529,10 +1350,6 @@
           {
             "heading": "What the evidence addresses",
             "text": "The review evaluated learning techniques across materials and conditions, including distributed practice and practice testing. It supports choosing methods against actual learning outcomes, rather than claiming a universal routine or guaranteed improvement."
-          },
-          {
-            "heading": "What this example can show",
-            "text": "The café and transfer cases are original fictional examples. They illustrate distinctions, not observations from the cited research. Calibration compares confidence with actual performance across suitable judgments. It cannot be inferred from whether one answer sounds modest or certain."
           },
           {
             "heading": "Scope and limitations",
@@ -1573,10 +1390,6 @@
             "text": "The review evaluated learning techniques across materials and conditions, including distributed practice and practice testing. It supports choosing methods against actual learning outcomes, rather than claiming a universal routine or guaranteed improvement."
           },
           {
-            "heading": "What this example can show",
-            "text": "The café and transfer cases are original fictional examples. They illustrate distinctions, not observations from the cited research. One mismatch is information about that task. Several comparable judgments are needed before describing a stable calibration pattern."
-          },
-          {
             "heading": "Scope and limitations",
             "text": "The course’s exercises provide practice in explanation and evidence checking. Completing pages or reporting confidence is not proof of mastery, a general reasoning gain or effective transfer to every setting. A delayed new case provides a more informative next check."
           }
@@ -1615,10 +1428,6 @@
             "text": "The review evaluated learning techniques across materials and conditions, including distributed practice and practice testing. It supports choosing methods against actual learning outcomes, rather than claiming a universal routine or guaranteed improvement."
           },
           {
-            "heading": "What this example can show",
-            "text": "The café and transfer cases are original fictional examples. They illustrate distinctions, not observations from the cited research. Keep any conclusion proportional to the evidence. A useful explanation specifies what it predicts, what remains uncertain and what additional information would change it."
-          },
-          {
             "heading": "Scope and limitations",
             "text": "The course’s exercises provide practice in explanation and evidence checking. Completing pages or reporting confidence is not proof of mastery, a general reasoning gain or effective transfer to every setting. A delayed new case provides a more informative next check."
           }
@@ -1650,14 +1459,6 @@
           {
             "heading": "What the evidence addresses",
             "text": "The review evaluated learning techniques across materials and conditions, including distributed practice and practice testing. It supports choosing methods against actual learning outcomes, rather than claiming a universal routine or guaranteed improvement."
-          },
-          {
-            "heading": "What this example can show",
-            "text": "The café and transfer cases are original fictional examples. They illustrate distinctions, not observations from the cited research. The course’s exercises provide practice in explanation and evidence checking. Completing pages or reporting confidence is not proof of mastery, a general reasoning gain or effective transfer to every setting. A delayed new case provides a more informative next check."
-          },
-          {
-            "heading": "Scope and limitations",
-            "text": "The course’s exercises provide practice in explanation and evidence checking. Completing pages or reporting confidence is not proof of mastery, a general reasoning gain or effective transfer to every setting. A delayed new case provides a more informative next check."
           }
         ],
         "sources": [
