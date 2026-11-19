@@ -1,0 +1,172 @@
+{
+  "1": {
+    "prompt": "A training group responds faster after practice but makes more errors. What conclusion is most defensible?",
+    "options": [
+      "Training improved cognition because responses became faster.",
+      "The group may have shifted its balance between speed and accuracy.",
+      "Training damaged memory because errors increased."
+    ],
+    "correct": 1,
+    "feedback": [
+      "Faster answers alone cannot establish improvement when accuracy falls. The training may have changed response strategy.",
+      "Both outcomes matter. Compare instructions, response thresholds and task difficulty before deciding whether the intended skill improved.",
+      "More errors do not isolate memory as the cause. Strategy, attention and task differences could contribute."
+    ],
+    "context": "A fictional help-desk exercise measures response time and correct solutions before and after training.",
+    "reasoningPrompt": "Explain your choice. What evidence supports it, and what would it leave uncertain?",
+    "revision": "intro-course-v1"
+  },
+  "2": {
+    "prompt": "One inspector reports more faults and more false alarms. What must be checked before claiming greater sensitivity?",
+    "options": [
+      "Whether both inspectors faced comparable fault-present and fault-absent items.",
+      "Which inspector sounds more confident.",
+      "Whether the inspector who says yes more often has more experience."
+    ],
+    "correct": 0,
+    "feedback": [
+      "Comparable signal and noise trials, including hits and false alarms, help distinguish sensitivity from a more liberal reporting criterion.",
+      "Confidence does not separate detection ability from a willingness to report uncertain signals.",
+      "Experience could matter, but its presence does not show that the difference is sensitivity rather than criterion."
+    ],
+    "context": "In an invented inspection task, two people assess the same kinds of equipment, but their full response records have not yet been compared.",
+    "reasoningPrompt": "Explain your choice. What evidence supports it, and what would it leave uncertain?",
+    "revision": "intro-course-v1"
+  },
+  "3": {
+    "prompt": "How should an office test whether notifications disrupt checking invoices?",
+    "options": [
+      "Compare a busy Monday with a quiet Friday.",
+      "Ask staff whether they dislike notifications.",
+      "Compare matched checking periods with notifications enabled or paused."
+    ],
+    "correct": 2,
+    "feedback": [
+      "Day and workload differences could explain the outcome. Match the task and conditions more closely.",
+      "Preferences matter for design but do not measure the effect on checking performance.",
+      "Vary notifications across comparable periods, balance task order where possible, and record errors and completion time."
+    ],
+    "context": "An office wants to reduce overlooked invoice errors. No confidential records need to be exposed in a training test.",
+    "reasoningPrompt": "Explain your choice. What evidence supports it, and what would it leave uncertain?",
+    "revision": "intro-course-v1"
+  },
+  "4": {
+    "prompt": "A student improves at a practiced memory game. Which claim needs additional evidence?",
+    "options": [
+      "The student improved on the practiced game.",
+      "Practice may have taught a useful strategy for that game.",
+      "The practice improved the student’s general reasoning in daily life."
+    ],
+    "correct": 2,
+    "feedback": [
+      "Repeated comparable measurements can establish improvement on the trained task, while leaving its cause and transfer open.",
+      "A task-specific strategy is plausible and can be investigated. It does not require assuming a broad capacity change.",
+      "General improvement requires suitable untrained outcomes and a comparison group. Success on the practiced game alone does not establish far transfer."
+    ],
+    "context": "A student’s game score rises over several practice sessions; no untrained tasks have been measured.",
+    "reasoningPrompt": "Explain your choice. What evidence supports it, and what would it leave uncertain?",
+    "revision": "intro-course-v1"
+  },
+  "5": {
+    "prompt": "Which comparison best tests whether a study method supports durable learning?",
+    "options": [
+      "Compare delayed explanations after equal study time.",
+      "Ask which method felt easiest during study.",
+      "Count how many sentences each learner highlighted."
+    ],
+    "correct": 0,
+    "feedback": [
+      "A shared delayed outcome and comparable study time address retention more directly. Use suitable assignment and new examples if transfer is the goal.",
+      "Ease is a useful experience to record, but it is not a delayed learning measure.",
+      "Highlight counts measure an activity, not whether the learner can retrieve or apply the content later."
+    ],
+    "context": "A class compares rereading with answering practice questions. The intended outcome is an accurate explanation one week later.",
+    "reasoningPrompt": "Explain your choice. What evidence supports it, and what would it leave uncertain?",
+    "revision": "intro-course-v1"
+  },
+  "6": {
+    "prompt": "Two witnesses agree after discussing an event. What does the agreement establish?",
+    "options": [
+      "That the shared account is independently confirmed.",
+      "That their reports converge, while their independence remains uncertain.",
+      "That both reports were created by suggestion."
+    ],
+    "correct": 1,
+    "feedback": [
+      "Agreement after discussion may reflect shared post-event information; it is not necessarily independent corroboration.",
+      "Compare early accounts and independent records. Agreement can be genuine, influenced by discussion, or both; the discussion alone does not settle which.",
+      "Discussion creates a possible influence, but does not establish that the shared details are false or entirely suggested."
+    ],
+    "context": "Two volunteers initially give separate short accounts, then discuss the event before writing a joint statement.",
+    "reasoningPrompt": "Explain your choice. What evidence supports it, and what would it leave uncertain?",
+    "revision": "intro-course-v1"
+  },
+  "7": {
+    "prompt": "Which response best checks whether a visitor understood a collection instruction?",
+    "options": [
+      "Ask the visitor to describe where and when they will collect the item.",
+      "Ask whether the visitor liked the explanation.",
+      "Repeat the same instruction more quickly."
+    ],
+    "correct": 0,
+    "feedback": [
+      "Describing the next action exposes a practical misunderstanding. Clarify any mismatch respectfully.",
+      "Liking or agreeing with an explanation does not establish the intended interpretation.",
+      "Speed does not resolve ambiguity and may add processing demands."
+    ],
+    "context": "A repair café gives an unfamiliar visitor a collection location and time; two similarly named pickup points exist.",
+    "reasoningPrompt": "Explain your choice. What evidence supports it, and what would it leave uncertain?",
+    "revision": "intro-course-v1"
+  },
+  "8": {
+    "prompt": "A library thinks reminder calls are necessary for returned books. Which observation most directly tests necessity?",
+    "options": [
+      "Readers say they appreciate reminders.",
+      "Several books return after calls.",
+      "Some comparable books return without reminder calls."
+    ],
+    "correct": 2,
+    "feedback": [
+      "Appreciation does not determine whether the call is necessary for return.",
+      "Returns after calls fit several explanations, including return without a call.",
+      "A comparable return without a call challenges a claim of necessity, though it does not show that calls have no useful effect."
+    ],
+    "context": "The claim is about necessity, not whether reminders sometimes help. The library has ordinary return records and no sensitive borrower details need to be shared.",
+    "reasoningPrompt": "Explain your choice. What evidence supports it, and what would it leave uncertain?",
+    "revision": "intro-course-v1"
+  },
+  "9": {
+    "prompt": "In the invented screening example, which group answers “How often is a positive result a real fault?”",
+    "options": [
+      "The eight real faults among ten faulty devices.",
+      "The eight real faults among seventeen positive devices.",
+      "The nine false alarms among ninety devices without a fault."
+    ],
+    "correct": 1,
+    "feedback": [
+      "This estimates how often the test detects an existing fault, not what a positive result means.",
+      "The question conditions on a positive result. Eight of the seventeen positives are real faults in this invented group.",
+      "This estimates the false-positive rate among devices without a fault, which is a different conditional probability."
+    ],
+    "context": "Invented counts: one hundred devices; ten faulty; eight true positives; nine false positives. These are teaching numbers, not results from a real test.",
+    "reasoningPrompt": "Explain your choice. What evidence supports it, and what would it leave uncertain?",
+    "revision": "intro-course-v1"
+  },
+  "10": {
+    "prompt": "After a delayed new case, what would be the strongest evidence of useful learning?",
+    "options": [
+      "A more accurate explanation that distinguishes alternatives and states its limits.",
+      "A higher confidence rating with no comparison of the written answer.",
+      "Remembering the chapter titles in their original order."
+    ],
+    "correct": 0,
+    "feedback": [
+      "An explanation that applies relevant distinctions and evaluates evidence addresses the course’s intended skill. It still does not certify all real-world transfer.",
+      "Confidence without an outcome cannot establish improved accuracy or calibration.",
+      "Title recall may show memory for labels but does not test explanation or evidence evaluation."
+    ],
+    "context": "A learner revisits the course one week later and writes an explanation of an unfamiliar everyday problem.",
+    "reasoningPrompt": "Explain your choice. What evidence supports it, and what would it leave uncertain?",
+    "revision": "intro-course-v1"
+  }
+}

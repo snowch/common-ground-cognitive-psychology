@@ -1,0 +1,629 @@
+{
+  "c01s03": {
+    "type": "branch",
+    "title": "One action, two explanations",
+    "start": "Maya repairs quickly",
+    "left": "Prior experience",
+    "right": "A useful label",
+    "caption": "The quick repair is observed. Experience and label use are competing explanations; the branches are hypotheses, not established causes."
+  },
+  "c01s03b": {
+    "type": "compare",
+    "title": "Compare what each account predicts",
+    "left": [
+      "Familiar equipment",
+      "Vary experience",
+      "Record time + errors"
+    ],
+    "right": [
+      "Helpful labels",
+      "Vary cue usefulness",
+      "Record time + errors"
+    ],
+    "caption": "Familiarity and label usefulness should be varied in comparable tasks to distinguish their predictions."
+  },
+  "c01s04": {
+    "type": "compare",
+    "title": "Faster can mean different things",
+    "left": [
+      "Faster + accurate",
+      "Possible skill gain",
+      "Check comparable tasks"
+    ],
+    "right": [
+      "Faster + more errors",
+      "Possible strategy shift",
+      "Check the instructions"
+    ],
+    "caption": "Response time and accuracy must be interpreted together; the diagram shows possible accounts, not measured results."
+  },
+  "c01s05": {
+    "type": "rows",
+    "title": "A useful measure has boundaries",
+    "items": [
+      [
+        "Behavioral task",
+        "A controlled comparison"
+      ],
+      [
+        "Everyday setting",
+        "More changing conditions"
+      ],
+      [
+        "Inference",
+        "Test other explanations"
+      ]
+    ],
+    "caption": "Control can clarify a proposed process while reducing resemblance to everyday settings. Neither setting automatically settles the interpretation."
+  },
+  "c02s03": {
+    "type": "branch",
+    "title": "An interpretation uses several cues",
+    "start": "Ambiguous worn mark",
+    "left": "Visible strokes",
+    "right": "Expected part code",
+    "caption": "Sensory features and prior expectations both contribute to an interpretation. Their contributions are to be investigated, not read directly from confidence."
+  },
+  "c02s03b": {
+    "type": "compare",
+    "title": "Same mark, different context",
+    "left": [
+      "Letter context",
+      "Expect a letter",
+      "Inspect the strokes"
+    ],
+    "right": [
+      "Number context",
+      "Expect a number",
+      "Inspect the strokes"
+    ],
+    "caption": "Context can favor different readings of an ambiguous mark. Improving the signal supplies evidence beyond the first expectation."
+  },
+  "c02s04": {
+    "type": "compare",
+    "title": "Two decisions a test can confuse",
+    "left": [
+      "Sensitivity",
+      "Distinguish the signal",
+      "Compare signal + noise"
+    ],
+    "right": [
+      "Decision criterion",
+      "When to report yes",
+      "Count hits + false alarms"
+    ],
+    "caption": "More yes responses can reflect a changed criterion. Both signal-present and signal-absent trials are needed to interpret discrimination."
+  },
+  "c02s05": {
+    "type": "rows",
+    "title": "Use the idea within its scope",
+    "items": [
+      [
+        "Demonstration",
+        "A context effect in a task"
+      ],
+      [
+        "Application",
+        "Check this label independently"
+      ],
+      [
+        "Limit",
+        "No universal verdict on seeing"
+      ]
+    ],
+    "caption": "A perceptual demonstration motivates a check; it does not show that every disagreement is an illusion."
+  },
+  "c03s03": {
+    "type": "branch",
+    "title": "A goal selects information",
+    "start": "Count returned tools",
+    "left": "Tool totals prioritized",
+    "right": "Visitor may be missed",
+    "caption": "Prioritizing the count can leave an unexpected arrival unreported. Visibility and other alternatives still need checking."
+  },
+  "c03s03b": {
+    "type": "compare",
+    "title": "Test an attention account",
+    "left": [
+      "Counting task",
+      "Comparable visitor",
+      "Record noticed arrivals"
+    ],
+    "right": [
+      "No counting task",
+      "Comparable visitor",
+      "Record noticed arrivals"
+    ],
+    "caption": "Vary the attention demand while keeping the arrival as comparable as possible. Expected arrivals create a different task from unexpected ones."
+  },
+  "c03s04": {
+    "type": "flow",
+    "title": "An interruption changes the active goal",
+    "items": [
+      [
+        "Count",
+        "Keep the current total"
+      ],
+      [
+        "Answer",
+        "Switch to the question"
+      ],
+      [
+        "Resume",
+        "Recover the counting goal"
+      ]
+    ],
+    "caption": "The sequence illustrates the need to resume a prior goal. It does not assign a fixed cost to every interruption."
+  },
+  "c03s05": {
+    "type": "rows",
+    "title": "A miss does not identify a motive",
+    "items": [
+      [
+        "Possible factor",
+        "Task demands"
+      ],
+      [
+        "Another factor",
+        "Signal visibility"
+      ],
+      [
+        "Further factor",
+        "Expectations and goals"
+      ]
+    ],
+    "caption": "A missed event can have several contributing processes. One miss is not a measure of care, intelligence or a general attentional capacity."
+  },
+  "c04s03": {
+    "type": "flow",
+    "title": "Following instructions requires updating",
+    "items": [
+      [
+        "Maintain",
+        "Keep the next step active"
+      ],
+      [
+        "Revise",
+        "Replace a changed step"
+      ],
+      [
+        "Continue",
+        "Recover the correct place"
+      ]
+    ],
+    "caption": "Working memory supports maintaining and using information. Updating a sequence adds demands beyond hearing the words."
+  },
+  "c04s03b": {
+    "type": "compare",
+    "title": "Knowledge changes the useful unit",
+    "left": [
+      "Familiar pattern",
+      "Several elements",
+      "One meaningful chunk"
+    ],
+    "right": [
+      "Unfamiliar material",
+      "The same elements",
+      "Separate units remain"
+    ],
+    "caption": "Chunking depends on learned meaning. The figure does not imply a fixed number of items for everyone."
+  },
+  "c04s04": {
+    "type": "compare",
+    "title": "Change where the next step is stored",
+    "left": [
+      "Spoken-only plan",
+      "Hold the sequence",
+      "Remember the pause point"
+    ],
+    "right": [
+      "Visible checklist",
+      "Inspect the sequence",
+      "Mark the pause point"
+    ],
+    "caption": "An external record changes the task’s internal memory demands. It must stay accurate and accessible."
+  },
+  "c04s05": {
+    "type": "rows",
+    "title": "Keep the benefit claim specific",
+    "items": [
+      [
+        "Trained task",
+        "A practiced procedure improves"
+      ],
+      [
+        "External aid",
+        "Less information held internally"
+      ],
+      [
+        "General capacity",
+        "Requires separate evidence"
+      ]
+    ],
+    "caption": "Improvement with a checklist or practice does not by itself establish a broad increase in working-memory capacity."
+  },
+  "c05s03": {
+    "type": "flow",
+    "title": "A later explanation needs retrieval",
+    "items": [
+      [
+        "Encode",
+        "Process the meaning"
+      ],
+      [
+        "Retain",
+        "Maintain it over time"
+      ],
+      [
+        "Retrieve",
+        "Use it with new cues"
+      ]
+    ],
+    "caption": "The stages are useful distinctions, not a literal diagram of three isolated brain stores."
+  },
+  "c05s03b": {
+    "type": "flow",
+    "title": "Attempt, inspect, correct",
+    "items": [
+      [
+        "Retrieve",
+        "Explain without the notes"
+      ],
+      [
+        "Check",
+        "Compare with a reference"
+      ],
+      [
+        "Correct",
+        "Address specific omissions"
+      ]
+    ],
+    "caption": "Retrieval practice with feedback tests the later demand more directly than judging the familiarity of a visible page."
+  },
+  "c05s04": {
+    "type": "compare",
+    "title": "Two changes in practice",
+    "left": [
+      "Spacing",
+      "Separate practice in time",
+      "Check after a delay"
+    ],
+    "right": [
+      "Interleaving",
+      "Mix relevant categories",
+      "Choose the right principle"
+    ],
+    "caption": "Spacing concerns timing; interleaving concerns the arrangement of relevant material. They are different manipulations."
+  },
+  "c05s05": {
+    "type": "compare",
+    "title": "Ease now and learning later",
+    "left": [
+      "During study",
+      "Familiarity and fluency",
+      "An experience to record"
+    ],
+    "right": [
+      "At delayed test",
+      "Recall and application",
+      "The intended outcome"
+    ],
+    "caption": "Immediate ease is not equivalent to durable learning. The comparison must match the goal and assessment."
+  },
+  "c06s03": {
+    "type": "branch",
+    "title": "A remembered account has sources",
+    "start": "Current event account",
+    "left": "Stored event details",
+    "right": "Knowledge + later cues",
+    "caption": "Remembering can combine information from different sources. Reconstruction does not imply that all memories are false."
+  },
+  "c06s03b": {
+    "type": "compare",
+    "title": "Where did the color detail come from?",
+    "left": [
+      "Original event",
+      "What was directly seen?",
+      "Preserve the early account"
+    ],
+    "right": [
+      "Later question",
+      "Was a color suggested?",
+      "Record the wording"
+    ],
+    "caption": "Source monitoring concerns the origin of a detail. An open question reduces one source of suggestion."
+  },
+  "c06s04": {
+    "type": "compare",
+    "title": "Keep certainty and evidence distinct",
+    "left": [
+      "Confidence",
+      "How sure does it feel?",
+      "Can change with rehearsal"
+    ],
+    "right": [
+      "Independent check",
+      "What does a record show?",
+      "Has its own scope limits"
+    ],
+    "caption": "Confidence may be informative under suitable procedures, but it is not an unrestricted guarantee of accuracy."
+  },
+  "c06s05": {
+    "type": "rows",
+    "title": "A discrepancy permits several accounts",
+    "items": [
+      [
+        "Memory process",
+        "A source may be confused"
+      ],
+      [
+        "Record limit",
+        "The photo covers one moment"
+      ],
+      [
+        "Conclusion",
+        "Check before judging deception"
+      ]
+    ],
+    "caption": "Neither a disagreement nor a memory label establishes a particular cause or deliberate dishonesty."
+  },
+  "c07s03": {
+    "type": "rows",
+    "title": "A sentence uses several kinds of information",
+    "items": [
+      [
+        "Syntax",
+        "How the words combine"
+      ],
+      [
+        "Semantics",
+        "Their conventional meaning"
+      ],
+      [
+        "Pragmatics",
+        "What is intended here"
+      ]
+    ],
+    "caption": "Knowing the words does not guarantee identifying the speaker’s intended referent in this context."
+  },
+  "c07s03b": {
+    "type": "compare",
+    "title": "“The cabinet” can identify two places",
+    "left": [
+      "Maya’s context",
+      "Beside the workbench",
+      "Assumed shared reference"
+    ],
+    "right": [
+      "Sam’s context",
+      "Near the entrance",
+      "Different salient reference"
+    ],
+    "caption": "The same expression can be interpreted differently when speakers assume different common ground."
+  },
+  "c07s04": {
+    "type": "flow",
+    "title": "A check-back exposes the interpretation",
+    "items": [
+      [
+        "Ask",
+        "Which cabinet do you mean?"
+      ],
+      [
+        "Compare",
+        "Match the intended location"
+      ],
+      [
+        "Clarify",
+        "Correct the mismatch"
+      ]
+    ],
+    "caption": "A specific comprehension check elicits the action or reference needed for the task. It is not a test of personal worth."
+  },
+  "c07s05": {
+    "type": "rows",
+    "title": "Match the research to the claim",
+    "items": [
+      [
+        "Task",
+        "A particular language demand"
+      ],
+      [
+        "Context",
+        "Knowledge and interaction"
+      ],
+      [
+        "Limit",
+        "No single explanation for all gaps"
+      ]
+    ],
+    "caption": "Psycholinguistic tasks examine selected processes; an everyday communication difficulty can have several causes."
+  },
+  "c08s03": {
+    "type": "compare",
+    "title": "A typical case is not a complete rule",
+    "left": [
+      "Prototype",
+      "A representative example",
+      "Helps quick recognition"
+    ],
+    "right": [
+      "Boundary case",
+      "An unusual member",
+      "Check relevant features"
+    ],
+    "caption": "Typicality can guide classification while concealing cases that differ from a familiar example."
+  },
+  "c08s03b": {
+    "type": "branch",
+    "title": "Separate two repair rules",
+    "start": "A successful repair",
+    "left": "Cable replacement required",
+    "right": "Inspection was sufficient",
+    "caption": "Find a safe case where the accounts predict different results. Another matching example may not distinguish them."
+  },
+  "c08s04": {
+    "type": "compare",
+    "title": "The wording opens or closes options",
+    "left": [
+      "Restricted problem",
+      "Which cable to replace?",
+      "Assumes a cable solution"
+    ],
+    "right": [
+      "Broader problem",
+      "What prevents operation?",
+      "Allows alternative causes"
+    ],
+    "caption": "Changing the problem representation can reveal options without guaranteeing an insight or the correct solution."
+  },
+  "c08s05": {
+    "type": "rows",
+    "title": "A fair test can change your view",
+    "items": [
+      [
+        "State",
+        "A specific proposed rule"
+      ],
+      [
+        "Compare",
+        "A plausible competing account"
+      ],
+      [
+        "Test",
+        "Different predictions in one case"
+      ]
+    ],
+    "caption": "A bias label cannot substitute for examining which alternatives were considered and which evidence discriminates."
+  },
+  "c09s03": {
+    "type": "compare",
+    "title": "Vividness and frequency differ",
+    "left": [
+      "Memorable case",
+      "Easy to recall",
+      "May reflect severity"
+    ],
+    "right": [
+      "Reference record",
+      "All comparable cases",
+      "Supplies a denominator"
+    ],
+    "caption": "A dramatic incident may deserve safety attention without being the most frequent kind of fault."
+  },
+  "c09s03b": {
+    "type": "frequencies",
+    "title": "Positive results need the right group",
+    "caption": "Invented teaching counts: ten faulty devices yield eight true positives; ninety without faults yield nine false positives. Eight of seventeen positive results are real faults."
+  },
+  "c09s04": {
+    "type": "compare",
+    "title": "One change, two descriptions",
+    "left": [
+      "Absolute change",
+      "4 to 2 per hundred",
+      "2 percentage points"
+    ],
+    "right": [
+      "Relative change",
+      "A drop of 2 from 4",
+      "50 percent reduction"
+    ],
+    "caption": "These invented equivalent rates illustrate the importance of a starting value and shared denominator."
+  },
+  "c09s05": {
+    "type": "rows",
+    "title": "A useful judgment includes consequences",
+    "items": [
+      [
+        "Frequency",
+        "How common in this group?"
+      ],
+      [
+        "Severity",
+        "What follows if it occurs?"
+      ],
+      [
+        "Decision",
+        "Costs, alternatives, uncertainty"
+      ]
+    ],
+    "caption": "A shortcut is not automatically irrational. Its usefulness depends on the task, available information and consequences."
+  },
+  "c10s03": {
+    "type": "flow",
+    "title": "Monitoring can guide a next action",
+    "items": [
+      [
+        "Monitor",
+        "What do I think I know?"
+      ],
+      [
+        "Check",
+        "Compare with performance"
+      ],
+      [
+        "Control",
+        "Choose the next strategy"
+      ]
+    ],
+    "caption": "Metacognition includes both judgments about cognition and actions based on those judgments."
+  },
+  "c10s03b": {
+    "type": "flow",
+    "title": "Test a confidence prediction",
+    "items": [
+      [
+        "Predict",
+        "Rate expected accuracy"
+      ],
+      [
+        "Explain",
+        "Try a delayed new example"
+      ],
+      [
+        "Compare",
+        "Inspect answer + confidence"
+      ]
+    ],
+    "caption": "Calibration requires comparing confidence with suitable performance, usually across several judgments."
+  },
+  "c10s04": {
+    "type": "flow",
+    "title": "Build a bounded explanation",
+    "items": [
+      [
+        "Describe",
+        "Task and observation"
+      ],
+      [
+        "Compare",
+        "Competing predictions"
+      ],
+      [
+        "Revise",
+        "New evidence and limits"
+      ]
+    ],
+    "caption": "Use cognitive concepts to generate tests, rather than assigning a process label to every everyday mistake."
+  },
+  "c10s05": {
+    "type": "rows",
+    "title": "A visit is not a mastery score",
+    "items": [
+      [
+        "Page completed",
+        "Evidence of a visit"
+      ],
+      [
+        "New explanation",
+        "Evidence of application"
+      ],
+      [
+        "Later transfer",
+        "Requires a further check"
+      ]
+    ],
+    "caption": "A delayed unfamiliar case is more informative than page visits or familiarity, while still not certifying general mastery."
+  }
+}

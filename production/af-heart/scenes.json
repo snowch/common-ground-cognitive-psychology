@@ -1,0 +1,962 @@
+[
+  {
+    "id": "c01s01",
+    "step": "Chapter 1: Maya solves the puzzle. Leo wants to know how.",
+    "text": "Maya finds the fault in a radio before Leo finishes checking the cables. Leo says she must have a better memory. Sam wonders whether she noticed a useful label. Both explanations fit the quick repair.\n\nThe team wants to learn from her method. Timing one successful repair will not tell them which mental process made the difference.",
+    "say": "[Maya](/mˈaɪə/) finds the fault in a radio before Leo finishes checking the cables. Leo says she must have a better memory. Sam wonders whether she noticed a useful label. Both explanations fit the quick repair. [pause 0.65] The team wants to learn from her method. Timing one successful repair will not tell them which mental process made the difference."
+  },
+  {
+    "id": "c01s02",
+    "step": "Chapter 1: Make a first decision",
+    "text": "Before the explanation, make your own choice.\n\nWhich next step best tests the label explanation?\n\nA. Time Maya on another familiar radio.\n\nB. Compare comparable repairs with useful and unhelpful labels.\n\nC. Ask the team who seems most observant.\n\nChoose an option before checking the feedback.",
+    "say": "Before the explanation, make your own choice. [pause 0.65] Which next step best tests the label explanation? [pause 0.65] A. Time [Maya](/mˈaɪə/) on another familiar radio. [pause 0.65] B. Compare comparable repairs with useful and unhelpful labels. [pause 0.65] C. Ask the team who seems most observant. [pause 0.65] Choose an option before checking the feedback."
+  },
+  {
+    "id": "c01s02-feedback-0",
+    "step": "Chapter 1: feedback 1",
+    "text": "Another familiar radio may reveal consistency, but familiarity and labeling still vary together.",
+    "say": "Another familiar radio may reveal consistency, but familiarity and labeling still vary together."
+  },
+  {
+    "id": "c01s02-feedback-1",
+    "step": "Chapter 1: feedback 2",
+    "text": "Changing label usefulness while keeping equipment and instructions comparable tests a prediction of the label account. Record errors as well as time.",
+    "say": "Changing label usefulness while keeping equipment and instructions comparable tests a prediction of the label account. Record errors as well as time."
+  },
+  {
+    "id": "c01s02-feedback-2",
+    "step": "Chapter 1: feedback 3",
+    "text": "Reputation may guide a hypothesis, but it does not isolate the proposed effect of labels.",
+    "say": "Reputation may guide a hypothesis, but it does not isolate the proposed effect of labels."
+  },
+  {
+    "id": "c01s03",
+    "step": "Chapter 1: Cognition leaves clues, not a direct recording.",
+    "text": "Cognitive psychology studies processes such as attention, memory, language and reasoning. Researchers infer these processes from patterns of behavior and other measurements.\n\nMaya’s repair is an observation. A claim about her memory adds an explanation. The same action could follow several different processes.\n\nA useful model predicts what should change when a relevant condition changes. An attractive story about a mind becomes a stronger explanation when its predictions survive tests.",
+    "say": "Cognitive psychology studies processes such as attention, memory, language and reasoning. Researchers infer these processes from patterns of behavior and other measurements. [pause 0.65] [Maya’s](/mˈaɪəz/) repair is an observation. A claim about her memory adds an explanation. The same action could follow several different processes. [pause 0.65] A useful model predicts what should change when a relevant condition changes. An attractive story about a mind becomes a stronger explanation when its predictions survive tests."
+  },
+  {
+    "id": "c01s03b",
+    "step": "Chapter 1: Compare predictions, then change a condition.",
+    "text": "To investigate Maya’s repair, compare familiar and unfamiliar equipment, and compare helpful with unhelpful labels. Decide beforehand how each explanation predicts performance.\n\nA controlled experiment changes a proposed cause and measures an outcome. Random assignment helps separate that change from existing differences between people. Practice and task order also need attention.\n\nA faster repair could reflect experience, a useful cue or a willingness to make mistakes. Accuracy and response time together tell a fuller story than speed alone.",
+    "say": "To investigate [Maya’s](/mˈaɪəz/) repair, compare familiar and unfamiliar equipment, and compare helpful with unhelpful labels. Decide beforehand how each explanation predicts performance. [pause 0.65] A controlled experiment changes a proposed cause and measures an outcome. Random assignment helps separate that change from existing differences between people. Practice and task order also need attention. [pause 0.65] A faster repair could reflect experience, a useful cue or a willingness to make mistakes. Accuracy and response time together tell a fuller story than speed alone."
+  },
+  {
+    "id": "c01s04",
+    "step": "Chapter 1: A measure has more than one explanation.",
+    "text": "Imagine that Sam answers a fault checklist faster after practice, but misses more faults. The shorter response time does not establish better reasoning. Sam may simply have changed how much evidence is needed before answering.\n\nResponse time and accuracy depend on the task, instructions and strategy. Researchers compare patterns across conditions rather than treating one score as a complete description of a person.\n\nBrain measurements add evidence, but an active brain region is not a unique label for one thought. Stronger explanations combine suitable methods and competing predictions.",
+    "say": "Imagine that Sam answers a fault checklist faster after practice, but misses more faults. The shorter response time does not establish better reasoning. Sam may simply have changed how much evidence is needed before answering. [pause 0.65] Response time and accuracy depend on the task, instructions and strategy. Researchers compare patterns across conditions rather than treating one score as a complete description of a person. [pause 0.65] Brain measurements add evidence, but an active brain region is not a unique label for one thought. Stronger explanations combine suitable methods and competing predictions."
+  },
+  {
+    "id": "c01s05",
+    "step": "Chapter 1: What does the evidence allow?",
+    "text": "Laboratory tasks isolate particular demands so explanations can be tested. That control can also limit how directly a result applies to a noisy repair café.\n\nA within-person comparison can reduce some differences between participants, but practice, fatigue and order effects remain. A between-person comparison needs sufficiently comparable groups. Replication and converging measures strengthen confidence; one successful demonstration does not settle a theory.",
+    "say": "Laboratory tasks isolate particular demands so explanations can be tested. That control can also limit how directly a result applies to a noisy repair café. [pause 0.65] A within-person comparison can reduce some differences between participants, but practice, fatigue and order effects remain. A between-person comparison needs sufficiently comparable groups. Replication and converging measures strengthen confidence; one successful demonstration does not settle a theory."
+  },
+  {
+    "id": "c01s06",
+    "step": "Chapter 1: Apply the distinction",
+    "text": "Apply the distinction in this new fictional situation.\n\nA fictional help-desk exercise measures response time and correct solutions before and after training.\n\nA training group responds faster after practice but makes more errors. What conclusion is most defensible?\n\nA. Training improved cognition because responses became faster.\n\nB. The group may have shifted its balance between speed and accuracy.\n\nC. Training damaged memory because errors increased.\n\nChoose an option and write your reasoning before checking the feedback.",
+    "say": "Apply the distinction in this new fictional situation. [pause 0.65] A fictional help-desk exercise measures response time and correct solutions before and after training. [pause 0.65] A training group responds faster after practice but makes more errors. What conclusion is most defensible? [pause 0.65] A. Training improved cognition because responses became faster. [pause 0.65] B. The group may have shifted its balance between speed and accuracy. [pause 0.65] C. Training damaged memory because errors increased. [pause 0.65] Choose an option and write your reasoning before checking the feedback. [pause 1.0]"
+  },
+  {
+    "id": "c01s06-feedback-0",
+    "step": "Chapter 1: feedback 1",
+    "text": "Faster answers alone cannot establish improvement when accuracy falls. The training may have changed response strategy.",
+    "say": "Faster answers alone cannot establish improvement when accuracy falls. The training may have changed response strategy. [pause 1.0]"
+  },
+  {
+    "id": "c01s06-feedback-1",
+    "step": "Chapter 1: feedback 2",
+    "text": "Both outcomes matter. Compare instructions, response thresholds and task difficulty before deciding whether the intended skill improved.",
+    "say": "Both outcomes matter. Compare instructions, response thresholds and task difficulty before deciding whether the intended skill improved. [pause 1.0]"
+  },
+  {
+    "id": "c01s06-feedback-2",
+    "step": "Chapter 1: feedback 3",
+    "text": "More errors do not isolate memory as the cause. Strategy, attention and task differences could contribute.",
+    "say": "More errors do not isolate memory as the cause. Strategy, attention and task differences could contribute. [pause 1.0]"
+  },
+  {
+    "id": "c01s07",
+    "step": "Chapter 1: Explain it without the notes",
+    "text": "Pause here and try these questions without your notes.\n\nWhat observation and inference appear in Maya’s repair story?\n\nWhy should a comparison record both time and errors?\n\nReveal the suggested answers after trying. A difficult attempt can identify what to revisit.",
+    "say": "Pause here and try these questions without your notes. [pause 0.65] What observation and inference appear in [Maya’s](/mˈaɪəz/) repair story? [pause 0.65] Why should a comparison record both time and errors? [pause 0.65] Reveal the suggested answers after trying. A difficult attempt can identify what to revisit. [pause 1.0]"
+  },
+  {
+    "id": "c01s07-answers",
+    "step": "Chapter 1: suggested recall answers",
+    "text": "The quick repair is observed. A claim that superior memory caused it is an inference; noticing the label is a competing account.\n\nA person may respond faster by accepting more errors. Both measures help distinguish improved performance from a changed strategy.",
+    "say": "The quick repair is observed. A claim that superior memory caused it is an inference; noticing the label is a competing account. [pause 0.65] A person may respond faster by accepting more errors. Both measures help distinguish improved performance from a changed strategy. [pause 1.0]"
+  },
+  {
+    "id": "c01s08",
+    "step": "Chapter 1: Take the idea into everyday life",
+    "text": "Choose an everyday claim about how someone thinks. Write the observation, two possible processes, and a comparison that would make different predictions.\n\nChoose a safe, low-stakes example. Record the observation, your explanation and its limits. Come back tomorrow or in a week to try a new case without the notes.",
+    "say": "Choose an everyday claim about how someone thinks. Write the observation, two possible processes, and a comparison that would make different predictions. [pause 0.65] Choose a safe, low-stakes example. Record the observation, your explanation and its limits. Come back tomorrow or in a week to try a new case without the notes."
+  },
+  {
+    "id": "c02s01",
+    "step": "Chapter 2: The same mark looks different beside a different label.",
+    "text": "On a dim shelf, Sam reads a worn label as the code for a familiar fuse. Maya expects a different part and reads the same mark differently. Under a lamp, both notice a missing stroke.\n\nTheir disagreement began with an ambiguous signal. Expectations helped each person interpret it, but neither first impression settled what was printed.",
+    "say": "On a dim shelf, Sam reads a worn label as the code for a familiar fuse. [Maya](/mˈaɪə/) expects a different part and reads the same mark differently. Under a lamp, both notice a missing stroke. [pause 0.65] Their disagreement began with an ambiguous signal. Expectations helped each person interpret it, but neither first impression settled what was printed."
+  },
+  {
+    "id": "c02s02",
+    "step": "Chapter 2: Make a first decision",
+    "text": "Before the explanation, make your own choice.\n\nWhat should Sam do before ordering the fuse?\n\nA. Trust the first familiar reading.\n\nB. Ask who feels most certain about the code.\n\nC. Improve the lighting and compare the label with the parts register.\n\nChoose an option before checking the feedback.",
+    "say": "Before the explanation, make your own choice. [pause 0.65] What should Sam do before ordering the fuse? [pause 0.65] A. Trust the first familiar reading. [pause 0.65] B. Ask who feels most certain about the code. [pause 0.65] C. Improve the lighting and compare the label with the parts register. [pause 0.65] Choose an option before checking the feedback."
+  },
+  {
+    "id": "c02s02-feedback-0",
+    "step": "Chapter 2: feedback 1",
+    "text": "Familiarity can make an interpretation fluent without resolving ambiguous print.",
+    "say": "Familiarity can make an interpretation fluent without resolving ambiguous print."
+  },
+  {
+    "id": "c02s02-feedback-1",
+    "step": "Chapter 2: feedback 2",
+    "text": "Confidence may reflect expectations shared by the group rather than better sensory evidence.",
+    "say": "Confidence may reflect expectations shared by the group rather than better sensory evidence."
+  },
+  {
+    "id": "c02s02-feedback-2",
+    "step": "Chapter 2: feedback 3",
+    "text": "Better lighting and an independent record add evidence that can distinguish competing readings.",
+    "say": "Better lighting and an independent record add evidence that can distinguish competing readings."
+  },
+  {
+    "id": "c02s03",
+    "step": "Chapter 2: Perception organizes sensory information.",
+    "text": "Sensation begins with physical stimulation and sensory systems. Perception involves interpreting that information as meaningful objects, events or patterns. The distinction is useful even though the processes interact.\n\nSam uses the visible strokes on the label and prior experience with familiar parts. When the print is incomplete, that prior knowledge can help recognition or favor the wrong interpretation.\n\nPerception is usually useful, but it is not a photographic copy. To check the label, improve the signal and compare it with an independent record.",
+    "say": "Sensation begins with physical stimulation and sensory systems. Perception involves interpreting that information as meaningful objects, events or patterns. The distinction is useful even though the processes interact. [pause 0.65] Sam uses the visible strokes on the label and prior experience with familiar parts. When the print is incomplete, that prior knowledge can help recognition or favor the wrong interpretation. [pause 0.65] Perception is usually useful, but it is not a photographic copy. To check the label, improve the signal and compare it with an independent record."
+  },
+  {
+    "id": "c02s03b",
+    "step": "Chapter 2: Context can make an ambiguous mark seem clear.",
+    "text": "An incomplete shape may look like a letter among letters and a number among numbers. The physical input can stay similar while the surrounding information changes the most plausible interpretation.\n\nAt the café, Sam expects a familiar fuse code. Maya expects a different category of part. Their expectations supply context, not additional strokes on the label.\n\nChanging the lighting or consulting the parts register can provide new evidence. Merely feeling more certain after discussing the first reading does not improve the original signal.",
+    "say": "An incomplete shape may look like a letter among letters and a number among numbers. The physical input can stay similar while the surrounding information changes the most plausible interpretation. [pause 0.65] At the café, Sam expects a familiar fuse code. [Maya](/mˈaɪə/) expects a different category of part. Their expectations supply context, not additional strokes on the label. [pause 0.65] Changing the lighting or consulting the parts register can provide new evidence. Merely feeling more certain after discussing the first reading does not improve the original signal."
+  },
+  {
+    "id": "c02s04",
+    "step": "Chapter 2: Detection and willingness to say yes differ.",
+    "text": "Suppose volunteers check whether a quiet device is making a warning sound. Some faint sounds are real warnings; others are background noise.\n\nSignal detection theory distinguishes sensitivity from the decision criterion. A cautious volunteer may report more possible warnings, producing more hits and more false alarms without hearing more accurately.\n\nTo compare performance, record both signal-present and signal-absent trials. A high number of yes responses alone does not tell you who distinguishes the sounds best.",
+    "say": "Suppose volunteers check whether a quiet device is making a warning sound. Some faint sounds are real warnings; others are background noise. [pause 0.65] Signal detection theory distinguishes sensitivity from the decision criterion. A cautious volunteer may report more possible warnings, producing more hits and more false alarms without hearing more accurately. [pause 0.65] To compare performance, record both signal-present and signal-absent trials. A high number of yes responses alone does not tell you who distinguishes the sounds best."
+  },
+  {
+    "id": "c02s05",
+    "step": "Chapter 2: What does the evidence allow?",
+    "text": "Perceptual demonstrations show that interpretation can depend on context. They do not establish that every disagreement is an illusion, or that seeing is generally unreliable.\n\nSignal detection measures require defined signals, noise conditions and response categories. An everyday judgment with no agreed reference cannot automatically be given a sensitivity score. The café examples illustrate distinctions rather than reporting an experiment.",
+    "say": "Perceptual demonstrations show that interpretation can depend on context. They do not establish that every disagreement is an illusion, or that seeing is generally unreliable. [pause 0.65] Signal detection measures require defined signals, noise conditions and response categories. An everyday judgment with no agreed reference cannot automatically be given a sensitivity score. The café examples illustrate distinctions rather than reporting an experiment."
+  },
+  {
+    "id": "c02s06",
+    "step": "Chapter 2: Apply the distinction",
+    "text": "Apply the distinction in this new fictional situation.\n\nIn an invented inspection task, two people assess the same kinds of equipment, but their full response records have not yet been compared.\n\nOne inspector reports more faults and more false alarms. What must be checked before claiming greater sensitivity?\n\nA. Whether both inspectors faced comparable fault-present and fault-absent items.\n\nB. Which inspector sounds more confident.\n\nC. Whether the inspector who says yes more often has more experience.\n\nChoose an option and write your reasoning before checking the feedback.",
+    "say": "Apply the distinction in this new fictional situation. [pause 0.65] In an invented inspection task, two people assess the same kinds of equipment, but their full response records have not yet been compared. [pause 0.65] One inspector reports more faults and more false alarms. What must be checked before claiming greater sensitivity? [pause 0.65] A. Whether both inspectors faced comparable fault-present and fault-absent items. [pause 0.65] B. Which inspector sounds more confident. [pause 0.65] C. Whether the inspector who says yes more often has more experience. [pause 0.65] Choose an option and write your reasoning before checking the feedback. [pause 1.0]"
+  },
+  {
+    "id": "c02s06-feedback-0",
+    "step": "Chapter 2: feedback 1",
+    "text": "Comparable signal and noise trials, including hits and false alarms, help distinguish sensitivity from a more liberal reporting criterion.",
+    "say": "Comparable signal and noise trials, including hits and false alarms, help distinguish sensitivity from a more liberal reporting criterion. [pause 1.0]"
+  },
+  {
+    "id": "c02s06-feedback-1",
+    "step": "Chapter 2: feedback 2",
+    "text": "Confidence does not separate detection ability from a willingness to report uncertain signals.",
+    "say": "Confidence does not separate detection ability from a willingness to report uncertain signals. [pause 1.0]"
+  },
+  {
+    "id": "c02s06-feedback-2",
+    "step": "Chapter 2: feedback 3",
+    "text": "Experience could matter, but its presence does not show that the difference is sensitivity rather than criterion.",
+    "say": "Experience could matter, but its presence does not show that the difference is sensitivity rather than criterion. [pause 1.0]"
+  },
+  {
+    "id": "c02s07",
+    "step": "Chapter 2: Explain it without the notes",
+    "text": "Pause here and try these questions without your notes.\n\nHow does perception differ from sensation?\n\nHow can more reported warnings occur without improved sensitivity?\n\nReveal the suggested answers after trying. A difficult attempt can identify what to revisit.",
+    "say": "Pause here and try these questions without your notes. [pause 0.65] How does perception differ from sensation? [pause 0.65] How can more reported warnings occur without improved sensitivity? [pause 0.65] Reveal the suggested answers after trying. A difficult attempt can identify what to revisit. [pause 1.0]"
+  },
+  {
+    "id": "c02s07-answers",
+    "step": "Chapter 2: suggested recall answers",
+    "text": "Sensation concerns detecting stimulation; perception concerns organizing and interpreting it. Knowledge and context can influence that interpretation.\n\nA lower decision criterion can produce more hits and more false alarms. Compare responses when a signal is present and absent.",
+    "say": "Sensation concerns detecting stimulation; perception concerns organizing and interpreting it. Knowledge and context can influence that interpretation. [pause 0.65] A lower decision criterion can produce more hits and more false alarms. Compare responses when a signal is present and absent. [pause 1.0]"
+  },
+  {
+    "id": "c02s08",
+    "step": "Chapter 2: Take the idea into everyday life",
+    "text": "Find an ambiguous sign or unfamiliar sound in a safe setting. Separate the physical information, your first interpretation and the additional evidence that would help check it.\n\nChoose a safe, low-stakes example. Record the observation, your explanation and its limits. Come back tomorrow or in a week to try a new case without the notes.",
+    "say": "Find an ambiguous sign or unfamiliar sound in a safe setting. Separate the physical information, your first interpretation and the additional evidence that would help check it. [pause 0.65] Choose a safe, low-stakes example. Record the observation, your explanation and its limits. Come back tomorrow or in a week to try a new case without the notes."
+  },
+  {
+    "id": "c03s01",
+    "step": "Chapter 3: Leo watches the counter. The new visitor waits unseen.",
+    "text": "Leo is counting returned tools while Sam asks questions and a phone flashes beside the list. A new visitor approaches the counter. Leo looks up only after Maya greets them.\n\nLeo says the visitor must have arrived silently. Maya wonders whether concentrating on the count made the visitor easy to miss.",
+    "say": "Leo is counting returned tools while Sam asks questions and a phone flashes beside the list. A new visitor approaches the counter. Leo looks up only after [Maya](/mˈaɪə/) greets them. [pause 0.65] Leo says the visitor must have arrived silently. [Maya](/mˈaɪə/) wonders whether concentrating on the count made the visitor easy to miss."
+  },
+  {
+    "id": "c03s02",
+    "step": "Chapter 3: Make a first decision",
+    "text": "Before the explanation, make your own choice.\n\nWhich change most directly tests whether counting contributed to the missed visitor?\n\nA. Compare similar arrivals with and without the counting task.\n\nB. Tell Leo the visitor was easy to notice.\n\nC. Ask Leo to count faster on the next shift.\n\nChoose an option before checking the feedback.",
+    "say": "Before the explanation, make your own choice. [pause 0.65] Which change most directly tests whether counting contributed to the missed visitor? [pause 0.65] A. Compare similar arrivals with and without the counting task. [pause 0.65] B. Tell Leo the visitor was easy to notice. [pause 0.65] C. Ask Leo to count faster on the next shift. [pause 0.65] Choose an option before checking the feedback."
+  },
+  {
+    "id": "c03s02-feedback-0",
+    "step": "Chapter 3: feedback 1",
+    "text": "Holding arrival visibility similar while varying the counting demand tests a prediction of the attention account.",
+    "say": "Holding arrival visibility similar while varying the counting demand tests a prediction of the attention account."
+  },
+  {
+    "id": "c03s02-feedback-1",
+    "step": "Chapter 3: feedback 2",
+    "text": "Another observer’s impression does not establish what information Leo selected under his task demands.",
+    "say": "Another observer’s impression does not establish what information Leo selected under his task demands."
+  },
+  {
+    "id": "c03s02-feedback-2",
+    "step": "Chapter 3: feedback 3",
+    "text": "Counting faster changes instructions and may add pressure without distinguishing visibility from attention.",
+    "say": "Counting faster changes instructions and may add pressure without distinguishing visibility from attention."
+  },
+  {
+    "id": "c03s03",
+    "step": "Chapter 3: Attention selects information for a task.",
+    "text": "Attention helps prioritize information relevant to a current task. Selection is useful because competing demands cannot all receive the same depth of processing.\n\nLeo’s tool count draws attention to items and totals. The visitor may enter his visual field without becoming part of what he consciously reports. That does not show whether the visitor was physically hard to see.\n\nDistinguish the available information from the information selected for the task. A missed event can reflect the task, the signal, expectations or several of these together.",
+    "say": "Attention helps prioritize information relevant to a current task. Selection is useful because competing demands cannot all receive the same depth of processing. [pause 0.65] Leo’s tool count draws attention to items and totals. The visitor may enter his visual field without becoming part of what he consciously reports. That does not show whether the visitor was physically hard to see. [pause 0.65] Distinguish the available information from the information selected for the task. A missed event can reflect the task, the signal, expectations or several of these together."
+  },
+  {
+    "id": "c03s03b",
+    "step": "Chapter 3: An unexpected event can go unnoticed.",
+    "text": "Inattentional blindness describes failing to notice an unexpected visible event while attention is engaged by another task. Researchers often compare reports after participants concentrate on a specified activity.\n\nLeo’s missed visitor is compatible with that idea, but the story does not establish it. Perhaps the sightline was blocked or the arrival was unusually quiet.\n\nTo test an attention account, compare comparable arrivals while the counting demand changes and visibility stays similar. Asking people to watch specifically for visitors creates a different task from noticing an unexpected arrival.",
+    "say": "Inattentional blindness describes failing to notice an unexpected visible event while attention is engaged by another task. Researchers often compare reports after participants concentrate on a specified activity. [pause 0.65] Leo’s missed visitor is compatible with that idea, but the story does not establish it. Perhaps the sightline was blocked or the arrival was unusually quiet. [pause 0.65] To test an attention account, compare comparable arrivals while the counting demand changes and visibility stays similar. Asking people to watch specifically for visitors creates a different task from noticing an unexpected arrival."
+  },
+  {
+    "id": "c03s04",
+    "step": "Chapter 3: Switching tasks has a cost.",
+    "text": "When Sam interrupts the tool count, Leo must hold his place, answer a question and return to the counting rule. Some interruptions are helpful, but switching can carry time and error costs.\n\nExecutive control refers to processes that help maintain goals and regulate behavior. It is a family of functions, not one fixed supply that explains every lapse.\n\nA practical test might compare a quiet counting period with a scheduled interruption, while recording counting errors and visitor reports. Reducing interruptions is a hypothesis to assess, not proof that people can eliminate every attentional limit.",
+    "say": "When Sam interrupts the tool count, Leo must hold his place, answer a question and return to the counting rule. Some interruptions are helpful, but switching can carry time and error costs. [pause 0.65] Executive control refers to processes that help maintain goals and regulate behavior. It is a family of functions, not one fixed supply that explains every lapse. [pause 0.65] A practical test might compare a quiet counting period with a scheduled interruption, while recording counting errors and visitor reports. Reducing interruptions is a hypothesis to assess, not proof that people can eliminate every attentional limit."
+  },
+  {
+    "id": "c03s05",
+    "step": "Chapter 3: What does the evidence allow?",
+    "text": "Laboratory demonstrations show that substantial events can be missed under particular attention demands. The proportion missed varies with the task, event, similarity and expectations. A demonstration does not measure someone’s general care or intelligence.\n\nInterruption studies also depend on what the tasks require. Some practiced activities overlap more easily than two unfamiliar tasks drawing on the same processes. Avoid treating every pair of activities as equally demanding.",
+    "say": "Laboratory demonstrations show that substantial events can be missed under particular attention demands. The proportion missed varies with the task, event, similarity and expectations. A demonstration does not measure someone’s general care or intelligence. [pause 0.65] Interruption studies also depend on what the tasks require. Some practiced activities overlap more easily than two unfamiliar tasks drawing on the same processes. Avoid treating every pair of activities as equally demanding."
+  },
+  {
+    "id": "c03s06",
+    "step": "Chapter 3: Apply the distinction",
+    "text": "Apply the distinction in this new fictional situation.\n\nAn office wants to reduce overlooked invoice errors. No confidential records need to be exposed in a training test.\n\nHow should an office test whether notifications disrupt checking invoices?\n\nA. Compare a busy Monday with a quiet Friday.\n\nB. Ask staff whether they dislike notifications.\n\nC. Compare matched checking periods with notifications enabled or paused.\n\nChoose an option and write your reasoning before checking the feedback.",
+    "say": "Apply the distinction in this new fictional situation. [pause 0.65] An office wants to reduce overlooked invoice errors. No confidential records need to be exposed in a training test. [pause 0.65] How should an office test whether notifications disrupt checking invoices? [pause 0.65] A. Compare a busy Monday with a quiet Friday. [pause 0.65] B. Ask staff whether they dislike notifications. [pause 0.65] C. Compare matched checking periods with notifications enabled or paused. [pause 0.65] Choose an option and write your reasoning before checking the feedback. [pause 1.0]"
+  },
+  {
+    "id": "c03s06-feedback-0",
+    "step": "Chapter 3: feedback 1",
+    "text": "Day and workload differences could explain the outcome. Match the task and conditions more closely.",
+    "say": "Day and workload differences could explain the outcome. Match the task and conditions more closely. [pause 1.0]"
+  },
+  {
+    "id": "c03s06-feedback-1",
+    "step": "Chapter 3: feedback 2",
+    "text": "Preferences matter for design but do not measure the effect on checking performance.",
+    "say": "Preferences matter for design but do not measure the effect on checking performance. [pause 1.0]"
+  },
+  {
+    "id": "c03s06-feedback-2",
+    "step": "Chapter 3: feedback 3",
+    "text": "Vary notifications across comparable periods, balance task order where possible, and record errors and completion time.",
+    "say": "Vary notifications across comparable periods, balance task order where possible, and record errors and completion time. [pause 1.0]"
+  },
+  {
+    "id": "c03s07",
+    "step": "Chapter 3: Explain it without the notes",
+    "text": "Pause here and try these questions without your notes.\n\nWhy is a missed visitor not proof that Leo did not care?\n\nWhat must a fair interruption comparison keep similar?\n\nReveal the suggested answers after trying. A difficult attempt can identify what to revisit.",
+    "say": "Pause here and try these questions without your notes. [pause 0.65] Why is a missed visitor not proof that Leo did not care? [pause 0.65] What must a fair interruption comparison keep similar? [pause 0.65] Reveal the suggested answers after trying. A difficult attempt can identify what to revisit. [pause 1.0]"
+  },
+  {
+    "id": "c03s07-answers",
+    "step": "Chapter 3: suggested recall answers",
+    "text": "Task demands, visibility and expectations can contribute to a miss. The observation alone does not identify Leo’s motive.\n\nKeep the relevant task, difficulty, signal visibility and outcome definitions comparable; vary the interruption and consider order and practice.",
+    "say": "Task demands, visibility and expectations can contribute to a miss. The observation alone does not identify Leo’s motive. [pause 0.65] Keep the relevant task, difficulty, signal visibility and outcome definitions comparable; vary the interruption and consider order and practice. [pause 1.0]"
+  },
+  {
+    "id": "c03s08",
+    "step": "Chapter 3: Take the idea into everyday life",
+    "text": "Choose a low-stakes task. Record its main goal, likely distractions and one change you could compare safely. Predict an observable result before trying the change.\n\nChoose a safe, low-stakes example. Record the observation, your explanation and its limits. Come back tomorrow or in a week to try a new case without the notes.",
+    "say": "Choose a low-stakes task. Record its main goal, likely distractions and one change you could compare safely. Predict an observable result before trying the change. [pause 0.65] Choose a safe, low-stakes example. Record the observation, your explanation and its limits. Come back tomorrow or in a week to try a new case without the notes."
+  },
+  {
+    "id": "c04s01",
+    "step": "Chapter 4: Maya remembers the repair steps until another instruction arrives.",
+    "text": "Sam gives Maya several spoken instructions for testing a lamp, then adds a change to the second step. Maya loses track of where to resume. When the steps are written beside the lamp, the same repair becomes easier to follow.\n\nThe written list changes what Maya must keep active. It does not establish that her memory has permanently improved.",
+    "say": "Sam gives [Maya](/mˈaɪə/) several spoken instructions for testing a lamp, then adds a change to the second step. [Maya](/mˈaɪə/) loses track of where to resume. When the steps are written beside the lamp, the same repair becomes easier to follow. [pause 0.65] The written list changes what [Maya](/mˈaɪə/) must keep active. It does not establish that her memory has permanently improved."
+  },
+  {
+    "id": "c04s02",
+    "step": "Chapter 4: Make a first decision",
+    "text": "Before the explanation, make your own choice.\n\nWhat is the most direct first change for Maya’s task?\n\nA. Repeat the whole instruction sequence more loudly.\n\nB. Provide an ordered checklist that can be updated.\n\nC. Treat losing her place as evidence of low ability.\n\nChoose an option before checking the feedback.",
+    "say": "Before the explanation, make your own choice. [pause 0.65] What is the most direct first change for [Maya’s](/mˈaɪəz/) task? [pause 0.65] A. Repeat the whole instruction sequence more loudly. [pause 0.65] B. Provide an ordered checklist that can be updated. [pause 0.65] C. Treat losing her place as evidence of low ability. [pause 0.65] Choose an option before checking the feedback."
+  },
+  {
+    "id": "c04s02-feedback-0",
+    "step": "Chapter 4: feedback 1",
+    "text": "Louder speech helps if the signal was unclear, but does not remove the need to maintain and update several steps.",
+    "say": "Louder speech helps if the signal was unclear, but does not remove the need to maintain and update several steps."
+  },
+  {
+    "id": "c04s02-feedback-1",
+    "step": "Chapter 4: feedback 2",
+    "text": "An accurate visible sequence reduces the amount Maya must hold and shows where to resume. Test whether it helps this task.",
+    "say": "An accurate visible sequence reduces the amount [Maya](/mˈaɪə/) must hold and shows where to resume. Test whether it helps this task."
+  },
+  {
+    "id": "c04s02-feedback-2",
+    "step": "Chapter 4: feedback 3",
+    "text": "A difficult instruction sequence cannot by itself establish a general ability difference.",
+    "say": "A difficult instruction sequence cannot by itself establish a general ability difference."
+  },
+  {
+    "id": "c04s03",
+    "step": "Chapter 4: Working memory supports thinking in progress.",
+    "text": "Working memory helps keep information available while we use it. Following instructions can require holding the next step, remembering what has already happened and updating the plan.\n\nMaya’s task changes when Sam revises an earlier instruction. The difficulty is not just remembering separate words; she must maintain an ordered goal and replace part of it.\n\nWorking-memory models differ in how they describe storage and control. They agree that performance depends on the task and interference rather than unlimited short-term storage.",
+    "say": "Working memory helps keep information available while we use it. Following instructions can require holding the next step, remembering what has already happened and updating the plan. [pause 0.65] [Maya’s](/mˈaɪəz/) task changes when Sam revises an earlier instruction. The difficulty is not just remembering separate words; she must maintain an ordered goal and replace part of it. [pause 0.65] Working-memory models differ in how they describe storage and control. They agree that performance depends on the task and interference rather than unlimited short-term storage."
+  },
+  {
+    "id": "c04s03b",
+    "step": "Chapter 4: A meaningful chunk depends on knowledge.",
+    "text": "A familiar sequence such as a common postcode can be treated as one meaningful unit by someone who knows it. The same characters may be several unfamiliar elements to another person.\n\nChunking can reduce the number of units that must be held separately. It relies on learned organization; adding spaces to an arbitrary list does not guarantee a useful chunk.\n\nThere is no single number of items that describes every person and task. Estimates depend on rehearsal, prior knowledge, modality, interference and how the experiment defines an item.",
+    "say": "A familiar sequence such as a common postcode can be treated as one meaningful unit by someone who knows it. The same characters may be several unfamiliar elements to another person. [pause 0.65] Chunking can reduce the number of units that must be held separately. It relies on learned organization; adding spaces to an arbitrary list does not guarantee a useful chunk. [pause 0.65] There is no single number of items that describes every person and task. Estimates depend on rehearsal, prior knowledge, modality, interference and how the experiment defines an item."
+  },
+  {
+    "id": "c04s04",
+    "step": "Chapter 4: Move a memory demand into the environment.",
+    "text": "The written lamp checklist lets Maya inspect the next step instead of repeatedly holding the entire sequence in mind. A movable marker can show where she paused.\n\nThis is cognitive offloading: using the environment to reduce an internal information-processing demand. The aid still needs to be accurate, available and understandable. An outdated checklist can introduce new errors.\n\nCompare performance on similar tasks with and without the aid. Improvement on that task supports the usefulness of the aid; it does not show a broad increase in working-memory capacity.",
+    "say": "The written lamp checklist lets [Maya](/mˈaɪə/) inspect the next step instead of repeatedly holding the entire sequence in mind. A movable marker can show where she paused. [pause 0.65] This is cognitive offloading: using the environment to reduce an internal information-processing demand. The aid still needs to be accurate, available and understandable. An outdated checklist can introduce new errors. [pause 0.65] Compare performance on similar tasks with and without the aid. Improvement on that task supports the usefulness of the aid; it does not show a broad increase in working-memory capacity."
+  },
+  {
+    "id": "c04s05",
+    "step": "Chapter 4: What does the evidence allow?",
+    "text": "Working-memory limits are well supported, but exact capacity estimates depend on the method and assumptions. A small estimated capacity is not a diagnosis or an intelligence score.\n\nLearning a practiced task, using an external aid and changing a general cognitive capacity are different claims. Benefits from training are often strongest for trained or similar tasks; transfer to broad everyday abilities requires separate evidence.",
+    "say": "Working-memory limits are well supported, but exact capacity estimates depend on the method and assumptions. A small estimated capacity is not a diagnosis or an intelligence score. [pause 0.65] Learning a practiced task, using an external aid and changing a general cognitive capacity are different claims. Benefits from training are often strongest for trained or similar tasks; transfer to broad everyday abilities requires separate evidence."
+  },
+  {
+    "id": "c04s06",
+    "step": "Chapter 4: Apply the distinction",
+    "text": "Apply the distinction in this new fictional situation.\n\nA student’s game score rises over several practice sessions; no untrained tasks have been measured.\n\nA student improves at a practiced memory game. Which claim needs additional evidence?\n\nA. The student improved on the practiced game.\n\nB. Practice may have taught a useful strategy for that game.\n\nC. The practice improved the student’s general reasoning in daily life.\n\nChoose an option and write your reasoning before checking the feedback.",
+    "say": "Apply the distinction in this new fictional situation. [pause 0.65] A student’s game score rises over several practice sessions; no untrained tasks have been measured. [pause 0.65] A student improves at a practiced memory game. Which claim needs additional evidence? [pause 0.65] A. The student improved on the practiced game. [pause 0.65] B. Practice may have taught a useful strategy for that game. [pause 0.65] C. The practice improved the student’s general reasoning in daily life. [pause 0.65] Choose an option and write your reasoning before checking the feedback. [pause 1.0]"
+  },
+  {
+    "id": "c04s06-feedback-0",
+    "step": "Chapter 4: feedback 1",
+    "text": "Repeated comparable measurements can establish improvement on the trained task, while leaving its cause and transfer open.",
+    "say": "Repeated comparable measurements can establish improvement on the trained task, while leaving its cause and transfer open. [pause 1.0]"
+  },
+  {
+    "id": "c04s06-feedback-1",
+    "step": "Chapter 4: feedback 2",
+    "text": "A task-specific strategy is plausible and can be investigated. It does not require assuming a broad capacity change.",
+    "say": "A task-specific strategy is plausible and can be investigated. It does not require assuming a broad capacity change. [pause 1.0]"
+  },
+  {
+    "id": "c04s06-feedback-2",
+    "step": "Chapter 4: feedback 3",
+    "text": "General improvement requires suitable untrained outcomes and a comparison group. Success on the practiced game alone does not establish far transfer.",
+    "say": "General improvement requires suitable untrained outcomes and a comparison group. Success on the practiced game alone does not establish far transfer. [pause 1.0]"
+  },
+  {
+    "id": "c04s07",
+    "step": "Chapter 4: Explain it without the notes",
+    "text": "Pause here and try these questions without your notes.\n\nHow does working memory differ from a permanent store of facts?\n\nWhy can a checklist help without changing capacity?\n\nReveal the suggested answers after trying. A difficult attempt can identify what to revisit.",
+    "say": "Pause here and try these questions without your notes. [pause 0.65] How does working memory differ from a permanent store of facts? [pause 0.65] Why can a checklist help without changing capacity? [pause 0.65] Reveal the suggested answers after trying. A difficult attempt can identify what to revisit. [pause 1.0]"
+  },
+  {
+    "id": "c04s07-answers",
+    "step": "Chapter 4: suggested recall answers",
+    "text": "Working memory temporarily maintains and uses information during a task; learned facts can be stored over much longer periods.\n\nThe checklist changes what must be held internally. It can improve task performance by providing information externally.",
+    "say": "Working memory temporarily maintains and uses information during a task; learned facts can be stored over much longer periods. [pause 0.65] The checklist changes what must be held internally. It can improve task performance by providing information externally. [pause 1.0]"
+  },
+  {
+    "id": "c04s08",
+    "step": "Chapter 4: Take the idea into everyday life",
+    "text": "Redesign one harmless set of instructions into a short, accurate checklist. Identify the memory demand it removes and a mistake the checklist could still permit.\n\nChoose a safe, low-stakes example. Record the observation, your explanation and its limits. Come back tomorrow or in a week to try a new case without the notes.",
+    "say": "Redesign one harmless set of instructions into a short, accurate checklist. Identify the memory demand it removes and a mistake the checklist could still permit. [pause 0.65] Choose a safe, low-stakes example. Record the observation, your explanation and its limits. Come back tomorrow or in a week to try a new case without the notes."
+  },
+  {
+    "id": "c05s01",
+    "step": "Chapter 5: Leo recognizes every safety note. Can he explain it tomorrow?",
+    "text": "Leo rereads the café’s orientation notes until the pages feel familiar. The next morning, a visitor asks why a damaged cable should be taken out of service, and he struggles to explain. Maya had practised answering that question without the notes.\n\nRecognizing a page during study and retrieving an explanation later place different demands on memory.",
+    "say": "Leo rereads the café’s orientation notes until the pages feel familiar. The next morning, a visitor asks why a damaged cable should be taken out of service, and he struggles to explain. [Maya](/mˈaɪə/) had practised answering that question without the notes. [pause 0.65] Recognizing a page during study and retrieving an explanation later place different demands on memory."
+  },
+  {
+    "id": "c05s02",
+    "step": "Chapter 5: Make a first decision",
+    "text": "Before the explanation, make your own choice.\n\nWhich practice best matches Leo’s goal of explaining the rule tomorrow?\n\nA. Reread until every sentence feels easy.\n\nB. Highlight the most familiar phrases.\n\nC. Explain the reason without notes, then check it.\n\nChoose an option before checking the feedback.",
+    "say": "Before the explanation, make your own choice. [pause 0.65] Which practice best matches Leo’s goal of explaining the rule tomorrow? [pause 0.65] A. Reread until every sentence feels easy. [pause 0.65] B. Highlight the most familiar phrases. [pause 0.65] C. Explain the reason without notes, then check it. [pause 0.65] Choose an option before checking the feedback."
+  },
+  {
+    "id": "c05s02-feedback-0",
+    "step": "Chapter 5: feedback 1",
+    "text": "Ease while the text is visible can overestimate the ability to retrieve an explanation later.",
+    "say": "Ease while the text is visible can overestimate the ability to retrieve an explanation later."
+  },
+  {
+    "id": "c05s02-feedback-1",
+    "step": "Chapter 5: feedback 2",
+    "text": "Highlighting can organize reading, but familiarity with selected phrases does not test the intended explanation.",
+    "say": "Highlighting can organize reading, but familiarity with selected phrases does not test the intended explanation."
+  },
+  {
+    "id": "c05s02-feedback-2",
+    "step": "Chapter 5: feedback 3",
+    "text": "An unaided explanation tests the target demand, and checking it provides corrective feedback. Revisit after a delay.",
+    "say": "An unaided explanation tests the target demand, and checking it provides corrective feedback. Revisit after a delay."
+  },
+  {
+    "id": "c05s03",
+    "step": "Chapter 5: Learning must survive the later task.",
+    "text": "Encoding, storage and retrieval are useful distinctions in describing memory. A failure at test can have several sources: information may not have been learned well, retained, or accessible with the available cues.\n\nLeo’s familiar notes provide many cues. A visitor’s new wording provides fewer of those same prompts. Recognition with the page open therefore does not guarantee unaided explanation.\n\nDecide what the later task requires. If the goal is to explain a principle, practise producing an explanation rather than judging how familiar the page looks.",
+    "say": "Encoding, storage and retrieval are useful distinctions in describing memory. A failure at test can have several sources: information may not have been learned well, retained, or accessible with the available cues. [pause 0.65] Leo’s familiar notes provide many cues. A visitor’s new wording provides fewer of those same prompts. Recognition with the page open therefore does not guarantee unaided explanation. [pause 0.65] Decide what the later task requires. If the goal is to explain a principle, practise producing an explanation rather than judging how familiar the page looks."
+  },
+  {
+    "id": "c05s03b",
+    "step": "Chapter 5: Retrieve, then check what was missing.",
+    "text": "Maya closes the notes, explains the cable rule in her own words and checks what she omitted. This combines retrieval practice with feedback.\n\nResearch often finds that attempting retrieval improves later retention compared with additional study under suitable conditions. An attempt can also expose a gap that rereading hides.\n\nRetrieval is not automatically useful if errors remain uncorrected or the practice fails to address the intended skill. A memorized phrase can be recalled without understanding its application.",
+    "say": "[Maya](/mˈaɪə/) closes the notes, explains the cable rule in her own words and checks what she omitted. This combines retrieval practice with feedback. [pause 0.65] Research often finds that attempting retrieval improves later retention compared with additional study under suitable conditions. An attempt can also expose a gap that rereading hides. [pause 0.65] Retrieval is not automatically useful if errors remain uncorrected or the practice fails to address the intended skill. A memorized phrase can be recalled without understanding its application."
+  },
+  {
+    "id": "c05s04",
+    "step": "Chapter 5: Space practice and vary useful examples.",
+    "text": "Leo can revisit the safety rule after a delay instead of repeating it only in one sitting. The useful interval depends on how long he needs to retain the material.\n\nMixing relevant examples can require deciding which principle applies. That can feel harder than repeating one problem type, but may improve later discrimination in suitable tasks.\n\nSpacing and interleaving are different manipulations. Neither guarantees far transfer. To assess understanding, ask Leo to explain a new situation and identify where the original rule no longer fits.",
+    "say": "Leo can revisit the safety rule after a delay instead of repeating it only in one sitting. The useful interval depends on how long he needs to retain the material. [pause 0.65] Mixing relevant examples can require deciding which principle applies. That can feel harder than repeating one problem type, but may improve later discrimination in suitable tasks. [pause 0.65] Spacing and interleaving are different manipulations. Neither guarantees far transfer. To assess understanding, ask Leo to explain a new situation and identify where the original rule no longer fits."
+  },
+  {
+    "id": "c05s05",
+    "step": "Chapter 5: What does the evidence allow?",
+    "text": "Retrieval practice and distributed practice have broad research support, but their effects depend on material, feedback, timing and the final assessment. A laboratory average is not a promised gain for every learner.\n\nImmediate performance can improve while delayed retention remains weak. Compare methods with a meaningful delay and the same outcome. Claims about conceptual transfer need new examples, not only repetition of the study questions.",
+    "say": "Retrieval practice and distributed practice have broad research support, but their effects depend on material, feedback, timing and the final assessment. A laboratory average is not a promised gain for every learner. [pause 0.65] Immediate performance can improve while delayed retention remains weak. Compare methods with a meaningful delay and the same outcome. Claims about conceptual transfer need new examples, not only repetition of the study questions."
+  },
+  {
+    "id": "c05s06",
+    "step": "Chapter 5: Apply the distinction",
+    "text": "Apply the distinction in this new fictional situation.\n\nA class compares rereading with answering practice questions. The intended outcome is an accurate explanation one week later.\n\nWhich comparison best tests whether a study method supports durable learning?\n\nA. Compare delayed explanations after equal study time.\n\nB. Ask which method felt easiest during study.\n\nC. Count how many sentences each learner highlighted.\n\nChoose an option and write your reasoning before checking the feedback.",
+    "say": "Apply the distinction in this new fictional situation. [pause 0.65] A class compares rereading with answering practice questions. The intended outcome is an accurate explanation one week later. [pause 0.65] Which comparison best tests whether a study method supports durable learning? [pause 0.65] A. Compare delayed explanations after equal study time. [pause 0.65] B. Ask which method felt easiest during study. [pause 0.65] C. Count how many sentences each learner highlighted. [pause 0.65] Choose an option and write your reasoning before checking the feedback. [pause 1.0]"
+  },
+  {
+    "id": "c05s06-feedback-0",
+    "step": "Chapter 5: feedback 1",
+    "text": "A shared delayed outcome and comparable study time address retention more directly. Use suitable assignment and new examples if transfer is the goal.",
+    "say": "A shared delayed outcome and comparable study time address retention more directly. Use suitable assignment and new examples if transfer is the goal. [pause 1.0]"
+  },
+  {
+    "id": "c05s06-feedback-1",
+    "step": "Chapter 5: feedback 2",
+    "text": "Ease is a useful experience to record, but it is not a delayed learning measure.",
+    "say": "Ease is a useful experience to record, but it is not a delayed learning measure. [pause 1.0]"
+  },
+  {
+    "id": "c05s06-feedback-2",
+    "step": "Chapter 5: feedback 3",
+    "text": "Highlight counts measure an activity, not whether the learner can retrieve or apply the content later.",
+    "say": "Highlight counts measure an activity, not whether the learner can retrieve or apply the content later. [pause 1.0]"
+  },
+  {
+    "id": "c05s07",
+    "step": "Chapter 5: Explain it without the notes",
+    "text": "Pause here and try these questions without your notes.\n\nWhy can a familiar page produce an overly optimistic judgment?\n\nHow would you test learning beyond the original example?\n\nReveal the suggested answers after trying. A difficult attempt can identify what to revisit.",
+    "say": "Pause here and try these questions without your notes. [pause 0.65] Why can a familiar page produce an overly optimistic judgment? [pause 0.65] How would you test learning beyond the original example? [pause 0.65] Reveal the suggested answers after trying. A difficult attempt can identify what to revisit. [pause 1.0]"
+  },
+  {
+    "id": "c05s07-answers",
+    "step": "Chapter 5: suggested recall answers",
+    "text": "The visible page supplies cues and recognition. The later task may require retrieving an explanation without them.\n\nUse a relevant new example after a delay, ask for an explanation and check both the principle and its limits.",
+    "say": "The visible page supplies cues and recognition. The later task may require retrieving an explanation without them. [pause 0.65] Use a relevant new example after a delay, ask for an explanation and check both the principle and its limits. [pause 1.0]"
+  },
+  {
+    "id": "c05s08",
+    "step": "Chapter 5: Take the idea into everyday life",
+    "text": "After a useful paragraph, close it and explain its main claim from memory. Check the explanation, correct it and plan a delayed revisit. Treat difficulty as information, not a score of your worth.\n\nChoose a safe, low-stakes example. Record the observation, your explanation and its limits. Come back tomorrow or in a week to try a new case without the notes.",
+    "say": "After a useful paragraph, close it and explain its main claim from memory. Check the explanation, correct it and plan a delayed revisit. Treat difficulty as information, not a score of your worth. [pause 0.65] Choose a safe, low-stakes example. Record the observation, your explanation and its limits. Come back tomorrow or in a week to try a new case without the notes."
+  },
+  {
+    "id": "c06s01",
+    "step": "Chapter 6: Sam remembers a red case. The photo shows something else.",
+    "text": "After a busy shift, the volunteers discuss a missing tool case. Leo asks when Sam saw the red case beside the door. Sam later recalls a red case there, but a timestamped photograph shows a blue bag.\n\nSam may have combined the original scene with information introduced during the conversation. The disagreement needs checking; it does not establish that Sam deliberately lied.",
+    "say": "After a busy shift, the volunteers discuss a missing tool case. Leo asks when Sam saw the red case beside the door. Sam later recalls a red case there, but a timestamped photograph shows a blue bag. [pause 0.65] Sam may have combined the original scene with information introduced during the conversation. The disagreement needs checking; it does not establish that Sam deliberately lied."
+  },
+  {
+    "id": "c06s02",
+    "step": "Chapter 6: Make a first decision",
+    "text": "Before the explanation, make your own choice.\n\nWhich question should Leo ask first?\n\nA. What do you remember near the door?\n\nB. When did you see the red case near the door?\n\nC. Why are you sure the case was red?\n\nChoose an option before checking the feedback.",
+    "say": "Before the explanation, make your own choice. [pause 0.65] Which question should Leo ask first? [pause 0.65] A. What do you remember near the door? [pause 0.65] B. When did you see the red case near the door? [pause 0.65] C. Why are you sure the case was red? [pause 0.65] Choose an option before checking the feedback."
+  },
+  {
+    "id": "c06s02-feedback-0",
+    "step": "Chapter 6: feedback 1",
+    "text": "An open request lets Sam supply details before the question introduces a proposed color or event.",
+    "say": "An open request lets Sam supply details before the question introduces a proposed color or event."
+  },
+  {
+    "id": "c06s02-feedback-1",
+    "step": "Chapter 6: feedback 2",
+    "text": "The question supplies a color and assumes the case was seen there, potentially shaping the report.",
+    "say": "The question supplies a color and assumes the case was seen there, potentially shaping the report."
+  },
+  {
+    "id": "c06s02-feedback-2",
+    "step": "Chapter 6: feedback 3",
+    "text": "This asks for a justification after already treating the red-case description as the relevant memory.",
+    "say": "This asks for a justification after already treating the red-case description as the relevant memory."
+  },
+  {
+    "id": "c06s03",
+    "step": "Chapter 6: Remembering is a reconstruction.",
+    "text": "Memory can preserve important features while also being influenced by knowledge, goals and later information. A schema helps organize what usually happens in a situation, but can also supply a plausible detail that was not present.\n\nAt the café, a familiar tool-case story may make the later description feel natural. That feeling does not identify where the color information came from.\n\nCalling memory reconstructive does not mean all memories are false. It means confidence in a coherent account should be considered alongside its source and independent evidence.",
+    "say": "Memory can preserve important features while also being influenced by knowledge, goals and later information. A schema helps organize what usually happens in a situation, but can also supply a plausible detail that was not present. [pause 0.65] At the café, a familiar tool-case story may make the later description feel natural. That feeling does not identify where the color information came from. [pause 0.65] Calling memory reconstructive does not mean all memories are false. It means confidence in a coherent account should be considered alongside its source and independent evidence."
+  },
+  {
+    "id": "c06s03b",
+    "step": "Chapter 6: Ask where a detail came from.",
+    "text": "Source monitoring concerns how we judge whether information came from perception, imagination, conversation or another source. Those judgments can be mistaken.\n\nLeo’s question contains the color red before Sam supplies it. Later, Sam may remember the detail without correctly remembering that it was introduced in the question.\n\nBegin with an open invitation such as, “What do you remember near the door?” Record the account before discussing alternatives. An open question reduces one source of suggestion; it cannot guarantee complete accuracy.",
+    "say": "Source monitoring concerns how we judge whether information came from perception, imagination, conversation or another source. Those judgments can be mistaken. [pause 0.65] Leo’s question contains the color red before Sam supplies it. Later, Sam may remember the detail without correctly remembering that it was introduced in the question. [pause 0.65] Begin with an open invitation such as, “What do you remember near the door?” Record the account before discussing alternatives. An open question reduces one source of suggestion; it cannot guarantee complete accuracy."
+  },
+  {
+    "id": "c06s04",
+    "step": "Chapter 6: Confidence and correctness need separate evidence.",
+    "text": "An account can become easier to tell after rehearsal or discussion. Familiarity and social agreement may then increase confidence without adding independent evidence.\n\nConfidence can be informative in some well-controlled identification procedures, particularly when recorded early and without contaminating feedback. It is not a universal certificate of accuracy.\n\nFor the café case, preserve Sam’s initial wording, note Leo’s question and inspect the photo’s timing and viewpoint. The photo is also evidence with limits: it may not show every moment or location.",
+    "say": "An account can become easier to tell after rehearsal or discussion. Familiarity and social agreement may then increase confidence without adding independent evidence. [pause 0.65] Confidence can be informative in some well-controlled identification procedures, particularly when recorded early and without contaminating feedback. It is not a universal certificate of accuracy. [pause 0.65] For the café case, preserve Sam’s initial wording, note Leo’s question and inspect the photo’s timing and viewpoint. The photo is also evidence with limits: it may not show every moment or location."
+  },
+  {
+    "id": "c06s05",
+    "step": "Chapter 6: What does the evidence allow?",
+    "text": "Experiments on misleading post-event information show that later questions can influence reports of an earlier event. Effects vary with the event, delay, wording, source and test.\n\nThe café story is fictional and cannot diagnose a particular memory process. Neither a discrepancy nor confidence alone establishes deliberate deception, a false memory, or the correctness of an alternative account.",
+    "say": "Experiments on misleading post-event information show that later questions can influence reports of an earlier event. Effects vary with the event, delay, wording, source and test. [pause 0.65] The café story is fictional and cannot diagnose a particular memory process. Neither a discrepancy nor confidence alone establishes deliberate deception, a false memory, or the correctness of an alternative account."
+  },
+  {
+    "id": "c06s06",
+    "step": "Chapter 6: Apply the distinction",
+    "text": "Apply the distinction in this new fictional situation.\n\nTwo volunteers initially give separate short accounts, then discuss the event before writing a joint statement.\n\nTwo witnesses agree after discussing an event. What does the agreement establish?\n\nA. That the shared account is independently confirmed.\n\nB. That their reports converge, while their independence remains uncertain.\n\nC. That both reports were created by suggestion.\n\nChoose an option and write your reasoning before checking the feedback.",
+    "say": "Apply the distinction in this new fictional situation. [pause 0.65] Two volunteers initially give separate short accounts, then discuss the event before writing a joint statement. [pause 0.65] Two witnesses agree after discussing an event. What does the agreement establish? [pause 0.65] A. That the shared account is independently confirmed. [pause 0.65] B. That their reports converge, while their independence remains uncertain. [pause 0.65] C. That both reports were created by suggestion. [pause 0.65] Choose an option and write your reasoning before checking the feedback. [pause 1.0]"
+  },
+  {
+    "id": "c06s06-feedback-0",
+    "step": "Chapter 6: feedback 1",
+    "text": "Agreement after discussion may reflect shared post-event information; it is not necessarily independent corroboration.",
+    "say": "Agreement after discussion may reflect shared post-event information; it is not necessarily independent corroboration. [pause 1.0]"
+  },
+  {
+    "id": "c06s06-feedback-1",
+    "step": "Chapter 6: feedback 2",
+    "text": "Compare early accounts and independent records. Agreement can be genuine, influenced by discussion, or both; the discussion alone does not settle which.",
+    "say": "Compare early accounts and independent records. Agreement can be genuine, influenced by discussion, or both; the discussion alone does not settle which. [pause 1.0]"
+  },
+  {
+    "id": "c06s06-feedback-2",
+    "step": "Chapter 6: feedback 3",
+    "text": "Discussion creates a possible influence, but does not establish that the shared details are false or entirely suggested.",
+    "say": "Discussion creates a possible influence, but does not establish that the shared details are false or entirely suggested. [pause 1.0]"
+  },
+  {
+    "id": "c06s07",
+    "step": "Chapter 6: Explain it without the notes",
+    "text": "Pause here and try these questions without your notes.\n\nWhat is the difference between remembering a detail and identifying its source?\n\nWhy is a leading question a problem even if it is well intended?\n\nReveal the suggested answers after trying. A difficult attempt can identify what to revisit.",
+    "say": "Pause here and try these questions without your notes. [pause 0.65] What is the difference between remembering a detail and identifying its source? [pause 0.65] Why is a leading question a problem even if it is well intended? [pause 0.65] Reveal the suggested answers after trying. A difficult attempt can identify what to revisit. [pause 1.0]"
+  },
+  {
+    "id": "c06s07-answers",
+    "step": "Chapter 6: suggested recall answers",
+    "text": "A detail can feel familiar while its origin is misattributed. Source monitoring concerns whether it came from the event, a later suggestion or another source.\n\nA question can introduce information that changes a later report. Good intentions do not remove that influence.",
+    "say": "A detail can feel familiar while its origin is misattributed. Source monitoring concerns whether it came from the event, a later suggestion or another source. [pause 0.65] A question can introduce information that changes a later report. Good intentions do not remove that influence. [pause 1.0]"
+  },
+  {
+    "id": "c06s08",
+    "step": "Chapter 6: Take the idea into everyday life",
+    "text": "Use a harmless remembered event. Write what you recall before asking anyone else. Mark uncertain details and identify which could be checked independently; do not try to recover hidden memories.\n\nChoose a safe, low-stakes example. Record the observation, your explanation and its limits. Come back tomorrow or in a week to try a new case without the notes.",
+    "say": "Use a harmless remembered event. Write what you recall before asking anyone else. Mark uncertain details and identify which could be checked independently; do not try to recover hidden memories. [pause 0.65] Choose a safe, low-stakes example. Record the observation, your explanation and its limits. Come back tomorrow or in a week to try a new case without the notes."
+  },
+  {
+    "id": "c07s01",
+    "step": "Chapter 7: “Leave the finished repairs by the cabinet.” Which cabinet?",
+    "text": "Maya asks Sam to leave the finished repairs by the cabinet. Sam uses the cabinet near the entrance; Maya meant the one beside the workbench. Both know the meaning of every word.\n\nTheir problem is identifying the intended reference in this conversation. A short confirmation could have exposed the mismatch before anything was moved.",
+    "say": "[Maya](/mˈaɪə/) asks Sam to leave the finished repairs by the cabinet. Sam uses the cabinet near the entrance; [Maya](/mˈaɪə/) meant the one beside the workbench. Both know the meaning of every word. [pause 0.65] Their problem is identifying the intended reference in this conversation. A short confirmation could have exposed the mismatch before anything was moved."
+  },
+  {
+    "id": "c07s02",
+    "step": "Chapter 7: Make a first decision",
+    "text": "Before the explanation, make your own choice.\n\nWhich clarification most directly resolves Maya and Sam’s problem?\n\nA. Please listen more carefully next time.\n\nB. Put the repairs by the cabinet, as I said.\n\nC. Do you mean the cabinet beside the workbench?\n\nChoose an option before checking the feedback.",
+    "say": "Before the explanation, make your own choice. [pause 0.65] Which clarification most directly resolves [Maya](/mˈaɪə/) and Sam’s problem? [pause 0.65] A. Please listen more carefully next time. [pause 0.65] B. Put the repairs by the cabinet, as I said. [pause 0.65] C. Do you mean the cabinet beside the workbench? [pause 0.65] Choose an option before checking the feedback."
+  },
+  {
+    "id": "c07s02-feedback-0",
+    "step": "Chapter 7: feedback 1",
+    "text": "Blame does not identify which reference each person used.",
+    "say": "Blame does not identify which reference each person used."
+  },
+  {
+    "id": "c07s02-feedback-1",
+    "step": "Chapter 7: feedback 2",
+    "text": "The repeated sentence preserves the original ambiguity.",
+    "say": "The repeated sentence preserves the original ambiguity."
+  },
+  {
+    "id": "c07s02-feedback-2",
+    "step": "Chapter 7: feedback 3",
+    "text": "Naming a distinguishing location tests the intended reference directly and allows a correction.",
+    "say": "Naming a distinguishing location tests the intended reference directly and allows a correction."
+  },
+  {
+    "id": "c07s03",
+    "step": "Chapter 7: Words require context to become a message.",
+    "text": "Understanding a sentence involves more than recognizing its words. Syntax helps specify relationships, semantics supplies meaning, and pragmatics concerns how context shapes what a speaker intends.\n\n“The cabinet” has a familiar meaning, but there are two possible cabinets at the café. Sam and Maya rely on different assumptions about the shared situation.\n\nCommunication succeeds when the listener identifies a useful interpretation for the current purpose. The same sentence can be clear in one setting and ambiguous in another.",
+    "say": "Understanding a sentence involves more than recognizing its words. Syntax helps specify relationships, semantics supplies meaning, and pragmatics concerns how context shapes what a speaker intends. [pause 0.65] “The cabinet” has a familiar meaning, but there are two possible cabinets at the café. Sam and [Maya](/mˈaɪə/) rely on different assumptions about the shared situation. [pause 0.65] Communication succeeds when the listener identifies a useful interpretation for the current purpose. The same sentence can be clear in one setting and ambiguous in another."
+  },
+  {
+    "id": "c07s03b",
+    "step": "Chapter 7: Shared knowledge can be assumed too quickly.",
+    "text": "Maya has been working beside one cabinet all morning and assumes it is the obvious reference. Sam has just arrived through the entrance and treats the nearby cabinet as obvious.\n\nSpeakers and listeners use common ground, but can overestimate what the other person knows or has noticed. Successful reference sometimes requires updating that estimate.\n\nA useful repair is specific: “Do you mean the cabinet beside the workbench?” Repeating the original sentence more confidently leaves the same ambiguity in place.",
+    "say": "[Maya](/mˈaɪə/) has been working beside one cabinet all morning and assumes it is the obvious reference. Sam has just arrived through the entrance and treats the nearby cabinet as obvious. [pause 0.65] Speakers and listeners use common ground, but can overestimate what the other person knows or has noticed. Successful reference sometimes requires updating that estimate. [pause 0.65] A useful repair is specific: “Do you mean the cabinet beside the workbench?” Repeating the original sentence more confidently leaves the same ambiguity in place."
+  },
+  {
+    "id": "c07s04",
+    "step": "Chapter 7: Check the interpretation, not just agreement.",
+    "text": "Sam can say yes while picturing the wrong cabinet. Agreement is a conversational response, not a direct measurement of understanding.\n\nFor an important instruction, ask the listener to point to the intended location or describe the next step. Maya can then compare that interpretation with what she intended and clarify it.\n\nA comprehension check should match the task and respect the listener. It is not an intelligence test. Language familiarity, hearing conditions, fatigue and the clarity of the instruction can all affect the exchange.",
+    "say": "Sam can say yes while picturing the wrong cabinet. Agreement is a conversational response, not a direct measurement of understanding. [pause 0.65] For an important instruction, ask the listener to point to the intended location or describe the next step. [Maya](/mˈaɪə/) can then compare that interpretation with what she intended and clarify it. [pause 0.65] A comprehension check should match the task and respect the listener. It is not an intelligence test. Language familiarity, hearing conditions, fatigue and the clarity of the instruction can all affect the exchange."
+  },
+  {
+    "id": "c07s05",
+    "step": "Chapter 7: What does the evidence allow?",
+    "text": "Psycholinguistic research uses tasks such as reading, listening, naming and conversational reference to examine language processing. A result from one task does not explain every communication difficulty.\n\nLinguistic relativity concerns how language can influence aspects of thought. It does not require assuming that people are unable to think about anything their language does not name. Individual experience and task conditions matter.",
+    "say": "Psycholinguistic research uses tasks such as reading, listening, naming and conversational reference to examine language processing. A result from one task does not explain every communication difficulty. [pause 0.65] Linguistic relativity concerns how language can influence aspects of thought. It does not require assuming that people are unable to think about anything their language does not name. Individual experience and task conditions matter."
+  },
+  {
+    "id": "c07s06",
+    "step": "Chapter 7: Apply the distinction",
+    "text": "Apply the distinction in this new fictional situation.\n\nA repair café gives an unfamiliar visitor a collection location and time; two similarly named pickup points exist.\n\nWhich response best checks whether a visitor understood a collection instruction?\n\nA. Ask the visitor to describe where and when they will collect the item.\n\nB. Ask whether the visitor liked the explanation.\n\nC. Repeat the same instruction more quickly.\n\nChoose an option and write your reasoning before checking the feedback.",
+    "say": "Apply the distinction in this new fictional situation. [pause 0.65] A repair café gives an unfamiliar visitor a collection location and time; two similarly named pickup points exist. [pause 0.65] Which response best checks whether a visitor understood a collection instruction? [pause 0.65] A. Ask the visitor to describe where and when they will collect the item. [pause 0.65] B. Ask whether the visitor liked the explanation. [pause 0.65] C. Repeat the same instruction more quickly. [pause 0.65] Choose an option and write your reasoning before checking the feedback. [pause 1.0]"
+  },
+  {
+    "id": "c07s06-feedback-0",
+    "step": "Chapter 7: feedback 1",
+    "text": "Describing the next action exposes a practical misunderstanding. Clarify any mismatch respectfully.",
+    "say": "Describing the next action exposes a practical misunderstanding. Clarify any mismatch respectfully. [pause 1.0]"
+  },
+  {
+    "id": "c07s06-feedback-1",
+    "step": "Chapter 7: feedback 2",
+    "text": "Liking or agreeing with an explanation does not establish the intended interpretation.",
+    "say": "Liking or agreeing with an explanation does not establish the intended interpretation. [pause 1.0]"
+  },
+  {
+    "id": "c07s06-feedback-2",
+    "step": "Chapter 7: feedback 3",
+    "text": "Speed does not resolve ambiguity and may add processing demands.",
+    "say": "Speed does not resolve ambiguity and may add processing demands. [pause 1.0]"
+  },
+  {
+    "id": "c07s07",
+    "step": "Chapter 7: Explain it without the notes",
+    "text": "Pause here and try these questions without your notes.\n\nHow can people know the words but misunderstand an instruction?\n\nWhat makes a comprehension check useful?\n\nReveal the suggested answers after trying. A difficult attempt can identify what to revisit.",
+    "say": "Pause here and try these questions without your notes. [pause 0.65] How can people know the words but misunderstand an instruction? [pause 0.65] What makes a comprehension check useful? [pause 0.65] Reveal the suggested answers after trying. A difficult attempt can identify what to revisit. [pause 1.0]"
+  },
+  {
+    "id": "c07s07-answers",
+    "step": "Chapter 7: suggested recall answers",
+    "text": "They may assign different references or rely on different assumptions about shared context.\n\nIt elicits the interpretation needed for the task, such as a location or next action, and gives a chance to correct a mismatch.",
+    "say": "They may assign different references or rely on different assumptions about shared context. [pause 0.65] It elicits the interpretation needed for the task, such as a location or next action, and gives a chance to correct a mismatch. [pause 1.0]"
+  },
+  {
+    "id": "c07s08",
+    "step": "Chapter 7: Take the idea into everyday life",
+    "text": "Choose a routine instruction you give. Identify one ambiguous word or assumed fact, then write a brief clarification that would expose a different interpretation.\n\nChoose a safe, low-stakes example. Record the observation, your explanation and its limits. Come back tomorrow or in a week to try a new case without the notes.",
+    "say": "Choose a routine instruction you give. Identify one ambiguous word or assumed fact, then write a brief clarification that would expose a different interpretation. [pause 0.65] Choose a safe, low-stakes example. Record the observation, your explanation and its limits. Come back tomorrow or in a week to try a new case without the notes."
+  },
+  {
+    "id": "c08s01",
+    "step": "Chapter 8: Leo finds examples that fit his rule. Maya asks what would break it.",
+    "text": "Leo thinks every successful repair begins with replacing a cable. He remembers several successes and prepares to replace another cable. Maya asks whether successful repairs also occurred without cable changes.\n\nThe examples Leo selected fit his rule. They do not yet distinguish his rule from alternatives.",
+    "say": "Leo thinks every successful repair begins with replacing a cable. He remembers several successes and prepares to replace another cable. [Maya](/mˈaɪə/) asks whether successful repairs also occurred without cable changes. [pause 0.65] The examples Leo selected fit his rule. They do not yet distinguish his rule from alternatives."
+  },
+  {
+    "id": "c08s02",
+    "step": "Chapter 8: Make a first decision",
+    "text": "Before the explanation, make your own choice.\n\nWhich record would most directly challenge Leo’s claim that cable replacement is necessary?\n\nA. Another successful repair after a cable change.\n\nB. A successful repair completed without changing a cable.\n\nC. A colleague who agrees that cable faults are common.\n\nChoose an option before checking the feedback.",
+    "say": "Before the explanation, make your own choice. [pause 0.65] Which record would most directly challenge Leo’s claim that cable replacement is necessary? [pause 0.65] A. Another successful repair after a cable change. [pause 0.65] B. A successful repair completed without changing a cable. [pause 0.65] C. A colleague who agrees that cable faults are common. [pause 0.65] Choose an option before checking the feedback."
+  },
+  {
+    "id": "c08s02-feedback-0",
+    "step": "Chapter 8: feedback 1",
+    "text": "Another matching case does not distinguish necessity from a weaker association.",
+    "say": "Another matching case does not distinguish necessity from a weaker association."
+  },
+  {
+    "id": "c08s02-feedback-1",
+    "step": "Chapter 8: feedback 2",
+    "text": "A successful case without the proposed necessary step challenges that necessity claim. Check that the case and outcome are defined comparably.",
+    "say": "A successful case without the proposed necessary step challenges that necessity claim. Check that the case and outcome are defined comparably."
+  },
+  {
+    "id": "c08s02-feedback-2",
+    "step": "Chapter 8: feedback 3",
+    "text": "Agreement and prevalence do not establish that every successful repair requires that step.",
+    "say": "Agreement and prevalence do not establish that every successful repair requires that step."
+  },
+  {
+    "id": "c08s03",
+    "step": "Chapter 8: A category helps organize, but can conceal variation.",
+    "text": "Categories let us use prior knowledge when encountering a new object or problem. People can draw on typical features, remembered examples or explicit rules, depending on the task.\n\nA familiar broken cable may become Leo’s typical repair problem. That makes similar cases easy to recognize, but can draw attention away from a fault with a different cause.\n\nA typical example is not a definition of every member. Check which features are actually relevant to the decision rather than relying only on resemblance.",
+    "say": "Categories let us use prior knowledge when encountering a new object or problem. People can draw on typical features, remembered examples or explicit rules, depending on the task. [pause 0.65] A familiar broken cable may become Leo’s typical repair problem. That makes similar cases easy to recognize, but can draw attention away from a fault with a different cause. [pause 0.65] A typical example is not a definition of every member. Check which features are actually relevant to the decision rather than relying only on resemblance."
+  },
+  {
+    "id": "c08s03b",
+    "step": "Chapter 8: A useful test separates competing accounts.",
+    "text": "Leo’s successful cable replacements are compatible with his rule, but other rules could predict the same examples. Perhaps inspection, rather than cable replacement, is the useful common step.\n\nA discriminating test looks for a case where the accounts make different predictions. A repair completed successfully without replacing a cable would challenge the claim that replacement is necessary.\n\nTesting should be safe and ethically appropriate. Do not create a dangerous failure merely to challenge an idea. Records or a low-risk simulation may provide the needed comparison.",
+    "say": "Leo’s successful cable replacements are compatible with his rule, but other rules could predict the same examples. Perhaps inspection, rather than cable replacement, is the useful common step. [pause 0.65] A discriminating test looks for a case where the accounts make different predictions. A repair completed successfully without replacing a cable would challenge the claim that replacement is necessary. [pause 0.65] Testing should be safe and ethically appropriate. Do not create a dangerous failure merely to challenge an idea. Records or a low-risk simulation may provide the needed comparison."
+  },
+  {
+    "id": "c08s04",
+    "step": "Chapter 8: Change the representation of the problem.",
+    "text": "If Leo represents the task as “Which cable should I replace?” he has already restricted the possible solution. Representing it as “What prevents this device from working?” leaves other causes open.\n\nFunctional fixedness can make an object’s familiar use dominate possible alternatives. Reframing a goal, drawing relationships or listing constraints may reveal another route.\n\nAn insight can feel sudden even when prior attempts contributed. A successful trick on one puzzle does not establish a general method for every complex problem.",
+    "say": "If Leo represents the task as “Which cable should I replace?” he has already restricted the possible solution. Representing it as “What prevents this device from working?” leaves other causes open. [pause 0.65] Functional fixedness can make an object’s familiar use dominate possible alternatives. Reframing a goal, drawing relationships or listing constraints may reveal another route. [pause 0.65] An insight can feel sudden even when prior attempts contributed. A successful trick on one puzzle does not establish a general method for every complex problem."
+  },
+  {
+    "id": "c08s05",
+    "step": "Chapter 8: What does the evidence allow?",
+    "text": "Reasoning tasks show that people often test favored rules in ways that provide limited discrimination. The pattern depends on instructions, content, goals and what alternatives are available.\n\nConfirmation bias is a family of related tendencies, not a diagnosis from one answer. A fair evaluation asks which hypotheses were considered and whether the proposed evidence would actually distinguish them.",
+    "say": "Reasoning tasks show that people often test favored rules in ways that provide limited discrimination. The pattern depends on instructions, content, goals and what alternatives are available. [pause 0.65] Confirmation bias is a family of related tendencies, not a diagnosis from one answer. A fair evaluation asks which hypotheses were considered and whether the proposed evidence would actually distinguish them."
+  },
+  {
+    "id": "c08s06",
+    "step": "Chapter 8: Apply the distinction",
+    "text": "Apply the distinction in this new fictional situation.\n\nThe claim is about necessity, not whether reminders sometimes help. The library has ordinary return records and no sensitive borrower details need to be shared.\n\nA library thinks reminder calls are necessary for returned books. Which observation most directly tests necessity?\n\nA. Readers say they appreciate reminders.\n\nB. Several books return after calls.\n\nC. Some comparable books return without reminder calls.\n\nChoose an option and write your reasoning before checking the feedback.",
+    "say": "Apply the distinction in this new fictional situation. [pause 0.65] The claim is about necessity, not whether reminders sometimes help. The library has ordinary return records and no sensitive borrower details need to be shared. [pause 0.65] A library thinks reminder calls are necessary for returned books. Which observation most directly tests necessity? [pause 0.65] A. Readers say they appreciate reminders. [pause 0.65] B. Several books return after calls. [pause 0.65] C. Some comparable books return without reminder calls. [pause 0.65] Choose an option and write your reasoning before checking the feedback. [pause 1.0]"
+  },
+  {
+    "id": "c08s06-feedback-0",
+    "step": "Chapter 8: feedback 1",
+    "text": "Appreciation does not determine whether the call is necessary for return.",
+    "say": "Appreciation does not determine whether the call is necessary for return. [pause 1.0]"
+  },
+  {
+    "id": "c08s06-feedback-1",
+    "step": "Chapter 8: feedback 2",
+    "text": "Returns after calls fit several explanations, including return without a call.",
+    "say": "Returns after calls fit several explanations, including return without a call. [pause 1.0]"
+  },
+  {
+    "id": "c08s06-feedback-2",
+    "step": "Chapter 8: feedback 3",
+    "text": "A comparable return without a call challenges a claim of necessity, though it does not show that calls have no useful effect.",
+    "say": "A comparable return without a call challenges a claim of necessity, though it does not show that calls have no useful effect. [pause 1.0]"
+  },
+  {
+    "id": "c08s07",
+    "step": "Chapter 8: Explain it without the notes",
+    "text": "Pause here and try these questions without your notes.\n\nWhy are several matching examples insufficient to establish a rule?\n\nHow can a problem’s wording restrict possible solutions?\n\nReveal the suggested answers after trying. A difficult attempt can identify what to revisit.",
+    "say": "Pause here and try these questions without your notes. [pause 0.65] Why are several matching examples insufficient to establish a rule? [pause 0.65] How can a problem’s wording restrict possible solutions? [pause 0.65] Reveal the suggested answers after trying. A difficult attempt can identify what to revisit. [pause 1.0]"
+  },
+  {
+    "id": "c08s07-answers",
+    "step": "Chapter 8: suggested recall answers",
+    "text": "Alternative rules may predict the same examples. A useful test identifies a case where their predictions differ.\n\nThe wording can assume a cause or solution in advance. Restating the goal and constraints can reopen relevant possibilities.",
+    "say": "Alternative rules may predict the same examples. A useful test identifies a case where their predictions differ. [pause 0.65] The wording can assume a cause or solution in advance. Restating the goal and constraints can reopen relevant possibilities. [pause 1.0]"
+  },
+  {
+    "id": "c08s08",
+    "step": "Chapter 8: Take the idea into everyday life",
+    "text": "Choose a low-stakes rule you use. State a plausible alternative, identify a case where their predictions differ and write what result would change your view.\n\nChoose a safe, low-stakes example. Record the observation, your explanation and its limits. Come back tomorrow or in a week to try a new case without the notes.",
+    "say": "Choose a low-stakes rule you use. State a plausible alternative, identify a case where their predictions differ and write what result would change your view. [pause 0.65] Choose a safe, low-stakes example. Record the observation, your explanation and its limits. Come back tomorrow or in a week to try a new case without the notes."
+  },
+  {
+    "id": "c09s01",
+    "step": "Chapter 9: One dramatic battery failure changes everyone’s estimate.",
+    "text": "After a battery overheats at the café, Leo starts to think battery faults are the main cause of broken radios. The incident is vivid and easy to recall. Maya asks how many radios they assessed and how many had each kind of fault.\n\nThe striking example is relevant to safety. It is not, by itself, a frequency estimate.",
+    "say": "After a battery overheats at the café, Leo starts to think battery faults are the main cause of broken radios. The incident is vivid and easy to recall. [Maya](/mˈaɪə/) asks how many radios they assessed and how many had each kind of fault. [pause 0.65] The striking example is relevant to safety. It is not, by itself, a frequency estimate."
+  },
+  {
+    "id": "c09s02",
+    "step": "Chapter 9: Make a first decision",
+    "text": "Before the explanation, make your own choice.\n\nWhat does Leo need to estimate the proportion of battery faults?\n\nA. A record of all comparable assessed radios and their fault categories.\n\nB. More detailed descriptions of the dramatic battery failure.\n\nC. A vote on which fault feels most common.\n\nChoose an option before checking the feedback.",
+    "say": "Before the explanation, make your own choice. [pause 0.65] What does Leo need to estimate the proportion of battery faults? [pause 0.65] A. A record of all comparable assessed radios and their fault categories. [pause 0.65] B. More detailed descriptions of the dramatic battery failure. [pause 0.65] C. A vote on which fault feels most common. [pause 0.65] Choose an option before checking the feedback."
+  },
+  {
+    "id": "c09s02-feedback-0",
+    "step": "Chapter 9: feedback 1",
+    "text": "A defined reference group and complete fault counts supply the numerator and denominator needed for a rate.",
+    "say": "A defined reference group and complete fault counts supply the numerator and denominator needed for a rate."
+  },
+  {
+    "id": "c09s02-feedback-1",
+    "step": "Chapter 9: feedback 2",
+    "text": "Detail can clarify severity and causes in that case, but does not supply the missing denominator.",
+    "say": "Detail can clarify severity and causes in that case, but does not supply the missing denominator."
+  },
+  {
+    "id": "c09s02-feedback-2",
+    "step": "Chapter 9: feedback 3",
+    "text": "A shared impression may reflect shared exposure to a vivid event rather than its actual frequency.",
+    "say": "A shared impression may reflect shared exposure to a vivid event rather than its actual frequency."
+  },
+  {
+    "id": "c09s03",
+    "step": "Chapter 9: Ease of recall is not a denominator.",
+    "text": "An availability heuristic uses how easily examples come to mind as a cue in judgment. That can be useful when recall tracks experience, but vividness, recency and publicity also affect recall.\n\nLeo can remember the overheating battery immediately. To estimate how common battery faults are, he needs a defined set of comparable assessments and a count of all relevant outcomes.\n\nA base rate describes a reference group. Choosing the wrong group can mislead even when the arithmetic is correct. Safety severity and frequency are also different questions.",
+    "say": "An availability heuristic uses how easily examples come to mind as a cue in judgment. That can be useful when recall tracks experience, but vividness, recency and publicity also affect recall. [pause 0.65] Leo can remember the overheating battery immediately. To estimate how common battery faults are, he needs a defined set of comparable assessments and a count of all relevant outcomes. [pause 0.65] A base rate describes a reference group. Choosing the wrong group can mislead even when the arithmetic is correct. Safety severity and frequency are also different questions."
+  },
+  {
+    "id": "c09s03b",
+    "step": "Chapter 9: A positive signal is not a certain conclusion.",
+    "text": "Consider an invented screening example with one hundred devices. Ten have a fault. A test flags eight of those ten and also flags nine of the ninety devices without the fault.\n\nSeventeen devices test positive, but only eight of those seventeen have the fault. The test’s ability to detect a fault is not the same as the chance that a positive device is faulty.\n\nNatural frequencies keep the relevant groups visible. These numbers are fictional teaching values, not diagnostic advice or a claim about an actual repair test.",
+    "say": "Consider an invented screening example with one hundred devices. Ten have a fault. A test flags eight of those ten and also flags nine of the ninety devices without the fault. [pause 0.65] Seventeen devices test positive, but only eight of those seventeen have the fault. The test’s ability to detect a fault is not the same as the chance that a positive device is faulty. [pause 0.65] Natural frequencies keep the relevant groups visible. These numbers are fictional teaching values, not diagnostic advice or a claim about an actual repair test."
+  },
+  {
+    "id": "c09s04",
+    "step": "Chapter 9: Compare equivalent descriptions.",
+    "text": "A service can describe two failures in one hundred repairs as a two-percent failure rate or a ninety-eight-percent success rate. The descriptions emphasize different outcomes but refer to the same counts.\n\nA fall from four failures to two per hundred is a reduction of two percentage points and a relative reduction of fifty percent. The starting rate and shared denominator are essential.\n\nA considered decision also needs the seriousness, costs and alternatives. Equivalent arithmetic does not settle what outcome a person should value most.",
+    "say": "A service can describe two failures in one hundred repairs as a two-percent failure rate or a ninety-eight-percent success rate. The descriptions emphasize different outcomes but refer to the same counts. [pause 0.65] A fall from four failures to two per hundred is a reduction of two percentage points and a relative reduction of fifty percent. The starting rate and shared denominator are essential. [pause 0.65] A considered decision also needs the seriousness, costs and alternatives. Equivalent arithmetic does not settle what outcome a person should value most."
+  },
+  {
+    "id": "c09s05",
+    "step": "Chapter 9: What does the evidence allow?",
+    "text": "Judgment research identifies predictable influences of availability, framing and prior probabilities in specified tasks. A shortcut can be efficient or poorly suited to a problem; labeling it does not determine the correct decision.\n\nThe device-screening counts are invented to illustrate conditional probability. The uncertainty of real tests, the population sampled and the costs of different errors require additional evidence.",
+    "say": "Judgment research identifies predictable influences of availability, framing and prior probabilities in specified tasks. A shortcut can be efficient or poorly suited to a problem; labeling it does not determine the correct decision. [pause 0.65] The device-screening counts are invented to illustrate conditional probability. The uncertainty of real tests, the population sampled and the costs of different errors require additional evidence."
+  },
+  {
+    "id": "c09s06",
+    "step": "Chapter 9: Apply the distinction",
+    "text": "Apply the distinction in this new fictional situation.\n\nInvented counts: one hundred devices; ten faulty; eight true positives; nine false positives. These are teaching numbers, not results from a real test.\n\nIn the invented screening example, which group answers “How often is a positive result a real fault?”\n\nA. The eight real faults among ten faulty devices.\n\nB. The eight real faults among seventeen positive devices.\n\nC. The nine false alarms among ninety devices without a fault.\n\nChoose an option and write your reasoning before checking the feedback.",
+    "say": "Apply the distinction in this new fictional situation. [pause 0.65] Invented counts: one hundred devices; ten faulty; eight true positives; nine false positives. These are teaching numbers, not results from a real test. [pause 0.65] In the invented screening example, which group answers “How often is a positive result a real fault?” [pause 0.65] A. The eight real faults among ten faulty devices. [pause 0.65] B. The eight real faults among seventeen positive devices. [pause 0.65] C. The nine false alarms among ninety devices without a fault. [pause 0.65] Choose an option and write your reasoning before checking the feedback. [pause 1.0]"
+  },
+  {
+    "id": "c09s06-feedback-0",
+    "step": "Chapter 9: feedback 1",
+    "text": "This estimates how often the test detects an existing fault, not what a positive result means.",
+    "say": "This estimates how often the test detects an existing fault, not what a positive result means. [pause 1.0]"
+  },
+  {
+    "id": "c09s06-feedback-1",
+    "step": "Chapter 9: feedback 2",
+    "text": "The question conditions on a positive result. Eight of the seventeen positives are real faults in this invented group.",
+    "say": "The question conditions on a positive result. Eight of the seventeen positives are real faults in this invented group. [pause 1.0]"
+  },
+  {
+    "id": "c09s06-feedback-2",
+    "step": "Chapter 9: feedback 3",
+    "text": "This estimates the false-positive rate among devices without a fault, which is a different conditional probability.",
+    "say": "This estimates the false-positive rate among devices without a fault, which is a different conditional probability. [pause 1.0]"
+  },
+  {
+    "id": "c09s07",
+    "step": "Chapter 9: Explain it without the notes",
+    "text": "Pause here and try these questions without your notes.\n\nWhy does a memorable incident not supply a frequency?\n\nHow do a fifty-percent relative reduction and two percentage points describe the same example?\n\nReveal the suggested answers after trying. A difficult attempt can identify what to revisit.",
+    "say": "Pause here and try these questions without your notes. [pause 0.65] Why does a memorable incident not supply a frequency? [pause 0.65] How do a fifty-percent relative reduction and two percentage points describe the same example? [pause 0.65] Reveal the suggested answers after trying. A difficult attempt can identify what to revisit. [pause 1.0]"
+  },
+  {
+    "id": "c09s07-answers",
+    "step": "Chapter 9: suggested recall answers",
+    "text": "Frequency requires counts over all comparable cases. Recall ease also depends on recency and vividness.\n\nA rate falling from four to two per hundred drops two percentage points; the drop is half of the original four-percent rate.",
+    "say": "Frequency requires counts over all comparable cases. Recall ease also depends on recency and vividness. [pause 0.65] A rate falling from four to two per hundred drops two percentage points; the drop is half of the original four-percent rate. [pause 1.0]"
+  },
+  {
+    "id": "c09s08",
+    "step": "Chapter 9: Take the idea into everyday life",
+    "text": "Find a harmless numerical claim in public information. Identify its reference group, denominator, absolute outcomes and any missing uncertainty before interpreting the headline.\n\nChoose a safe, low-stakes example. Record the observation, your explanation and its limits. Come back tomorrow or in a week to try a new case without the notes.",
+    "say": "Find a harmless numerical claim in public information. Identify its reference group, denominator, absolute outcomes and any missing uncertainty before interpreting the headline. [pause 0.65] Choose a safe, low-stakes example. Record the observation, your explanation and its limits. Come back tomorrow or in a week to try a new case without the notes."
+  },
+  {
+    "id": "c10s01",
+    "step": "Chapter 10: Maya feels less certain. Her explanation is more accurate.",
+    "text": "Before an orientation session, Leo feels sure he knows every procedure because the notes look familiar. Maya has just tried explaining several procedures without notes and discovered gaps. She feels less fluent, but can now correct specific mistakes.\n\nThe team needs a way to compare confidence with what each person can actually explain.",
+    "say": "Before an orientation session, Leo feels sure he knows every procedure because the notes look familiar. [Maya](/mˈaɪə/) has just tried explaining several procedures without notes and discovered gaps. She feels less fluent, but can now correct specific mistakes. [pause 0.65] The team needs a way to compare confidence with what each person can actually explain."
+  },
+  {
+    "id": "c10s02",
+    "step": "Chapter 10: Make a first decision",
+    "text": "Before the explanation, make your own choice.\n\nWhat would best help Leo identify whether his confidence matches his understanding?\n\nA. Rate how familiar the notes feel while reading them.\n\nB. Ask Maya to reassure him that he is prepared.\n\nC. Predict performance, explain without notes, then compare with a reference.\n\nChoose an option before checking the feedback.",
+    "say": "Before the explanation, make your own choice. [pause 0.65] What would best help Leo identify whether his confidence matches his understanding? [pause 0.65] A. Rate how familiar the notes feel while reading them. [pause 0.65] B. Ask [Maya](/mˈaɪə/) to reassure him that he is prepared. [pause 0.65] C. Predict performance, explain without notes, then compare with a reference. [pause 0.65] Choose an option before checking the feedback."
+  },
+  {
+    "id": "c10s02-feedback-0",
+    "step": "Chapter 10: feedback 1",
+    "text": "Familiarity is one cue, but does not independently test the intended explanation.",
+    "say": "Familiarity is one cue, but does not independently test the intended explanation."
+  },
+  {
+    "id": "c10s02-feedback-1",
+    "step": "Chapter 10: feedback 2",
+    "text": "Reassurance can support motivation, but does not measure whether the explanation is accurate.",
+    "say": "Reassurance can support motivation, but does not measure whether the explanation is accurate."
+  },
+  {
+    "id": "c10s02-feedback-2",
+    "step": "Chapter 10: feedback 3",
+    "text": "A prediction and an independent performance check make a confidence–accuracy comparison possible. Use multiple appropriate tasks before generalizing.",
+    "say": "A prediction and an independent performance check make a confidence–accuracy comparison possible. Use multiple appropriate tasks before generalizing."
+  },
+  {
+    "id": "c10s03",
+    "step": "Chapter 10: Monitor a judgment, then control the next step.",
+    "text": "Metacognition concerns how people monitor and regulate their own cognitive activity. A feeling of knowing can guide a decision to study, answer or seek help.\n\nMonitoring can be informative, but it relies on cues that sometimes mislead. Familiar wording may feel like understanding even when a person cannot explain the principle independently.\n\nCalibration compares confidence with actual performance across suitable judgments. It cannot be inferred from whether one answer sounds modest or certain.",
+    "say": "Metacognition concerns how people monitor and regulate their own cognitive activity. A feeling of knowing can guide a decision to study, answer or seek help. [pause 0.65] Monitoring can be informative, but it relies on cues that sometimes mislead. Familiar wording may feel like understanding even when a person cannot explain the principle independently. [pause 0.65] Calibration compares confidence with actual performance across suitable judgments. It cannot be inferred from whether one answer sounds modest or certain."
+  },
+  {
+    "id": "c10s03b",
+    "step": "Chapter 10: Use a check that supplies new evidence.",
+    "text": "Leo can predict how well he will explain a procedure, close the notes and answer a practical question after a delay. Then he can compare the explanation with an accurate reference.\n\nA new example tests whether he can select and apply the relevant principle rather than repeat familiar wording. A useful feedback record distinguishes factual errors, missing reasons and unjustified certainty.\n\nOne mismatch is information about that task. Several comparable judgments are needed before describing a stable calibration pattern.",
+    "say": "Leo can predict how well he will explain a procedure, close the notes and answer a practical question after a delay. Then he can compare the explanation with an accurate reference. [pause 0.65] A new example tests whether he can select and apply the relevant principle rather than repeat familiar wording. A useful feedback record distinguishes factual errors, missing reasons and unjustified certainty. [pause 0.65] One mismatch is information about that task. Several comparable judgments are needed before describing a stable calibration pattern."
+  },
+  {
+    "id": "c10s04",
+    "step": "Chapter 10: Combine the course without explaining everything at once.",
+    "text": "Return to the café: a person misses a visitor, forgets a step or misreads an instruction. The course offers possible processes, not automatic labels for the cause.\n\nBegin with the task and observation. Consider attention, memory, language, prior knowledge or decision strategy where they generate different predictions. Choose a respectful and safe comparison that could distinguish them.\n\nKeep any conclusion proportional to the evidence. A useful explanation specifies what it predicts, what remains uncertain and what additional information would change it.",
+    "say": "Return to the café: a person misses a visitor, forgets a step or misreads an instruction. The course offers possible processes, not automatic labels for the cause. [pause 0.65] Begin with the task and observation. Consider attention, memory, language, prior knowledge or decision strategy where they generate different predictions. Choose a respectful and safe comparison that could distinguish them. [pause 0.65] Keep any conclusion proportional to the evidence. A useful explanation specifies what it predicts, what remains uncertain and what additional information would change it."
+  },
+  {
+    "id": "c10s05",
+    "step": "Chapter 10: What does the evidence allow?",
+    "text": "Metacognitive accuracy varies with the task, feedback and the cues available when people judge. Familiarity and confidence can sometimes be useful and sometimes misleading.\n\nThe course’s exercises provide practice in explanation and evidence checking. Completing pages or reporting confidence is not proof of mastery, a general reasoning gain or effective transfer to every setting. A delayed new case provides a more informative next check.",
+    "say": "Metacognitive accuracy varies with the task, feedback and the cues available when people judge. Familiarity and confidence can sometimes be useful and sometimes misleading. [pause 0.65] The course’s exercises provide practice in explanation and evidence checking. Completing pages or reporting confidence is not proof of mastery, a general reasoning gain or effective transfer to every setting. A delayed new case provides a more informative next check."
+  },
+  {
+    "id": "c10s06",
+    "step": "Chapter 10: Apply the distinction",
+    "text": "Apply the distinction in this new fictional situation.\n\nA learner revisits the course one week later and writes an explanation of an unfamiliar everyday problem.\n\nAfter a delayed new case, what would be the strongest evidence of useful learning?\n\nA. A more accurate explanation that distinguishes alternatives and states its limits.\n\nB. A higher confidence rating with no comparison of the written answer.\n\nC. Remembering the chapter titles in their original order.\n\nChoose an option and write your reasoning before checking the feedback.",
+    "say": "Apply the distinction in this new fictional situation. [pause 0.65] A learner revisits the course one week later and writes an explanation of an unfamiliar everyday problem. [pause 0.65] After a delayed new case, what would be the strongest evidence of useful learning? [pause 0.65] A. A more accurate explanation that distinguishes alternatives and states its limits. [pause 0.65] B. A higher confidence rating with no comparison of the written answer. [pause 0.65] C. Remembering the chapter titles in their original order. [pause 0.65] Choose an option and write your reasoning before checking the feedback. [pause 1.0]"
+  },
+  {
+    "id": "c10s06-feedback-0",
+    "step": "Chapter 10: feedback 1",
+    "text": "An explanation that applies relevant distinctions and evaluates evidence addresses the course’s intended skill. It still does not certify all real-world transfer.",
+    "say": "An explanation that applies relevant distinctions and evaluates evidence addresses the course’s intended skill. It still does not certify all real-world transfer. [pause 1.0]"
+  },
+  {
+    "id": "c10s06-feedback-1",
+    "step": "Chapter 10: feedback 2",
+    "text": "Confidence without an outcome cannot establish improved accuracy or calibration.",
+    "say": "Confidence without an outcome cannot establish improved accuracy or calibration. [pause 1.0]"
+  },
+  {
+    "id": "c10s06-feedback-2",
+    "step": "Chapter 10: feedback 3",
+    "text": "Title recall may show memory for labels but does not test explanation or evidence evaluation.",
+    "say": "Title recall may show memory for labels but does not test explanation or evidence evaluation. [pause 1.0]"
+  },
+  {
+    "id": "c10s07",
+    "step": "Chapter 10: Explain it without the notes",
+    "text": "Pause here and try these questions without your notes.\n\nWhat are the monitoring and control parts of metacognition?\n\nWhat makes a new case a stronger check than a familiar page?\n\nReveal the suggested answers after trying. A difficult attempt can identify what to revisit.",
+    "say": "Pause here and try these questions without your notes. [pause 0.65] What are the monitoring and control parts of metacognition? [pause 0.65] What makes a new case a stronger check than a familiar page? [pause 0.65] Reveal the suggested answers after trying. A difficult attempt can identify what to revisit. [pause 1.0]"
+  },
+  {
+    "id": "c10s07-answers",
+    "step": "Chapter 10: suggested recall answers",
+    "text": "Monitoring judges what is known or uncertain; control uses those judgments to choose actions such as retrieval, study or seeking evidence.\n\nA new case requires selecting and applying an idea without the original cues. Check the reasoning and limitations, not confidence alone.",
+    "say": "Monitoring judges what is known or uncertain; control uses those judgments to choose actions such as retrieval, study or seeking evidence. [pause 0.65] A new case requires selecting and applying an idea without the original cues. Check the reasoning and limitations, not confidence alone. [pause 1.0]"
+  },
+  {
+    "id": "c10s08",
+    "step": "Chapter 10: Take the idea into everyday life",
+    "text": "Return tomorrow to one earlier question without your notes. Predict your performance, write an answer, then check it. Repeat next week with a new example and record what changed.\n\nChoose a safe, low-stakes example. Record the observation, your explanation and its limits. Come back tomorrow or in a week to try a new case without the notes.",
+    "say": "Return tomorrow to one earlier question without your notes. Predict your performance, write an answer, then check it. Repeat next week with a new example and record what changed. [pause 0.65] Choose a safe, low-stakes example. Record the observation, your explanation and its limits. Come back tomorrow or in a week to try a new case without the notes."
+  }
+]

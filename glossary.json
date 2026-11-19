@@ -1,0 +1,79 @@
+{
+  "1": {
+    "Cognition": "Processes involved in acquiring, representing and using information.",
+    "Response time": "Time between a defined event and a measured response.",
+    "Speed–accuracy trade-off": "A change in response strategy in which increased speed can come with reduced accuracy.",
+    "Controlled experiment": "A study that manipulates a proposed cause while controlling relevant conditions.",
+    "Random assignment": "Allocation of participants or trials to conditions by chance.",
+    "Converging evidence": "Findings from different suitable measures or methods that support the same explanation."
+  },
+  "2": {
+    "Sensation": "Detection of physical stimulation by sensory systems.",
+    "Perception": "Organization and interpretation of sensory information.",
+    "Bottom-up processing": "Processing guided by features of the sensory input.",
+    "Top-down processing": "Processing influenced by knowledge, expectations or goals.",
+    "Sensitivity": "Ability to distinguish signal from noise under specified conditions.",
+    "Decision criterion": "The threshold used to decide whether to report a signal.",
+    "False alarm": "Reporting a signal when it is absent.",
+    "Miss": "Failing to report a signal when it is present."
+  },
+  "3": {
+    "Selective attention": "Prioritizing some information over competing information for further processing.",
+    "Inattentional blindness": "Failure to notice a visible, unexpected event when attention is engaged by another task.",
+    "Task switching": "Changing between task goals or rules.",
+    "Switch cost": "A measured slowing or increase in errors associated with switching tasks.",
+    "Executive control": "Processes involved in maintaining goals and regulating thought and action."
+  },
+  "4": {
+    "Working memory": "Processes that temporarily maintain and use information in an ongoing task.",
+    "Chunking": "Organizing separate elements into meaningful units using learned knowledge.",
+    "Interference": "Disruption of information processing by competing material or tasks.",
+    "Cognitive offloading": "Using an external action or aid to reduce an internal information-processing demand.",
+    "Transfer": "Application or benefit of learning in a different task or setting."
+  },
+  "5": {
+    "Encoding": "Processing through which information becomes represented in memory.",
+    "Retrieval": "Accessing information from memory for use.",
+    "Retrieval practice": "Attempting to recall information as part of learning.",
+    "Spacing": "Distributing learning opportunities across time.",
+    "Interleaving": "Mixing relevant categories or problem types during practice.",
+    "Cue": "Information that can help make a memory accessible."
+  },
+  "6": {
+    "Reconstructive memory": "Remembering as an active reconstruction using stored information, knowledge and current cues.",
+    "Schema": "Organized knowledge about a familiar category or situation.",
+    "Source monitoring": "Judging the origin of information or a memory.",
+    "Misinformation effect": "Influence of misleading post-event information on a later memory report.",
+    "Confidence": "A person’s subjective certainty about a judgment or memory."
+  },
+  "7": {
+    "Syntax": "Patterns governing how words and phrases combine.",
+    "Semantics": "Conventional meaning in language.",
+    "Pragmatics": "How context and communicative goals shape interpretation.",
+    "Common ground": "Information speakers and listeners treat as shared in an exchange.",
+    "Ambiguity": "Availability of more than one plausible interpretation.",
+    "Linguistic relativity": "The proposal that language can influence aspects of thought, without necessarily determining all thought."
+  },
+  "8": {
+    "Category": "A grouping used to organize objects, events or concepts.",
+    "Prototype": "A typical or representative example of a category.",
+    "Exemplar": "A particular remembered member of a category.",
+    "Hypothesis": "A proposed account or rule that can be examined against evidence.",
+    "Confirmation bias": "A tendency to seek, interpret or remember evidence in ways favorable to an existing account.",
+    "Functional fixedness": "Difficulty considering uses of an object beyond its familiar function."
+  },
+  "9": {
+    "Availability heuristic": "Using the ease with which examples come to mind as a cue in judgment.",
+    "Base rate": "Frequency of a condition in a relevant reference group.",
+    "False positive": "A positive test result when the target condition is absent.",
+    "Natural frequencies": "Counts of cases within a defined group that preserve the relevant subsets.",
+    "Framing": "Influence associated with describing equivalent outcomes in different ways.",
+    "Percentage points": "The arithmetic difference between two percentages."
+  },
+  "10": {
+    "Metacognition": "Monitoring and regulation of one’s own cognitive activity.",
+    "Monitoring": "Judging the state of one’s knowledge, performance or uncertainty.",
+    "Calibration": "Agreement between confidence judgments and actual performance across suitable tasks.",
+    "Feedback": "Information about performance that can guide correction or a change in strategy."
+  }
+}

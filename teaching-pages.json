@@ -1,0 +1,1679 @@
+{
+  "1": [
+    {
+      "id": "c01s03",
+      "kind": "concept",
+      "title": "Cognition leaves clues, not a direct recording.",
+      "points": [
+        "Cognition: acquiring, representing and using information.",
+        "Behavior: an observable response, such as a choice.",
+        "Model: an explanation that makes testable predictions.",
+        "Inference: a process proposed from evidence."
+      ],
+      "text": "Cognitive psychology studies processes such as attention, memory, language and reasoning. Researchers infer these processes from patterns of behavior and other measurements.\n\nMaya’s repair is an observation. A claim about her memory adds an explanation. The same action could follow several different processes.\n\nA useful model predicts what should change when a relevant condition changes. An attractive story about a mind becomes a stronger explanation when its predictions survive tests.",
+      "stage": "Explanation",
+      "research": {
+        "sections": [
+          {
+            "heading": "What the evidence addresses",
+            "text": "The original memory-scanning experiments related response-time patterns to the number of items held in memory. Their interpretation depends on task design and processing assumptions; speed is not a direct image of a mental operation."
+          },
+          {
+            "heading": "What this example can show",
+            "text": "The café and transfer cases are original fictional examples. They illustrate distinctions, not observations from the cited research. A useful model predicts what should change when a relevant condition changes. An attractive story about a mind becomes a stronger explanation when its predictions survive tests."
+          },
+          {
+            "heading": "Scope and limitations",
+            "text": "A within-person comparison can reduce some differences between participants, but practice, fatigue and order effects remain. A between-person comparison needs sufficiently comparable groups. Replication and converging measures strengthen confidence; one successful demonstration does not settle a theory."
+          }
+        ],
+        "sources": [
+          {
+            "title": "Sternberg (1966), High-speed scanning in human memory",
+            "url": "https://doi.org/10.1126/science.153.3736.652",
+            "kind": "Original research or scholarly review; publisher access may vary."
+          },
+          {
+            "title": "OpenStax Psychology 2e: Approaches to research",
+            "url": "https://openstax.org/books/psychology-2e/pages/2-2-approaches-to-research",
+            "kind": "Open introductory textbook."
+          }
+        ]
+      },
+      "visual": "c01s03"
+    },
+    {
+      "id": "c01s03b",
+      "kind": "concept",
+      "title": "Compare predictions, then change a condition.",
+      "points": [
+        "Memory account: familiar equipment should help.",
+        "Label account: useful labels should help.",
+        "Comparison: vary one feature while keeping others similar.",
+        "Outcome: record accuracy as well as time."
+      ],
+      "text": "To investigate Maya’s repair, compare familiar and unfamiliar equipment, and compare helpful with unhelpful labels. Decide beforehand how each explanation predicts performance.\n\nA controlled experiment changes a proposed cause and measures an outcome. Random assignment helps separate that change from existing differences between people. Practice and task order also need attention.\n\nA faster repair could reflect experience, a useful cue or a willingness to make mistakes. Accuracy and response time together tell a fuller story than speed alone.",
+      "stage": "Explanation",
+      "research": {
+        "sections": [
+          {
+            "heading": "What the evidence addresses",
+            "text": "The original memory-scanning experiments related response-time patterns to the number of items held in memory. Their interpretation depends on task design and processing assumptions; speed is not a direct image of a mental operation."
+          },
+          {
+            "heading": "What this example can show",
+            "text": "The café and transfer cases are original fictional examples. They illustrate distinctions, not observations from the cited research. A faster repair could reflect experience, a useful cue or a willingness to make mistakes. Accuracy and response time together tell a fuller story than speed alone."
+          },
+          {
+            "heading": "Scope and limitations",
+            "text": "A within-person comparison can reduce some differences between participants, but practice, fatigue and order effects remain. A between-person comparison needs sufficiently comparable groups. Replication and converging measures strengthen confidence; one successful demonstration does not settle a theory."
+          }
+        ],
+        "sources": [
+          {
+            "title": "Sternberg (1966), High-speed scanning in human memory",
+            "url": "https://doi.org/10.1126/science.153.3736.652",
+            "kind": "Original research or scholarly review; publisher access may vary."
+          },
+          {
+            "title": "OpenStax Psychology 2e: Approaches to research",
+            "url": "https://openstax.org/books/psychology-2e/pages/2-2-approaches-to-research",
+            "kind": "Open introductory textbook."
+          }
+        ]
+      },
+      "visual": "c01s03b"
+    },
+    {
+      "id": "c01s04",
+      "kind": "concept",
+      "title": "A measure has more than one explanation.",
+      "points": [
+        "Response time: time between a defined event and response.",
+        "Accuracy: whether the response meets a stated criterion.",
+        "Speed–accuracy trade-off: faster responses may bring errors.",
+        "Converging evidence: different measures support an account."
+      ],
+      "text": "Imagine that Sam answers a fault checklist faster after practice, but misses more faults. The shorter response time does not establish better reasoning. Sam may simply have changed how much evidence is needed before answering.\n\nResponse time and accuracy depend on the task, instructions and strategy. Researchers compare patterns across conditions rather than treating one score as a complete description of a person.\n\nBrain measurements add evidence, but an active brain region is not a unique label for one thought. Stronger explanations combine suitable methods and competing predictions.",
+      "stage": "Explanation",
+      "research": {
+        "sections": [
+          {
+            "heading": "What the evidence addresses",
+            "text": "The original memory-scanning experiments related response-time patterns to the number of items held in memory. Their interpretation depends on task design and processing assumptions; speed is not a direct image of a mental operation."
+          },
+          {
+            "heading": "What this example can show",
+            "text": "The café and transfer cases are original fictional examples. They illustrate distinctions, not observations from the cited research. Brain measurements add evidence, but an active brain region is not a unique label for one thought. Stronger explanations combine suitable methods and competing predictions."
+          },
+          {
+            "heading": "Scope and limitations",
+            "text": "A within-person comparison can reduce some differences between participants, but practice, fatigue and order effects remain. A between-person comparison needs sufficiently comparable groups. Replication and converging measures strengthen confidence; one successful demonstration does not settle a theory."
+          },
+          {
+            "heading": "A related research distinction",
+            "text": "This review examines reverse inference from brain activity to cognitive processes. A region’s activation must be interpreted through appropriate comparison and selectivity evidence, rather than treated as a unique thought label."
+          }
+        ],
+        "sources": [
+          {
+            "title": "Sternberg (1966), High-speed scanning in human memory",
+            "url": "https://doi.org/10.1126/science.153.3736.652",
+            "kind": "Original research or scholarly review; publisher access may vary."
+          },
+          {
+            "title": "OpenStax Psychology 2e: Approaches to research",
+            "url": "https://openstax.org/books/psychology-2e/pages/2-2-approaches-to-research",
+            "kind": "Open introductory textbook."
+          },
+          {
+            "title": "Poldrack (2006), Can cognitive processes be inferred from neuroimaging data?",
+            "url": "https://doi.org/10.1016/j.tics.2005.12.004",
+            "kind": "Scholarly review or theoretical paper; publisher access may vary."
+          }
+        ]
+      },
+      "visual": "c01s04"
+    },
+    {
+      "id": "c01s05",
+      "kind": "evidence",
+      "title": "What does the evidence allow?",
+      "points": [],
+      "text": "Laboratory tasks isolate particular demands so explanations can be tested. That control can also limit how directly a result applies to a noisy repair café.\n\nA within-person comparison can reduce some differences between participants, but practice, fatigue and order effects remain. A between-person comparison needs sufficiently comparable groups. Replication and converging measures strengthen confidence; one successful demonstration does not settle a theory.",
+      "stage": "Evidence check",
+      "research": {
+        "sections": [
+          {
+            "heading": "What the evidence addresses",
+            "text": "The original memory-scanning experiments related response-time patterns to the number of items held in memory. Their interpretation depends on task design and processing assumptions; speed is not a direct image of a mental operation."
+          },
+          {
+            "heading": "What this example can show",
+            "text": "The café and transfer cases are original fictional examples. They illustrate distinctions, not observations from the cited research. A within-person comparison can reduce some differences between participants, but practice, fatigue and order effects remain. A between-person comparison needs sufficiently comparable groups. Replication and converging measures strengthen confidence; one successful demonstration does not settle a theory."
+          },
+          {
+            "heading": "Scope and limitations",
+            "text": "A within-person comparison can reduce some differences between participants, but practice, fatigue and order effects remain. A between-person comparison needs sufficiently comparable groups. Replication and converging measures strengthen confidence; one successful demonstration does not settle a theory."
+          }
+        ],
+        "sources": [
+          {
+            "title": "Sternberg (1966), High-speed scanning in human memory",
+            "url": "https://doi.org/10.1126/science.153.3736.652",
+            "kind": "Original research or scholarly review; publisher access may vary."
+          },
+          {
+            "title": "OpenStax Psychology 2e: Approaches to research",
+            "url": "https://openstax.org/books/psychology-2e/pages/2-2-approaches-to-research",
+            "kind": "Open introductory textbook."
+          }
+        ]
+      },
+      "visual": "c01s05"
+    }
+  ],
+  "2": [
+    {
+      "id": "c02s03",
+      "kind": "concept",
+      "title": "Perception organizes sensory information.",
+      "points": [
+        "Sensation: detecting physical stimulation.",
+        "Perception: organizing and interpreting sensory information.",
+        "Bottom-up processing: using features in the input.",
+        "Top-down processing: using knowledge and expectations."
+      ],
+      "text": "Sensation begins with physical stimulation and sensory systems. Perception involves interpreting that information as meaningful objects, events or patterns. The distinction is useful even though the processes interact.\n\nSam uses the visible strokes on the label and prior experience with familiar parts. When the print is incomplete, that prior knowledge can help recognition or favor the wrong interpretation.\n\nPerception is usually useful, but it is not a photographic copy. To check the label, improve the signal and compare it with an independent record.",
+      "stage": "Explanation",
+      "research": {
+        "sections": [
+          {
+            "heading": "What the evidence addresses",
+            "text": "Signal detection theory separates the quality of discrimination from the response criterion. The linked introductory reading supplies accessible background; the classic book is identified as a theoretical source, not presented as free full text."
+          },
+          {
+            "heading": "What this example can show",
+            "text": "The café and transfer cases are original fictional examples. They illustrate distinctions, not observations from the cited research. Perception is usually useful, but it is not a photographic copy. To check the label, improve the signal and compare it with an independent record."
+          },
+          {
+            "heading": "Scope and limitations",
+            "text": "Signal detection measures require defined signals, noise conditions and response categories. An everyday judgment with no agreed reference cannot automatically be given a sensitivity score. The café examples illustrate distinctions rather than reporting an experiment."
+          }
+        ],
+        "sources": [
+          {
+            "title": "Green and Swets (1966), Signal Detection Theory and Psychophysics",
+            "url": "https://scholar.google.com/scholar?q=Green%20and%20Swets%20%281966%29%2C%20Signal%20Detection%20Theory%20and%20Psychophysics",
+            "kind": "Scholarly framework; link searches the named publication."
+          },
+          {
+            "title": "OpenStax Psychology 2e: Sensation versus perception",
+            "url": "https://openstax.org/books/psychology-2e/pages/5-1-sensation-versus-perception",
+            "kind": "Open introductory textbook."
+          }
+        ]
+      },
+      "visual": "c02s03"
+    },
+    {
+      "id": "c02s03b",
+      "kind": "concept",
+      "title": "Context can make an ambiguous mark seem clear.",
+      "points": [
+        "Input: the same incomplete shape.",
+        "Context: neighboring letters or numbers.",
+        "Interpretation: a plausible reading of the shape.",
+        "Check: inspect the mark outside its first context."
+      ],
+      "text": "An incomplete shape may look like a letter among letters and a number among numbers. The physical input can stay similar while the surrounding information changes the most plausible interpretation.\n\nAt the café, Sam expects a familiar fuse code. Maya expects a different category of part. Their expectations supply context, not additional strokes on the label.\n\nChanging the lighting or consulting the parts register can provide new evidence. Merely feeling more certain after discussing the first reading does not improve the original signal.",
+      "stage": "Explanation",
+      "research": {
+        "sections": [
+          {
+            "heading": "What the evidence addresses",
+            "text": "Signal detection theory separates the quality of discrimination from the response criterion. The linked introductory reading supplies accessible background; the classic book is identified as a theoretical source, not presented as free full text."
+          },
+          {
+            "heading": "What this example can show",
+            "text": "The café and transfer cases are original fictional examples. They illustrate distinctions, not observations from the cited research. Changing the lighting or consulting the parts register can provide new evidence. Merely feeling more certain after discussing the first reading does not improve the original signal."
+          },
+          {
+            "heading": "Scope and limitations",
+            "text": "Signal detection measures require defined signals, noise conditions and response categories. An everyday judgment with no agreed reference cannot automatically be given a sensitivity score. The café examples illustrate distinctions rather than reporting an experiment."
+          }
+        ],
+        "sources": [
+          {
+            "title": "Green and Swets (1966), Signal Detection Theory and Psychophysics",
+            "url": "https://scholar.google.com/scholar?q=Green%20and%20Swets%20%281966%29%2C%20Signal%20Detection%20Theory%20and%20Psychophysics",
+            "kind": "Scholarly framework; link searches the named publication."
+          },
+          {
+            "title": "OpenStax Psychology 2e: Sensation versus perception",
+            "url": "https://openstax.org/books/psychology-2e/pages/5-1-sensation-versus-perception",
+            "kind": "Open introductory textbook."
+          }
+        ]
+      },
+      "visual": "c02s03b"
+    },
+    {
+      "id": "c02s04",
+      "kind": "concept",
+      "title": "Detection and willingness to say yes differ.",
+      "points": [
+        "Sensitivity: distinguishing signal from noise.",
+        "Decision criterion: the threshold for reporting a signal.",
+        "False alarm: reporting a signal that is absent.",
+        "Miss: failing to report a signal that is present."
+      ],
+      "text": "Suppose volunteers check whether a quiet device is making a warning sound. Some faint sounds are real warnings; others are background noise.\n\nSignal detection theory distinguishes sensitivity from the decision criterion. A cautious volunteer may report more possible warnings, producing more hits and more false alarms without hearing more accurately.\n\nTo compare performance, record both signal-present and signal-absent trials. A high number of yes responses alone does not tell you who distinguishes the sounds best.",
+      "stage": "Explanation",
+      "research": {
+        "sections": [
+          {
+            "heading": "What the evidence addresses",
+            "text": "Signal detection theory separates the quality of discrimination from the response criterion. The linked introductory reading supplies accessible background; the classic book is identified as a theoretical source, not presented as free full text."
+          },
+          {
+            "heading": "What this example can show",
+            "text": "The café and transfer cases are original fictional examples. They illustrate distinctions, not observations from the cited research. To compare performance, record both signal-present and signal-absent trials. A high number of yes responses alone does not tell you who distinguishes the sounds best."
+          },
+          {
+            "heading": "Scope and limitations",
+            "text": "Signal detection measures require defined signals, noise conditions and response categories. An everyday judgment with no agreed reference cannot automatically be given a sensitivity score. The café examples illustrate distinctions rather than reporting an experiment."
+          }
+        ],
+        "sources": [
+          {
+            "title": "Green and Swets (1966), Signal Detection Theory and Psychophysics",
+            "url": "https://scholar.google.com/scholar?q=Green%20and%20Swets%20%281966%29%2C%20Signal%20Detection%20Theory%20and%20Psychophysics",
+            "kind": "Scholarly framework; link searches the named publication."
+          },
+          {
+            "title": "OpenStax Psychology 2e: Sensation versus perception",
+            "url": "https://openstax.org/books/psychology-2e/pages/5-1-sensation-versus-perception",
+            "kind": "Open introductory textbook."
+          }
+        ]
+      },
+      "visual": "c02s04"
+    },
+    {
+      "id": "c02s05",
+      "kind": "evidence",
+      "title": "What does the evidence allow?",
+      "points": [],
+      "text": "Perceptual demonstrations show that interpretation can depend on context. They do not establish that every disagreement is an illusion, or that seeing is generally unreliable.\n\nSignal detection measures require defined signals, noise conditions and response categories. An everyday judgment with no agreed reference cannot automatically be given a sensitivity score. The café examples illustrate distinctions rather than reporting an experiment.",
+      "stage": "Evidence check",
+      "research": {
+        "sections": [
+          {
+            "heading": "What the evidence addresses",
+            "text": "Signal detection theory separates the quality of discrimination from the response criterion. The linked introductory reading supplies accessible background; the classic book is identified as a theoretical source, not presented as free full text."
+          },
+          {
+            "heading": "What this example can show",
+            "text": "The café and transfer cases are original fictional examples. They illustrate distinctions, not observations from the cited research. Signal detection measures require defined signals, noise conditions and response categories. An everyday judgment with no agreed reference cannot automatically be given a sensitivity score. The café examples illustrate distinctions rather than reporting an experiment."
+          },
+          {
+            "heading": "Scope and limitations",
+            "text": "Signal detection measures require defined signals, noise conditions and response categories. An everyday judgment with no agreed reference cannot automatically be given a sensitivity score. The café examples illustrate distinctions rather than reporting an experiment."
+          }
+        ],
+        "sources": [
+          {
+            "title": "Green and Swets (1966), Signal Detection Theory and Psychophysics",
+            "url": "https://scholar.google.com/scholar?q=Green%20and%20Swets%20%281966%29%2C%20Signal%20Detection%20Theory%20and%20Psychophysics",
+            "kind": "Scholarly framework; link searches the named publication."
+          },
+          {
+            "title": "OpenStax Psychology 2e: Sensation versus perception",
+            "url": "https://openstax.org/books/psychology-2e/pages/5-1-sensation-versus-perception",
+            "kind": "Open introductory textbook."
+          }
+        ]
+      },
+      "visual": "c02s05"
+    }
+  ],
+  "3": [
+    {
+      "id": "c03s03",
+      "kind": "concept",
+      "title": "Attention selects information for a task.",
+      "points": [
+        "Selective attention: prioritizing some information.",
+        "Goal: count the returned tools accurately.",
+        "Competition: questions, movement and notifications.",
+        "Limit: looking toward something need not mean noticing it."
+      ],
+      "text": "Attention helps prioritize information relevant to a current task. Selection is useful because competing demands cannot all receive the same depth of processing.\n\nLeo’s tool count draws attention to items and totals. The visitor may enter his visual field without becoming part of what he consciously reports. That does not show whether the visitor was physically hard to see.\n\nDistinguish the available information from the information selected for the task. A missed event can reflect the task, the signal, expectations or several of these together.",
+      "stage": "Explanation",
+      "research": {
+        "sections": [
+          {
+            "heading": "What the evidence addresses",
+            "text": "The study examined noticing an unexpected event during a demanding visual task. Its conditions support a specific attention demonstration, not a universal percentage for everyday awareness."
+          },
+          {
+            "heading": "What this example can show",
+            "text": "The café and transfer cases are original fictional examples. They illustrate distinctions, not observations from the cited research. Distinguish the available information from the information selected for the task. A missed event can reflect the task, the signal, expectations or several of these together."
+          },
+          {
+            "heading": "Scope and limitations",
+            "text": "Interruption studies also depend on what the tasks require. Some practiced activities overlap more easily than two unfamiliar tasks drawing on the same processes. Avoid treating every pair of activities as equally demanding."
+          }
+        ],
+        "sources": [
+          {
+            "title": "Simons and Chabris (1999), Gorillas in our midst",
+            "url": "https://doi.org/10.1068/p281059",
+            "kind": "Original research or scholarly review; publisher access may vary."
+          },
+          {
+            "title": "OpenStax Psychology 2e: Sensation versus perception",
+            "url": "https://openstax.org/books/psychology-2e/pages/5-1-sensation-versus-perception",
+            "kind": "Open introductory textbook."
+          }
+        ]
+      },
+      "visual": "c03s03"
+    },
+    {
+      "id": "c03s03b",
+      "kind": "concept",
+      "title": "An unexpected event can go unnoticed.",
+      "points": [
+        "Inattentional blindness: missing a visible, unexpected event.",
+        "Task demand: attention is occupied elsewhere.",
+        "Expectation: knowing what to look for changes the task.",
+        "Inference: failure to report is evidence with limits."
+      ],
+      "text": "Inattentional blindness describes failing to notice an unexpected visible event while attention is engaged by another task. Researchers often compare reports after participants concentrate on a specified activity.\n\nLeo’s missed visitor is compatible with that idea, but the story does not establish it. Perhaps the sightline was blocked or the arrival was unusually quiet.\n\nTo test an attention account, compare comparable arrivals while the counting demand changes and visibility stays similar. Asking people to watch specifically for visitors creates a different task from noticing an unexpected arrival.",
+      "stage": "Explanation",
+      "research": {
+        "sections": [
+          {
+            "heading": "What the evidence addresses",
+            "text": "The study examined noticing an unexpected event during a demanding visual task. Its conditions support a specific attention demonstration, not a universal percentage for everyday awareness."
+          },
+          {
+            "heading": "What this example can show",
+            "text": "The café and transfer cases are original fictional examples. They illustrate distinctions, not observations from the cited research. To test an attention account, compare comparable arrivals while the counting demand changes and visibility stays similar. Asking people to watch specifically for visitors creates a different task from noticing an unexpected arrival."
+          },
+          {
+            "heading": "Scope and limitations",
+            "text": "Interruption studies also depend on what the tasks require. Some practiced activities overlap more easily than two unfamiliar tasks drawing on the same processes. Avoid treating every pair of activities as equally demanding."
+          }
+        ],
+        "sources": [
+          {
+            "title": "Simons and Chabris (1999), Gorillas in our midst",
+            "url": "https://doi.org/10.1068/p281059",
+            "kind": "Original research or scholarly review; publisher access may vary."
+          },
+          {
+            "title": "OpenStax Psychology 2e: Sensation versus perception",
+            "url": "https://openstax.org/books/psychology-2e/pages/5-1-sensation-versus-perception",
+            "kind": "Open introductory textbook."
+          }
+        ]
+      },
+      "visual": "c03s03b"
+    },
+    {
+      "id": "c03s04",
+      "kind": "concept",
+      "title": "Switching tasks has a cost.",
+      "points": [
+        "Task switching: changing the rule or goal in use.",
+        "Switch cost: slower or less accurate responses after a switch.",
+        "Interruption: an additional demand on control.",
+        "Design: reduce competing goals during a critical step."
+      ],
+      "text": "When Sam interrupts the tool count, Leo must hold his place, answer a question and return to the counting rule. Some interruptions are helpful, but switching can carry time and error costs.\n\nExecutive control refers to processes that help maintain goals and regulate behavior. It is a family of functions, not one fixed supply that explains every lapse.\n\nA practical test might compare a quiet counting period with a scheduled interruption, while recording counting errors and visitor reports. Reducing interruptions is a hypothesis to assess, not proof that people can eliminate every attentional limit.",
+      "stage": "Explanation",
+      "research": {
+        "sections": [
+          {
+            "heading": "What the evidence addresses",
+            "text": "The study examined noticing an unexpected event during a demanding visual task. Its conditions support a specific attention demonstration, not a universal percentage for everyday awareness."
+          },
+          {
+            "heading": "What this example can show",
+            "text": "The café and transfer cases are original fictional examples. They illustrate distinctions, not observations from the cited research. A practical test might compare a quiet counting period with a scheduled interruption, while recording counting errors and visitor reports. Reducing interruptions is a hypothesis to assess, not proof that people can eliminate every attentional limit."
+          },
+          {
+            "heading": "Scope and limitations",
+            "text": "Interruption studies also depend on what the tasks require. Some practiced activities overlap more easily than two unfamiliar tasks drawing on the same processes. Avoid treating every pair of activities as equally demanding."
+          }
+        ],
+        "sources": [
+          {
+            "title": "Simons and Chabris (1999), Gorillas in our midst",
+            "url": "https://doi.org/10.1068/p281059",
+            "kind": "Original research or scholarly review; publisher access may vary."
+          },
+          {
+            "title": "OpenStax Psychology 2e: Sensation versus perception",
+            "url": "https://openstax.org/books/psychology-2e/pages/5-1-sensation-versus-perception",
+            "kind": "Open introductory textbook."
+          }
+        ]
+      },
+      "visual": "c03s04"
+    },
+    {
+      "id": "c03s05",
+      "kind": "evidence",
+      "title": "What does the evidence allow?",
+      "points": [],
+      "text": "Laboratory demonstrations show that substantial events can be missed under particular attention demands. The proportion missed varies with the task, event, similarity and expectations. A demonstration does not measure someone’s general care or intelligence.\n\nInterruption studies also depend on what the tasks require. Some practiced activities overlap more easily than two unfamiliar tasks drawing on the same processes. Avoid treating every pair of activities as equally demanding.",
+      "stage": "Evidence check",
+      "research": {
+        "sections": [
+          {
+            "heading": "What the evidence addresses",
+            "text": "The study examined noticing an unexpected event during a demanding visual task. Its conditions support a specific attention demonstration, not a universal percentage for everyday awareness."
+          },
+          {
+            "heading": "What this example can show",
+            "text": "The café and transfer cases are original fictional examples. They illustrate distinctions, not observations from the cited research. Interruption studies also depend on what the tasks require. Some practiced activities overlap more easily than two unfamiliar tasks drawing on the same processes. Avoid treating every pair of activities as equally demanding."
+          },
+          {
+            "heading": "Scope and limitations",
+            "text": "Interruption studies also depend on what the tasks require. Some practiced activities overlap more easily than two unfamiliar tasks drawing on the same processes. Avoid treating every pair of activities as equally demanding."
+          }
+        ],
+        "sources": [
+          {
+            "title": "Simons and Chabris (1999), Gorillas in our midst",
+            "url": "https://doi.org/10.1068/p281059",
+            "kind": "Original research or scholarly review; publisher access may vary."
+          },
+          {
+            "title": "OpenStax Psychology 2e: Sensation versus perception",
+            "url": "https://openstax.org/books/psychology-2e/pages/5-1-sensation-versus-perception",
+            "kind": "Open introductory textbook."
+          }
+        ]
+      },
+      "visual": "c03s05"
+    }
+  ],
+  "4": [
+    {
+      "id": "c04s03",
+      "kind": "concept",
+      "title": "Working memory supports thinking in progress.",
+      "points": [
+        "Working memory: temporarily holding and using information.",
+        "Maintenance: keeping a goal or item available.",
+        "Manipulation: updating, comparing or rearranging it.",
+        "Interference: competing information disrupts the task."
+      ],
+      "text": "Working memory helps keep information available while we use it. Following instructions can require holding the next step, remembering what has already happened and updating the plan.\n\nMaya’s task changes when Sam revises an earlier instruction. The difficulty is not just remembering separate words; she must maintain an ordered goal and replace part of it.\n\nWorking-memory models differ in how they describe storage and control. They agree that performance depends on the task and interference rather than unlimited short-term storage.",
+      "stage": "Explanation",
+      "research": {
+        "sections": [
+          {
+            "heading": "What the evidence addresses",
+            "text": "Cowan reviewed evidence for a limited capacity under conditions designed to reduce rehearsal and grouping. The estimate is conditional, not a universal limit of exactly four everyday objects."
+          },
+          {
+            "heading": "What this example can show",
+            "text": "The café and transfer cases are original fictional examples. They illustrate distinctions, not observations from the cited research. Working-memory models differ in how they describe storage and control. They agree that performance depends on the task and interference rather than unlimited short-term storage."
+          },
+          {
+            "heading": "Scope and limitations",
+            "text": "Learning a practiced task, using an external aid and changing a general cognitive capacity are different claims. Benefits from training are often strongest for trained or similar tasks; transfer to broad everyday abilities requires separate evidence."
+          }
+        ],
+        "sources": [
+          {
+            "title": "Cowan (2001), The magical number 4 in short-term memory",
+            "url": "https://doi.org/10.1017/S0140525X01003922",
+            "kind": "Original research or scholarly review; publisher access may vary."
+          },
+          {
+            "title": "OpenStax Psychology 2e: How memory functions",
+            "url": "https://openstax.org/books/psychology-2e/pages/8-1-how-memory-functions",
+            "kind": "Open introductory textbook."
+          }
+        ]
+      },
+      "visual": "c04s03"
+    },
+    {
+      "id": "c04s03b",
+      "kind": "concept",
+      "title": "A meaningful chunk depends on knowledge.",
+      "points": [
+        "Chunking: grouping elements into meaningful units.",
+        "Expertise: familiar patterns can form larger units.",
+        "Novel material: the same grouping may not help.",
+        "Capacity: depends on the task and what counts as a unit."
+      ],
+      "text": "A familiar sequence such as a common postcode can be treated as one meaningful unit by someone who knows it. The same characters may be several unfamiliar elements to another person.\n\nChunking can reduce the number of units that must be held separately. It relies on learned organization; adding spaces to an arbitrary list does not guarantee a useful chunk.\n\nThere is no single number of items that describes every person and task. Estimates depend on rehearsal, prior knowledge, modality, interference and how the experiment defines an item.",
+      "stage": "Explanation",
+      "research": {
+        "sections": [
+          {
+            "heading": "What the evidence addresses",
+            "text": "Cowan reviewed evidence for a limited capacity under conditions designed to reduce rehearsal and grouping. The estimate is conditional, not a universal limit of exactly four everyday objects."
+          },
+          {
+            "heading": "What this example can show",
+            "text": "The café and transfer cases are original fictional examples. They illustrate distinctions, not observations from the cited research. There is no single number of items that describes every person and task. Estimates depend on rehearsal, prior knowledge, modality, interference and how the experiment defines an item."
+          },
+          {
+            "heading": "Scope and limitations",
+            "text": "Learning a practiced task, using an external aid and changing a general cognitive capacity are different claims. Benefits from training are often strongest for trained or similar tasks; transfer to broad everyday abilities requires separate evidence."
+          }
+        ],
+        "sources": [
+          {
+            "title": "Cowan (2001), The magical number 4 in short-term memory",
+            "url": "https://doi.org/10.1017/S0140525X01003922",
+            "kind": "Original research or scholarly review; publisher access may vary."
+          },
+          {
+            "title": "OpenStax Psychology 2e: How memory functions",
+            "url": "https://openstax.org/books/psychology-2e/pages/8-1-how-memory-functions",
+            "kind": "Open introductory textbook."
+          }
+        ]
+      },
+      "visual": "c04s03b"
+    },
+    {
+      "id": "c04s04",
+      "kind": "concept",
+      "title": "Move a memory demand into the environment.",
+      "points": [
+        "External aid: a visible record of the next step.",
+        "Sequence: keep order and current position clear.",
+        "Update: revise the list when the task changes.",
+        "Check: compare errors, effort and completion."
+      ],
+      "text": "The written lamp checklist lets Maya inspect the next step instead of repeatedly holding the entire sequence in mind. A movable marker can show where she paused.\n\nThis is cognitive offloading: using the environment to reduce an internal information-processing demand. The aid still needs to be accurate, available and understandable. An outdated checklist can introduce new errors.\n\nCompare performance on similar tasks with and without the aid. Improvement on that task supports the usefulness of the aid; it does not show a broad increase in working-memory capacity.",
+      "stage": "Explanation",
+      "research": {
+        "sections": [
+          {
+            "heading": "What the evidence addresses",
+            "text": "Cowan reviewed evidence for a limited capacity under conditions designed to reduce rehearsal and grouping. The estimate is conditional, not a universal limit of exactly four everyday objects."
+          },
+          {
+            "heading": "What this example can show",
+            "text": "The café and transfer cases are original fictional examples. They illustrate distinctions, not observations from the cited research. Compare performance on similar tasks with and without the aid. Improvement on that task supports the usefulness of the aid; it does not show a broad increase in working-memory capacity."
+          },
+          {
+            "heading": "Scope and limitations",
+            "text": "Learning a practiced task, using an external aid and changing a general cognitive capacity are different claims. Benefits from training are often strongest for trained or similar tasks; transfer to broad everyday abilities requires separate evidence."
+          }
+        ],
+        "sources": [
+          {
+            "title": "Cowan (2001), The magical number 4 in short-term memory",
+            "url": "https://doi.org/10.1017/S0140525X01003922",
+            "kind": "Original research or scholarly review; publisher access may vary."
+          },
+          {
+            "title": "OpenStax Psychology 2e: How memory functions",
+            "url": "https://openstax.org/books/psychology-2e/pages/8-1-how-memory-functions",
+            "kind": "Open introductory textbook."
+          }
+        ]
+      },
+      "visual": "c04s04"
+    },
+    {
+      "id": "c04s05",
+      "kind": "evidence",
+      "title": "What does the evidence allow?",
+      "points": [],
+      "text": "Working-memory limits are well supported, but exact capacity estimates depend on the method and assumptions. A small estimated capacity is not a diagnosis or an intelligence score.\n\nLearning a practiced task, using an external aid and changing a general cognitive capacity are different claims. Benefits from training are often strongest for trained or similar tasks; transfer to broad everyday abilities requires separate evidence.",
+      "stage": "Evidence check",
+      "research": {
+        "sections": [
+          {
+            "heading": "What the evidence addresses",
+            "text": "Cowan reviewed evidence for a limited capacity under conditions designed to reduce rehearsal and grouping. The estimate is conditional, not a universal limit of exactly four everyday objects."
+          },
+          {
+            "heading": "What this example can show",
+            "text": "The café and transfer cases are original fictional examples. They illustrate distinctions, not observations from the cited research. Learning a practiced task, using an external aid and changing a general cognitive capacity are different claims. Benefits from training are often strongest for trained or similar tasks; transfer to broad everyday abilities requires separate evidence."
+          },
+          {
+            "heading": "Scope and limitations",
+            "text": "Learning a practiced task, using an external aid and changing a general cognitive capacity are different claims. Benefits from training are often strongest for trained or similar tasks; transfer to broad everyday abilities requires separate evidence."
+          }
+        ],
+        "sources": [
+          {
+            "title": "Cowan (2001), The magical number 4 in short-term memory",
+            "url": "https://doi.org/10.1017/S0140525X01003922",
+            "kind": "Original research or scholarly review; publisher access may vary."
+          },
+          {
+            "title": "OpenStax Psychology 2e: How memory functions",
+            "url": "https://openstax.org/books/psychology-2e/pages/8-1-how-memory-functions",
+            "kind": "Open introductory textbook."
+          }
+        ]
+      },
+      "visual": "c04s05"
+    }
+  ],
+  "5": [
+    {
+      "id": "c05s03",
+      "kind": "concept",
+      "title": "Learning must survive the later task.",
+      "points": [
+        "Encoding: processing information into memory.",
+        "Storage: maintaining information over time.",
+        "Retrieval: bringing information to use.",
+        "Cue: information that can help access a memory."
+      ],
+      "text": "Encoding, storage and retrieval are useful distinctions in describing memory. A failure at test can have several sources: information may not have been learned well, retained, or accessible with the available cues.\n\nLeo’s familiar notes provide many cues. A visitor’s new wording provides fewer of those same prompts. Recognition with the page open therefore does not guarantee unaided explanation.\n\nDecide what the later task requires. If the goal is to explain a principle, practise producing an explanation rather than judging how familiar the page looks.",
+      "stage": "Explanation",
+      "research": {
+        "sections": [
+          {
+            "heading": "What the evidence addresses",
+            "text": "The experiments compared learning conditions using prose and subsequent retention tests. They distinguish performance during learning from delayed retention; they do not establish that every kind of quiz teaches every kind of skill."
+          },
+          {
+            "heading": "What this example can show",
+            "text": "The café and transfer cases are original fictional examples. They illustrate distinctions, not observations from the cited research. Decide what the later task requires. If the goal is to explain a principle, practise producing an explanation rather than judging how familiar the page looks."
+          },
+          {
+            "heading": "Scope and limitations",
+            "text": "Immediate performance can improve while delayed retention remains weak. Compare methods with a meaningful delay and the same outcome. Claims about conceptual transfer need new examples, not only repetition of the study questions."
+          }
+        ],
+        "sources": [
+          {
+            "title": "Roediger and Karpicke (2006), Test-enhanced learning",
+            "url": "https://doi.org/10.1111/j.1467-9280.2006.01693.x",
+            "kind": "Original research or scholarly review; publisher access may vary."
+          },
+          {
+            "title": "OpenStax Psychology 2e: Ways to enhance memory",
+            "url": "https://openstax.org/books/psychology-2e/pages/8-4-ways-to-enhance-memory",
+            "kind": "Open introductory textbook."
+          }
+        ]
+      },
+      "visual": "c05s03"
+    },
+    {
+      "id": "c05s03b",
+      "kind": "concept",
+      "title": "Retrieve, then check what was missing.",
+      "points": [
+        "Retrieval practice: attempt to recall before looking.",
+        "Feedback: correct errors and omissions.",
+        "Understanding: connect the answer to its reason.",
+        "Delay: check again after time has passed."
+      ],
+      "text": "Maya closes the notes, explains the cable rule in her own words and checks what she omitted. This combines retrieval practice with feedback.\n\nResearch often finds that attempting retrieval improves later retention compared with additional study under suitable conditions. An attempt can also expose a gap that rereading hides.\n\nRetrieval is not automatically useful if errors remain uncorrected or the practice fails to address the intended skill. A memorized phrase can be recalled without understanding its application.",
+      "stage": "Explanation",
+      "research": {
+        "sections": [
+          {
+            "heading": "What the evidence addresses",
+            "text": "The experiments compared learning conditions using prose and subsequent retention tests. They distinguish performance during learning from delayed retention; they do not establish that every kind of quiz teaches every kind of skill."
+          },
+          {
+            "heading": "What this example can show",
+            "text": "The café and transfer cases are original fictional examples. They illustrate distinctions, not observations from the cited research. Retrieval is not automatically useful if errors remain uncorrected or the practice fails to address the intended skill. A memorized phrase can be recalled without understanding its application."
+          },
+          {
+            "heading": "Scope and limitations",
+            "text": "Immediate performance can improve while delayed retention remains weak. Compare methods with a meaningful delay and the same outcome. Claims about conceptual transfer need new examples, not only repetition of the study questions."
+          }
+        ],
+        "sources": [
+          {
+            "title": "Roediger and Karpicke (2006), Test-enhanced learning",
+            "url": "https://doi.org/10.1111/j.1467-9280.2006.01693.x",
+            "kind": "Original research or scholarly review; publisher access may vary."
+          },
+          {
+            "title": "OpenStax Psychology 2e: Ways to enhance memory",
+            "url": "https://openstax.org/books/psychology-2e/pages/8-4-ways-to-enhance-memory",
+            "kind": "Open introductory textbook."
+          }
+        ]
+      },
+      "visual": "c05s03b"
+    },
+    {
+      "id": "c05s04",
+      "kind": "concept",
+      "title": "Space practice and vary useful examples.",
+      "points": [
+        "Spacing: distribute practice over time.",
+        "Interleaving: mix relevant problem categories.",
+        "Discrimination: choose which principle applies.",
+        "Transfer: explain a new example, not only the old one."
+      ],
+      "text": "Leo can revisit the safety rule after a delay instead of repeating it only in one sitting. The useful interval depends on how long he needs to retain the material.\n\nMixing relevant examples can require deciding which principle applies. That can feel harder than repeating one problem type, but may improve later discrimination in suitable tasks.\n\nSpacing and interleaving are different manipulations. Neither guarantees far transfer. To assess understanding, ask Leo to explain a new situation and identify where the original rule no longer fits.",
+      "stage": "Explanation",
+      "research": {
+        "sections": [
+          {
+            "heading": "What the evidence addresses",
+            "text": "The experiments compared learning conditions using prose and subsequent retention tests. They distinguish performance during learning from delayed retention; they do not establish that every kind of quiz teaches every kind of skill."
+          },
+          {
+            "heading": "What this example can show",
+            "text": "The café and transfer cases are original fictional examples. They illustrate distinctions, not observations from the cited research. Spacing and interleaving are different manipulations. Neither guarantees far transfer. To assess understanding, ask Leo to explain a new situation and identify where the original rule no longer fits."
+          },
+          {
+            "heading": "Scope and limitations",
+            "text": "Immediate performance can improve while delayed retention remains weak. Compare methods with a meaningful delay and the same outcome. Claims about conceptual transfer need new examples, not only repetition of the study questions."
+          },
+          {
+            "heading": "A related research distinction",
+            "text": "This review evaluates distributed practice, practice testing, interleaving and other techniques across learning conditions. Their support and usefulness depend on the material and assessment; spacing and interleaving are different manipulations."
+          }
+        ],
+        "sources": [
+          {
+            "title": "Roediger and Karpicke (2006), Test-enhanced learning",
+            "url": "https://doi.org/10.1111/j.1467-9280.2006.01693.x",
+            "kind": "Original research or scholarly review; publisher access may vary."
+          },
+          {
+            "title": "OpenStax Psychology 2e: Ways to enhance memory",
+            "url": "https://openstax.org/books/psychology-2e/pages/8-4-ways-to-enhance-memory",
+            "kind": "Open introductory textbook."
+          },
+          {
+            "title": "Dunlosky and colleagues (2013), Improving students’ learning with effective learning techniques",
+            "url": "https://doi.org/10.1177/1529100612453266",
+            "kind": "Scholarly review or theoretical paper; publisher access may vary."
+          }
+        ]
+      },
+      "visual": "c05s04"
+    },
+    {
+      "id": "c05s05",
+      "kind": "evidence",
+      "title": "What does the evidence allow?",
+      "points": [],
+      "text": "Retrieval practice and distributed practice have broad research support, but their effects depend on material, feedback, timing and the final assessment. A laboratory average is not a promised gain for every learner.\n\nImmediate performance can improve while delayed retention remains weak. Compare methods with a meaningful delay and the same outcome. Claims about conceptual transfer need new examples, not only repetition of the study questions.",
+      "stage": "Evidence check",
+      "research": {
+        "sections": [
+          {
+            "heading": "What the evidence addresses",
+            "text": "The experiments compared learning conditions using prose and subsequent retention tests. They distinguish performance during learning from delayed retention; they do not establish that every kind of quiz teaches every kind of skill."
+          },
+          {
+            "heading": "What this example can show",
+            "text": "The café and transfer cases are original fictional examples. They illustrate distinctions, not observations from the cited research. Immediate performance can improve while delayed retention remains weak. Compare methods with a meaningful delay and the same outcome. Claims about conceptual transfer need new examples, not only repetition of the study questions."
+          },
+          {
+            "heading": "Scope and limitations",
+            "text": "Immediate performance can improve while delayed retention remains weak. Compare methods with a meaningful delay and the same outcome. Claims about conceptual transfer need new examples, not only repetition of the study questions."
+          }
+        ],
+        "sources": [
+          {
+            "title": "Roediger and Karpicke (2006), Test-enhanced learning",
+            "url": "https://doi.org/10.1111/j.1467-9280.2006.01693.x",
+            "kind": "Original research or scholarly review; publisher access may vary."
+          },
+          {
+            "title": "OpenStax Psychology 2e: Ways to enhance memory",
+            "url": "https://openstax.org/books/psychology-2e/pages/8-4-ways-to-enhance-memory",
+            "kind": "Open introductory textbook."
+          }
+        ]
+      },
+      "visual": "c05s05"
+    }
+  ],
+  "6": [
+    {
+      "id": "c06s03",
+      "kind": "concept",
+      "title": "Remembering is a reconstruction.",
+      "points": [
+        "Reconstructive memory: rebuilding an account from available information.",
+        "Schema: organized knowledge about a familiar situation.",
+        "Detail: may come from the event or later knowledge.",
+        "Accuracy: needs an independent reference where possible."
+      ],
+      "text": "Memory can preserve important features while also being influenced by knowledge, goals and later information. A schema helps organize what usually happens in a situation, but can also supply a plausible detail that was not present.\n\nAt the café, a familiar tool-case story may make the later description feel natural. That feeling does not identify where the color information came from.\n\nCalling memory reconstructive does not mean all memories are false. It means confidence in a coherent account should be considered alongside its source and independent evidence.",
+      "stage": "Explanation",
+      "research": {
+        "sections": [
+          {
+            "heading": "What the evidence addresses",
+            "text": "The experiments varied questions about filmed traffic events. They support an effect of wording in those conditions, not the claim that every memory can be rewritten at will."
+          },
+          {
+            "heading": "What this example can show",
+            "text": "The café and transfer cases are original fictional examples. They illustrate distinctions, not observations from the cited research. Calling memory reconstructive does not mean all memories are false. It means confidence in a coherent account should be considered alongside its source and independent evidence."
+          },
+          {
+            "heading": "Scope and limitations",
+            "text": "The café story is fictional and cannot diagnose a particular memory process. Neither a discrepancy nor confidence alone establishes deliberate deception, a false memory, or the correctness of an alternative account."
+          }
+        ],
+        "sources": [
+          {
+            "title": "Loftus and Palmer (1974), Reconstruction of automobile destruction",
+            "url": "https://doi.org/10.1016/S0022-5371(74)80011-3",
+            "kind": "Original research or scholarly review; publisher access may vary."
+          },
+          {
+            "title": "OpenStax Psychology 2e: Problems with memory",
+            "url": "https://openstax.org/books/psychology-2e/pages/8-3-problems-with-memory",
+            "kind": "Open introductory textbook."
+          }
+        ]
+      },
+      "visual": "c06s03"
+    },
+    {
+      "id": "c06s03b",
+      "kind": "concept",
+      "title": "Ask where a detail came from.",
+      "points": [
+        "Source monitoring: judging the origin of remembered information.",
+        "Original event: what was directly experienced.",
+        "Later information: discussion, images or suggestions.",
+        "Question: ask for an account before supplying details."
+      ],
+      "text": "Source monitoring concerns how we judge whether information came from perception, imagination, conversation or another source. Those judgments can be mistaken.\n\nLeo’s question contains the color red before Sam supplies it. Later, Sam may remember the detail without correctly remembering that it was introduced in the question.\n\nBegin with an open invitation such as, “What do you remember near the door?” Record the account before discussing alternatives. An open question reduces one source of suggestion; it cannot guarantee complete accuracy.",
+      "stage": "Explanation",
+      "research": {
+        "sections": [
+          {
+            "heading": "What the evidence addresses",
+            "text": "The experiments varied questions about filmed traffic events. They support an effect of wording in those conditions, not the claim that every memory can be rewritten at will."
+          },
+          {
+            "heading": "What this example can show",
+            "text": "The café and transfer cases are original fictional examples. They illustrate distinctions, not observations from the cited research. Begin with an open invitation such as, “What do you remember near the door?” Record the account before discussing alternatives. An open question reduces one source of suggestion; it cannot guarantee complete accuracy."
+          },
+          {
+            "heading": "Scope and limitations",
+            "text": "The café story is fictional and cannot diagnose a particular memory process. Neither a discrepancy nor confidence alone establishes deliberate deception, a false memory, or the correctness of an alternative account."
+          }
+        ],
+        "sources": [
+          {
+            "title": "Loftus and Palmer (1974), Reconstruction of automobile destruction",
+            "url": "https://doi.org/10.1016/S0022-5371(74)80011-3",
+            "kind": "Original research or scholarly review; publisher access may vary."
+          },
+          {
+            "title": "OpenStax Psychology 2e: Problems with memory",
+            "url": "https://openstax.org/books/psychology-2e/pages/8-3-problems-with-memory",
+            "kind": "Open introductory textbook."
+          }
+        ]
+      },
+      "visual": "c06s03b"
+    },
+    {
+      "id": "c06s04",
+      "kind": "concept",
+      "title": "Confidence and correctness need separate evidence.",
+      "points": [
+        "Confidence: how certain a person feels.",
+        "Accuracy: agreement with a suitable reference.",
+        "Repeated telling: can increase familiarity.",
+        "Check: preserve an early account and compare sources."
+      ],
+      "text": "An account can become easier to tell after rehearsal or discussion. Familiarity and social agreement may then increase confidence without adding independent evidence.\n\nConfidence can be informative in some well-controlled identification procedures, particularly when recorded early and without contaminating feedback. It is not a universal certificate of accuracy.\n\nFor the café case, preserve Sam’s initial wording, note Leo’s question and inspect the photo’s timing and viewpoint. The photo is also evidence with limits: it may not show every moment or location.",
+      "stage": "Explanation",
+      "research": {
+        "sections": [
+          {
+            "heading": "What the evidence addresses",
+            "text": "The experiments varied questions about filmed traffic events. They support an effect of wording in those conditions, not the claim that every memory can be rewritten at will."
+          },
+          {
+            "heading": "What this example can show",
+            "text": "The café and transfer cases are original fictional examples. They illustrate distinctions, not observations from the cited research. For the café case, preserve Sam’s initial wording, note Leo’s question and inspect the photo’s timing and viewpoint. The photo is also evidence with limits: it may not show every moment or location."
+          },
+          {
+            "heading": "Scope and limitations",
+            "text": "The café story is fictional and cannot diagnose a particular memory process. Neither a discrepancy nor confidence alone establishes deliberate deception, a false memory, or the correctness of an alternative account."
+          },
+          {
+            "heading": "A related research distinction",
+            "text": "The review emphasizes initial confidence collected under appropriate identification conditions. That qualified relationship should not be converted into a claim that confidence in any everyday memory guarantees accuracy."
+          }
+        ],
+        "sources": [
+          {
+            "title": "Loftus and Palmer (1974), Reconstruction of automobile destruction",
+            "url": "https://doi.org/10.1016/S0022-5371(74)80011-3",
+            "kind": "Original research or scholarly review; publisher access may vary."
+          },
+          {
+            "title": "OpenStax Psychology 2e: Problems with memory",
+            "url": "https://openstax.org/books/psychology-2e/pages/8-3-problems-with-memory",
+            "kind": "Open introductory textbook."
+          },
+          {
+            "title": "Wixted and Wells (2017), The relationship between eyewitness confidence and identification accuracy: A new synthesis",
+            "url": "https://doi.org/10.1177/1529100616686966",
+            "kind": "Scholarly review or theoretical paper; publisher access may vary."
+          }
+        ]
+      },
+      "visual": "c06s04"
+    },
+    {
+      "id": "c06s05",
+      "kind": "evidence",
+      "title": "What does the evidence allow?",
+      "points": [],
+      "text": "Experiments on misleading post-event information show that later questions can influence reports of an earlier event. Effects vary with the event, delay, wording, source and test.\n\nThe café story is fictional and cannot diagnose a particular memory process. Neither a discrepancy nor confidence alone establishes deliberate deception, a false memory, or the correctness of an alternative account.",
+      "stage": "Evidence check",
+      "research": {
+        "sections": [
+          {
+            "heading": "What the evidence addresses",
+            "text": "The experiments varied questions about filmed traffic events. They support an effect of wording in those conditions, not the claim that every memory can be rewritten at will."
+          },
+          {
+            "heading": "What this example can show",
+            "text": "The café and transfer cases are original fictional examples. They illustrate distinctions, not observations from the cited research. The café story is fictional and cannot diagnose a particular memory process. Neither a discrepancy nor confidence alone establishes deliberate deception, a false memory, or the correctness of an alternative account."
+          },
+          {
+            "heading": "Scope and limitations",
+            "text": "The café story is fictional and cannot diagnose a particular memory process. Neither a discrepancy nor confidence alone establishes deliberate deception, a false memory, or the correctness of an alternative account."
+          }
+        ],
+        "sources": [
+          {
+            "title": "Loftus and Palmer (1974), Reconstruction of automobile destruction",
+            "url": "https://doi.org/10.1016/S0022-5371(74)80011-3",
+            "kind": "Original research or scholarly review; publisher access may vary."
+          },
+          {
+            "title": "OpenStax Psychology 2e: Problems with memory",
+            "url": "https://openstax.org/books/psychology-2e/pages/8-3-problems-with-memory",
+            "kind": "Open introductory textbook."
+          }
+        ]
+      },
+      "visual": "c06s05"
+    }
+  ],
+  "7": [
+    {
+      "id": "c07s03",
+      "kind": "concept",
+      "title": "Words require context to become a message.",
+      "points": [
+        "Language: a system for structured communication.",
+        "Syntax: patterns for combining words.",
+        "Semantics: conventional meaning.",
+        "Pragmatics: interpretation in a conversational context."
+      ],
+      "text": "Understanding a sentence involves more than recognizing its words. Syntax helps specify relationships, semantics supplies meaning, and pragmatics concerns how context shapes what a speaker intends.\n\n“The cabinet” has a familiar meaning, but there are two possible cabinets at the café. Sam and Maya rely on different assumptions about the shared situation.\n\nCommunication succeeds when the listener identifies a useful interpretation for the current purpose. The same sentence can be clear in one setting and ambiguous in another.",
+      "stage": "Explanation",
+      "research": {
+        "sections": [
+          {
+            "heading": "What the evidence addresses",
+            "text": "Grounding research treats understanding as something people coordinate and check in interaction. The café check-back is an application of that framework, not a claim that one scripted phrase guarantees understanding."
+          },
+          {
+            "heading": "What this example can show",
+            "text": "The café and transfer cases are original fictional examples. They illustrate distinctions, not observations from the cited research. Communication succeeds when the listener identifies a useful interpretation for the current purpose. The same sentence can be clear in one setting and ambiguous in another."
+          },
+          {
+            "heading": "Scope and limitations",
+            "text": "Linguistic relativity concerns how language can influence aspects of thought. It does not require assuming that people are unable to think about anything their language does not name. Individual experience and task conditions matter."
+          }
+        ],
+        "sources": [
+          {
+            "title": "Clark and Brennan (1991), Grounding in communication",
+            "url": "https://doi.org/10.1037/10096-006",
+            "kind": "Scholarly book chapter; publisher access may vary."
+          },
+          {
+            "title": "OpenStax Psychology 2e: Language",
+            "url": "https://openstax.org/books/psychology-2e/pages/7-2-language",
+            "kind": "Open introductory textbook."
+          }
+        ]
+      },
+      "visual": "c07s03"
+    },
+    {
+      "id": "c07s03b",
+      "kind": "concept",
+      "title": "Shared knowledge can be assumed too quickly.",
+      "points": [
+        "Common ground: information treated as shared.",
+        "Reference: which person, object or event is intended.",
+        "Ambiguity: more than one plausible interpretation.",
+        "Repair: clarify the specific mismatch."
+      ],
+      "text": "Maya has been working beside one cabinet all morning and assumes it is the obvious reference. Sam has just arrived through the entrance and treats the nearby cabinet as obvious.\n\nSpeakers and listeners use common ground, but can overestimate what the other person knows or has noticed. Successful reference sometimes requires updating that estimate.\n\nA useful repair is specific: “Do you mean the cabinet beside the workbench?” Repeating the original sentence more confidently leaves the same ambiguity in place.",
+      "stage": "Explanation",
+      "research": {
+        "sections": [
+          {
+            "heading": "What the evidence addresses",
+            "text": "Grounding research treats understanding as something people coordinate and check in interaction. The café check-back is an application of that framework, not a claim that one scripted phrase guarantees understanding."
+          },
+          {
+            "heading": "What this example can show",
+            "text": "The café and transfer cases are original fictional examples. They illustrate distinctions, not observations from the cited research. A useful repair is specific: “Do you mean the cabinet beside the workbench?” Repeating the original sentence more confidently leaves the same ambiguity in place."
+          },
+          {
+            "heading": "Scope and limitations",
+            "text": "Linguistic relativity concerns how language can influence aspects of thought. It does not require assuming that people are unable to think about anything their language does not name. Individual experience and task conditions matter."
+          }
+        ],
+        "sources": [
+          {
+            "title": "Clark and Brennan (1991), Grounding in communication",
+            "url": "https://doi.org/10.1037/10096-006",
+            "kind": "Scholarly book chapter; publisher access may vary."
+          },
+          {
+            "title": "OpenStax Psychology 2e: Language",
+            "url": "https://openstax.org/books/psychology-2e/pages/7-2-language",
+            "kind": "Open introductory textbook."
+          }
+        ]
+      },
+      "visual": "c07s03b"
+    },
+    {
+      "id": "c07s04",
+      "kind": "concept",
+      "title": "Check the interpretation, not just agreement.",
+      "points": [
+        "Weak check: “Do you understand?”",
+        "Specific check: identify the next action or referent.",
+        "Feedback: correct the mismatch without blame.",
+        "Limit: one correct paraphrase does not prove every detail."
+      ],
+      "text": "Sam can say yes while picturing the wrong cabinet. Agreement is a conversational response, not a direct measurement of understanding.\n\nFor an important instruction, ask the listener to point to the intended location or describe the next step. Maya can then compare that interpretation with what she intended and clarify it.\n\nA comprehension check should match the task and respect the listener. It is not an intelligence test. Language familiarity, hearing conditions, fatigue and the clarity of the instruction can all affect the exchange.",
+      "stage": "Explanation",
+      "research": {
+        "sections": [
+          {
+            "heading": "What the evidence addresses",
+            "text": "Grounding research treats understanding as something people coordinate and check in interaction. The café check-back is an application of that framework, not a claim that one scripted phrase guarantees understanding."
+          },
+          {
+            "heading": "What this example can show",
+            "text": "The café and transfer cases are original fictional examples. They illustrate distinctions, not observations from the cited research. A comprehension check should match the task and respect the listener. It is not an intelligence test. Language familiarity, hearing conditions, fatigue and the clarity of the instruction can all affect the exchange."
+          },
+          {
+            "heading": "Scope and limitations",
+            "text": "Linguistic relativity concerns how language can influence aspects of thought. It does not require assuming that people are unable to think about anything their language does not name. Individual experience and task conditions matter."
+          }
+        ],
+        "sources": [
+          {
+            "title": "Clark and Brennan (1991), Grounding in communication",
+            "url": "https://doi.org/10.1037/10096-006",
+            "kind": "Scholarly book chapter; publisher access may vary."
+          },
+          {
+            "title": "OpenStax Psychology 2e: Language",
+            "url": "https://openstax.org/books/psychology-2e/pages/7-2-language",
+            "kind": "Open introductory textbook."
+          }
+        ]
+      },
+      "visual": "c07s04"
+    },
+    {
+      "id": "c07s05",
+      "kind": "evidence",
+      "title": "What does the evidence allow?",
+      "points": [],
+      "text": "Psycholinguistic research uses tasks such as reading, listening, naming and conversational reference to examine language processing. A result from one task does not explain every communication difficulty.\n\nLinguistic relativity concerns how language can influence aspects of thought. It does not require assuming that people are unable to think about anything their language does not name. Individual experience and task conditions matter.",
+      "stage": "Evidence check",
+      "research": {
+        "sections": [
+          {
+            "heading": "What the evidence addresses",
+            "text": "Grounding research treats understanding as something people coordinate and check in interaction. The café check-back is an application of that framework, not a claim that one scripted phrase guarantees understanding."
+          },
+          {
+            "heading": "What this example can show",
+            "text": "The café and transfer cases are original fictional examples. They illustrate distinctions, not observations from the cited research. Linguistic relativity concerns how language can influence aspects of thought. It does not require assuming that people are unable to think about anything their language does not name. Individual experience and task conditions matter."
+          },
+          {
+            "heading": "Scope and limitations",
+            "text": "Linguistic relativity concerns how language can influence aspects of thought. It does not require assuming that people are unable to think about anything their language does not name. Individual experience and task conditions matter."
+          }
+        ],
+        "sources": [
+          {
+            "title": "Clark and Brennan (1991), Grounding in communication",
+            "url": "https://doi.org/10.1037/10096-006",
+            "kind": "Scholarly book chapter; publisher access may vary."
+          },
+          {
+            "title": "OpenStax Psychology 2e: Language",
+            "url": "https://openstax.org/books/psychology-2e/pages/7-2-language",
+            "kind": "Open introductory textbook."
+          }
+        ]
+      },
+      "visual": "c07s05"
+    }
+  ],
+  "8": [
+    {
+      "id": "c08s03",
+      "kind": "concept",
+      "title": "A category helps organize, but can conceal variation.",
+      "points": [
+        "Category: a grouping used to organize knowledge.",
+        "Prototype: a typical or representative example.",
+        "Exemplar: a particular remembered example.",
+        "Boundary: an unusual case may still belong."
+      ],
+      "text": "Categories let us use prior knowledge when encountering a new object or problem. People can draw on typical features, remembered examples or explicit rules, depending on the task.\n\nA familiar broken cable may become Leo’s typical repair problem. That makes similar cases easy to recognize, but can draw attention away from a fault with a different cause.\n\nA typical example is not a definition of every member. Check which features are actually relevant to the decision rather than relying only on resemblance.",
+      "stage": "Explanation",
+      "research": {
+        "sections": [
+          {
+            "heading": "What the evidence addresses",
+            "text": "Wason’s rule-discovery task examined how people selected tests of a numerical rule. Its results motivate discriminating tests, but numerical tasks are not a complete model of real-world reasoning."
+          },
+          {
+            "heading": "What this example can show",
+            "text": "The café and transfer cases are original fictional examples. They illustrate distinctions, not observations from the cited research. A typical example is not a definition of every member. Check which features are actually relevant to the decision rather than relying only on resemblance."
+          },
+          {
+            "heading": "Scope and limitations",
+            "text": "Confirmation bias is a family of related tendencies, not a diagnosis from one answer. A fair evaluation asks which hypotheses were considered and whether the proposed evidence would actually distinguish them."
+          }
+        ],
+        "sources": [
+          {
+            "title": "Wason (1960), On the failure to eliminate hypotheses in a conceptual task",
+            "url": "https://doi.org/10.1080/17470216008416717",
+            "kind": "Original research or scholarly review; publisher access may vary."
+          },
+          {
+            "title": "OpenStax Psychology 2e: Problem solving",
+            "url": "https://openstax.org/books/psychology-2e/pages/7-3-problem-solving",
+            "kind": "Open introductory textbook."
+          }
+        ]
+      },
+      "visual": "c08s03"
+    },
+    {
+      "id": "c08s03b",
+      "kind": "concept",
+      "title": "A useful test separates competing accounts.",
+      "points": [
+        "Hypothesis: an explanation or rule to investigate.",
+        "Confirmation bias: favoring evidence that supports an account.",
+        "Discriminating test: alternatives predict different results.",
+        "Revision: change the account when the result requires it."
+      ],
+      "text": "Leo’s successful cable replacements are compatible with his rule, but other rules could predict the same examples. Perhaps inspection, rather than cable replacement, is the useful common step.\n\nA discriminating test looks for a case where the accounts make different predictions. A repair completed successfully without replacing a cable would challenge the claim that replacement is necessary.\n\nTesting should be safe and ethically appropriate. Do not create a dangerous failure merely to challenge an idea. Records or a low-risk simulation may provide the needed comparison.",
+      "stage": "Explanation",
+      "research": {
+        "sections": [
+          {
+            "heading": "What the evidence addresses",
+            "text": "Wason’s rule-discovery task examined how people selected tests of a numerical rule. Its results motivate discriminating tests, but numerical tasks are not a complete model of real-world reasoning."
+          },
+          {
+            "heading": "What this example can show",
+            "text": "The café and transfer cases are original fictional examples. They illustrate distinctions, not observations from the cited research. Testing should be safe and ethically appropriate. Do not create a dangerous failure merely to challenge an idea. Records or a low-risk simulation may provide the needed comparison."
+          },
+          {
+            "heading": "Scope and limitations",
+            "text": "Confirmation bias is a family of related tendencies, not a diagnosis from one answer. A fair evaluation asks which hypotheses were considered and whether the proposed evidence would actually distinguish them."
+          }
+        ],
+        "sources": [
+          {
+            "title": "Wason (1960), On the failure to eliminate hypotheses in a conceptual task",
+            "url": "https://doi.org/10.1080/17470216008416717",
+            "kind": "Original research or scholarly review; publisher access may vary."
+          },
+          {
+            "title": "OpenStax Psychology 2e: Problem solving",
+            "url": "https://openstax.org/books/psychology-2e/pages/7-3-problem-solving",
+            "kind": "Open introductory textbook."
+          }
+        ]
+      },
+      "visual": "c08s03b"
+    },
+    {
+      "id": "c08s04",
+      "kind": "concept",
+      "title": "Change the representation of the problem.",
+      "points": [
+        "Problem representation: how the goal and constraints are described.",
+        "Functional fixedness: seeing an object mainly in its familiar use.",
+        "Strategy: a method suited to the current problem.",
+        "Insight: a solution that can feel sudden after a reframing."
+      ],
+      "text": "If Leo represents the task as “Which cable should I replace?” he has already restricted the possible solution. Representing it as “What prevents this device from working?” leaves other causes open.\n\nFunctional fixedness can make an object’s familiar use dominate possible alternatives. Reframing a goal, drawing relationships or listing constraints may reveal another route.\n\nAn insight can feel sudden even when prior attempts contributed. A successful trick on one puzzle does not establish a general method for every complex problem.",
+      "stage": "Explanation",
+      "research": {
+        "sections": [
+          {
+            "heading": "What the evidence addresses",
+            "text": "Wason’s rule-discovery task examined how people selected tests of a numerical rule. Its results motivate discriminating tests, but numerical tasks are not a complete model of real-world reasoning."
+          },
+          {
+            "heading": "What this example can show",
+            "text": "The café and transfer cases are original fictional examples. They illustrate distinctions, not observations from the cited research. An insight can feel sudden even when prior attempts contributed. A successful trick on one puzzle does not establish a general method for every complex problem."
+          },
+          {
+            "heading": "Scope and limitations",
+            "text": "Confirmation bias is a family of related tendencies, not a diagnosis from one answer. A fair evaluation asks which hypotheses were considered and whether the proposed evidence would actually distinguish them."
+          }
+        ],
+        "sources": [
+          {
+            "title": "Wason (1960), On the failure to eliminate hypotheses in a conceptual task",
+            "url": "https://doi.org/10.1080/17470216008416717",
+            "kind": "Original research or scholarly review; publisher access may vary."
+          },
+          {
+            "title": "OpenStax Psychology 2e: Problem solving",
+            "url": "https://openstax.org/books/psychology-2e/pages/7-3-problem-solving",
+            "kind": "Open introductory textbook."
+          }
+        ]
+      },
+      "visual": "c08s04"
+    },
+    {
+      "id": "c08s05",
+      "kind": "evidence",
+      "title": "What does the evidence allow?",
+      "points": [],
+      "text": "Reasoning tasks show that people often test favored rules in ways that provide limited discrimination. The pattern depends on instructions, content, goals and what alternatives are available.\n\nConfirmation bias is a family of related tendencies, not a diagnosis from one answer. A fair evaluation asks which hypotheses were considered and whether the proposed evidence would actually distinguish them.",
+      "stage": "Evidence check",
+      "research": {
+        "sections": [
+          {
+            "heading": "What the evidence addresses",
+            "text": "Wason’s rule-discovery task examined how people selected tests of a numerical rule. Its results motivate discriminating tests, but numerical tasks are not a complete model of real-world reasoning."
+          },
+          {
+            "heading": "What this example can show",
+            "text": "The café and transfer cases are original fictional examples. They illustrate distinctions, not observations from the cited research. Confirmation bias is a family of related tendencies, not a diagnosis from one answer. A fair evaluation asks which hypotheses were considered and whether the proposed evidence would actually distinguish them."
+          },
+          {
+            "heading": "Scope and limitations",
+            "text": "Confirmation bias is a family of related tendencies, not a diagnosis from one answer. A fair evaluation asks which hypotheses were considered and whether the proposed evidence would actually distinguish them."
+          }
+        ],
+        "sources": [
+          {
+            "title": "Wason (1960), On the failure to eliminate hypotheses in a conceptual task",
+            "url": "https://doi.org/10.1080/17470216008416717",
+            "kind": "Original research or scholarly review; publisher access may vary."
+          },
+          {
+            "title": "OpenStax Psychology 2e: Problem solving",
+            "url": "https://openstax.org/books/psychology-2e/pages/7-3-problem-solving",
+            "kind": "Open introductory textbook."
+          }
+        ]
+      },
+      "visual": "c08s05"
+    }
+  ],
+  "9": [
+    {
+      "id": "c09s03",
+      "kind": "concept",
+      "title": "Ease of recall is not a denominator.",
+      "points": [
+        "Availability heuristic: judging partly by ease of recall.",
+        "Sample: the observations actually recorded.",
+        "Base rate: frequency in a relevant reference group.",
+        "Denominator: all comparable cases, not only memorable ones."
+      ],
+      "text": "An availability heuristic uses how easily examples come to mind as a cue in judgment. That can be useful when recall tracks experience, but vividness, recency and publicity also affect recall.\n\nLeo can remember the overheating battery immediately. To estimate how common battery faults are, he needs a defined set of comparable assessments and a count of all relevant outcomes.\n\nA base rate describes a reference group. Choosing the wrong group can mislead even when the arithmetic is correct. Safety severity and frequency are also different questions.",
+      "stage": "Explanation",
+      "research": {
+        "sections": [
+          {
+            "heading": "What the evidence addresses",
+            "text": "The classic review described availability, representativeness and anchoring with task examples. Later work examines when shortcuts are adaptive and how representation affects performance; the label bias is not a substitute for a comparison."
+          },
+          {
+            "heading": "What this example can show",
+            "text": "The café and transfer cases are original fictional examples. They illustrate distinctions, not observations from the cited research. A base rate describes a reference group. Choosing the wrong group can mislead even when the arithmetic is correct. Safety severity and frequency are also different questions."
+          },
+          {
+            "heading": "Scope and limitations",
+            "text": "The device-screening counts are invented to illustrate conditional probability. The uncertainty of real tests, the population sampled and the costs of different errors require additional evidence."
+          }
+        ],
+        "sources": [
+          {
+            "title": "Tversky and Kahneman (1974), Judgment under uncertainty: Heuristics and biases",
+            "url": "https://doi.org/10.1126/science.185.4157.1124",
+            "kind": "Original research or scholarly review; publisher access may vary."
+          },
+          {
+            "title": "OpenStax Psychology 2e: Problem solving",
+            "url": "https://openstax.org/books/psychology-2e/pages/7-3-problem-solving",
+            "kind": "Open introductory textbook."
+          }
+        ]
+      },
+      "visual": "c09s03"
+    },
+    {
+      "id": "c09s03b",
+      "kind": "concept",
+      "title": "A positive signal is not a certain conclusion.",
+      "points": [
+        "Base rate: how common the target condition is.",
+        "True positive: a positive result when it is present.",
+        "False positive: a positive result when it is absent.",
+        "Natural frequencies: count cases in a defined group."
+      ],
+      "text": "Consider an invented screening example with one hundred devices. Ten have a fault. A test flags eight of those ten and also flags nine of the ninety devices without the fault.\n\nSeventeen devices test positive, but only eight of those seventeen have the fault. The test’s ability to detect a fault is not the same as the chance that a positive device is faulty.\n\nNatural frequencies keep the relevant groups visible. These numbers are fictional teaching values, not diagnostic advice or a claim about an actual repair test.",
+      "stage": "Explanation",
+      "research": {
+        "sections": [
+          {
+            "heading": "What the evidence addresses",
+            "text": "The classic review described availability, representativeness and anchoring with task examples. Later work examines when shortcuts are adaptive and how representation affects performance; the label bias is not a substitute for a comparison."
+          },
+          {
+            "heading": "What this example can show",
+            "text": "The café and transfer cases are original fictional examples. They illustrate distinctions, not observations from the cited research. Natural frequencies keep the relevant groups visible. These numbers are fictional teaching values, not diagnostic advice or a claim about an actual repair test."
+          },
+          {
+            "heading": "Scope and limitations",
+            "text": "The device-screening counts are invented to illustrate conditional probability. The uncertainty of real tests, the population sampled and the costs of different errors require additional evidence."
+          }
+        ],
+        "sources": [
+          {
+            "title": "Tversky and Kahneman (1974), Judgment under uncertainty: Heuristics and biases",
+            "url": "https://doi.org/10.1126/science.185.4157.1124",
+            "kind": "Original research or scholarly review; publisher access may vary."
+          },
+          {
+            "title": "OpenStax Psychology 2e: Problem solving",
+            "url": "https://openstax.org/books/psychology-2e/pages/7-3-problem-solving",
+            "kind": "Open introductory textbook."
+          }
+        ]
+      },
+      "visual": "c09s03b"
+    },
+    {
+      "id": "c09s04",
+      "kind": "concept",
+      "title": "Compare equivalent descriptions.",
+      "points": [
+        "Framing: describing equivalent outcomes in different ways.",
+        "Absolute difference: change using a shared denominator.",
+        "Relative change: change compared with a starting value.",
+        "Decision: consider consequences as well as probabilities."
+      ],
+      "text": "A service can describe two failures in one hundred repairs as a two-percent failure rate or a ninety-eight-percent success rate. The descriptions emphasize different outcomes but refer to the same counts.\n\nA fall from four failures to two per hundred is a reduction of two percentage points and a relative reduction of fifty percent. The starting rate and shared denominator are essential.\n\nA considered decision also needs the seriousness, costs and alternatives. Equivalent arithmetic does not settle what outcome a person should value most.",
+      "stage": "Explanation",
+      "research": {
+        "sections": [
+          {
+            "heading": "What the evidence addresses",
+            "text": "The classic review described availability, representativeness and anchoring with task examples. Later work examines when shortcuts are adaptive and how representation affects performance; the label bias is not a substitute for a comparison."
+          },
+          {
+            "heading": "What this example can show",
+            "text": "The café and transfer cases are original fictional examples. They illustrate distinctions, not observations from the cited research. A considered decision also needs the seriousness, costs and alternatives. Equivalent arithmetic does not settle what outcome a person should value most."
+          },
+          {
+            "heading": "Scope and limitations",
+            "text": "The device-screening counts are invented to illustrate conditional probability. The uncertainty of real tests, the population sampled and the costs of different errors require additional evidence."
+          }
+        ],
+        "sources": [
+          {
+            "title": "Tversky and Kahneman (1974), Judgment under uncertainty: Heuristics and biases",
+            "url": "https://doi.org/10.1126/science.185.4157.1124",
+            "kind": "Original research or scholarly review; publisher access may vary."
+          },
+          {
+            "title": "OpenStax Psychology 2e: Problem solving",
+            "url": "https://openstax.org/books/psychology-2e/pages/7-3-problem-solving",
+            "kind": "Open introductory textbook."
+          }
+        ]
+      },
+      "visual": "c09s04"
+    },
+    {
+      "id": "c09s05",
+      "kind": "evidence",
+      "title": "What does the evidence allow?",
+      "points": [],
+      "text": "Judgment research identifies predictable influences of availability, framing and prior probabilities in specified tasks. A shortcut can be efficient or poorly suited to a problem; labeling it does not determine the correct decision.\n\nThe device-screening counts are invented to illustrate conditional probability. The uncertainty of real tests, the population sampled and the costs of different errors require additional evidence.",
+      "stage": "Evidence check",
+      "research": {
+        "sections": [
+          {
+            "heading": "What the evidence addresses",
+            "text": "The classic review described availability, representativeness and anchoring with task examples. Later work examines when shortcuts are adaptive and how representation affects performance; the label bias is not a substitute for a comparison."
+          },
+          {
+            "heading": "What this example can show",
+            "text": "The café and transfer cases are original fictional examples. They illustrate distinctions, not observations from the cited research. The device-screening counts are invented to illustrate conditional probability. The uncertainty of real tests, the population sampled and the costs of different errors require additional evidence."
+          },
+          {
+            "heading": "Scope and limitations",
+            "text": "The device-screening counts are invented to illustrate conditional probability. The uncertainty of real tests, the population sampled and the costs of different errors require additional evidence."
+          }
+        ],
+        "sources": [
+          {
+            "title": "Tversky and Kahneman (1974), Judgment under uncertainty: Heuristics and biases",
+            "url": "https://doi.org/10.1126/science.185.4157.1124",
+            "kind": "Original research or scholarly review; publisher access may vary."
+          },
+          {
+            "title": "OpenStax Psychology 2e: Problem solving",
+            "url": "https://openstax.org/books/psychology-2e/pages/7-3-problem-solving",
+            "kind": "Open introductory textbook."
+          }
+        ]
+      },
+      "visual": "c09s05"
+    }
+  ],
+  "10": [
+    {
+      "id": "c10s03",
+      "kind": "concept",
+      "title": "Monitor a judgment, then control the next step.",
+      "points": [
+        "Metacognition: monitoring and regulating one’s cognition.",
+        "Monitoring: judge what is known or uncertain.",
+        "Control: choose a strategy or further check.",
+        "Calibration: compare confidence with performance."
+      ],
+      "text": "Metacognition concerns how people monitor and regulate their own cognitive activity. A feeling of knowing can guide a decision to study, answer or seek help.\n\nMonitoring can be informative, but it relies on cues that sometimes mislead. Familiar wording may feel like understanding even when a person cannot explain the principle independently.\n\nCalibration compares confidence with actual performance across suitable judgments. It cannot be inferred from whether one answer sounds modest or certain.",
+      "stage": "Explanation",
+      "research": {
+        "sections": [
+          {
+            "heading": "What the evidence addresses",
+            "text": "The review evaluated learning techniques across materials and conditions, including distributed practice and practice testing. It supports choosing methods against actual learning outcomes, rather than claiming a universal routine or guaranteed improvement."
+          },
+          {
+            "heading": "What this example can show",
+            "text": "The café and transfer cases are original fictional examples. They illustrate distinctions, not observations from the cited research. Calibration compares confidence with actual performance across suitable judgments. It cannot be inferred from whether one answer sounds modest or certain."
+          },
+          {
+            "heading": "Scope and limitations",
+            "text": "The course’s exercises provide practice in explanation and evidence checking. Completing pages or reporting confidence is not proof of mastery, a general reasoning gain or effective transfer to every setting. A delayed new case provides a more informative next check."
+          }
+        ],
+        "sources": [
+          {
+            "title": "Dunlosky and colleagues (2013), Improving students’ learning with effective learning techniques",
+            "url": "https://doi.org/10.1177/1529100612453266",
+            "kind": "Original research or scholarly review; publisher access may vary."
+          },
+          {
+            "title": "OpenStax Psychology 2e: Ways to enhance memory",
+            "url": "https://openstax.org/books/psychology-2e/pages/8-4-ways-to-enhance-memory",
+            "kind": "Open introductory textbook."
+          }
+        ]
+      },
+      "visual": "c10s03"
+    },
+    {
+      "id": "c10s03b",
+      "kind": "concept",
+      "title": "Use a check that supplies new evidence.",
+      "points": [
+        "Delayed retrieval: explain after time away.",
+        "New example: choose and justify a relevant principle.",
+        "Feedback: inspect specific errors and omissions.",
+        "Confidence record: compare the prediction with the result."
+      ],
+      "text": "Leo can predict how well he will explain a procedure, close the notes and answer a practical question after a delay. Then he can compare the explanation with an accurate reference.\n\nA new example tests whether he can select and apply the relevant principle rather than repeat familiar wording. A useful feedback record distinguishes factual errors, missing reasons and unjustified certainty.\n\nOne mismatch is information about that task. Several comparable judgments are needed before describing a stable calibration pattern.",
+      "stage": "Explanation",
+      "research": {
+        "sections": [
+          {
+            "heading": "What the evidence addresses",
+            "text": "The review evaluated learning techniques across materials and conditions, including distributed practice and practice testing. It supports choosing methods against actual learning outcomes, rather than claiming a universal routine or guaranteed improvement."
+          },
+          {
+            "heading": "What this example can show",
+            "text": "The café and transfer cases are original fictional examples. They illustrate distinctions, not observations from the cited research. One mismatch is information about that task. Several comparable judgments are needed before describing a stable calibration pattern."
+          },
+          {
+            "heading": "Scope and limitations",
+            "text": "The course’s exercises provide practice in explanation and evidence checking. Completing pages or reporting confidence is not proof of mastery, a general reasoning gain or effective transfer to every setting. A delayed new case provides a more informative next check."
+          }
+        ],
+        "sources": [
+          {
+            "title": "Dunlosky and colleagues (2013), Improving students’ learning with effective learning techniques",
+            "url": "https://doi.org/10.1177/1529100612453266",
+            "kind": "Original research or scholarly review; publisher access may vary."
+          },
+          {
+            "title": "OpenStax Psychology 2e: Ways to enhance memory",
+            "url": "https://openstax.org/books/psychology-2e/pages/8-4-ways-to-enhance-memory",
+            "kind": "Open introductory textbook."
+          }
+        ]
+      },
+      "visual": "c10s03b"
+    },
+    {
+      "id": "c10s04",
+      "kind": "concept",
+      "title": "Combine the course without explaining everything at once.",
+      "points": [
+        "Describe: define the task and observed result.",
+        "Compare: state two plausible accounts.",
+        "Measure: choose an outcome that separates predictions.",
+        "Revise: act on feedback and retain uncertainty."
+      ],
+      "text": "Return to the café: a person misses a visitor, forgets a step or misreads an instruction. The course offers possible processes, not automatic labels for the cause.\n\nBegin with the task and observation. Consider attention, memory, language, prior knowledge or decision strategy where they generate different predictions. Choose a respectful and safe comparison that could distinguish them.\n\nKeep any conclusion proportional to the evidence. A useful explanation specifies what it predicts, what remains uncertain and what additional information would change it.",
+      "stage": "Explanation",
+      "research": {
+        "sections": [
+          {
+            "heading": "What the evidence addresses",
+            "text": "The review evaluated learning techniques across materials and conditions, including distributed practice and practice testing. It supports choosing methods against actual learning outcomes, rather than claiming a universal routine or guaranteed improvement."
+          },
+          {
+            "heading": "What this example can show",
+            "text": "The café and transfer cases are original fictional examples. They illustrate distinctions, not observations from the cited research. Keep any conclusion proportional to the evidence. A useful explanation specifies what it predicts, what remains uncertain and what additional information would change it."
+          },
+          {
+            "heading": "Scope and limitations",
+            "text": "The course’s exercises provide practice in explanation and evidence checking. Completing pages or reporting confidence is not proof of mastery, a general reasoning gain or effective transfer to every setting. A delayed new case provides a more informative next check."
+          }
+        ],
+        "sources": [
+          {
+            "title": "Dunlosky and colleagues (2013), Improving students’ learning with effective learning techniques",
+            "url": "https://doi.org/10.1177/1529100612453266",
+            "kind": "Original research or scholarly review; publisher access may vary."
+          },
+          {
+            "title": "OpenStax Psychology 2e: Ways to enhance memory",
+            "url": "https://openstax.org/books/psychology-2e/pages/8-4-ways-to-enhance-memory",
+            "kind": "Open introductory textbook."
+          }
+        ]
+      },
+      "visual": "c10s04"
+    },
+    {
+      "id": "c10s05",
+      "kind": "evidence",
+      "title": "What does the evidence allow?",
+      "points": [],
+      "text": "Metacognitive accuracy varies with the task, feedback and the cues available when people judge. Familiarity and confidence can sometimes be useful and sometimes misleading.\n\nThe course’s exercises provide practice in explanation and evidence checking. Completing pages or reporting confidence is not proof of mastery, a general reasoning gain or effective transfer to every setting. A delayed new case provides a more informative next check.",
+      "stage": "Evidence check",
+      "research": {
+        "sections": [
+          {
+            "heading": "What the evidence addresses",
+            "text": "The review evaluated learning techniques across materials and conditions, including distributed practice and practice testing. It supports choosing methods against actual learning outcomes, rather than claiming a universal routine or guaranteed improvement."
+          },
+          {
+            "heading": "What this example can show",
+            "text": "The café and transfer cases are original fictional examples. They illustrate distinctions, not observations from the cited research. The course’s exercises provide practice in explanation and evidence checking. Completing pages or reporting confidence is not proof of mastery, a general reasoning gain or effective transfer to every setting. A delayed new case provides a more informative next check."
+          },
+          {
+            "heading": "Scope and limitations",
+            "text": "The course’s exercises provide practice in explanation and evidence checking. Completing pages or reporting confidence is not proof of mastery, a general reasoning gain or effective transfer to every setting. A delayed new case provides a more informative next check."
+          }
+        ],
+        "sources": [
+          {
+            "title": "Dunlosky and colleagues (2013), Improving students’ learning with effective learning techniques",
+            "url": "https://doi.org/10.1177/1529100612453266",
+            "kind": "Original research or scholarly review; publisher access may vary."
+          },
+          {
+            "title": "OpenStax Psychology 2e: Ways to enhance memory",
+            "url": "https://openstax.org/books/psychology-2e/pages/8-4-ways-to-enhance-memory",
+            "kind": "Open introductory textbook."
+          }
+        ]
+      },
+      "visual": "c10s05"
+    }
+  ]
+}

@@ -1,0 +1,247 @@
+{
+  "method": "Crossref DOI metadata and HTTP checks of open introductory pages, 19 November 2026. Selected sources; not a systematic review.",
+  "citations": [
+    {
+      "course": "cognitive",
+      "chapter": "1",
+      "doi": "10.1126/science.153.3736.652",
+      "title": [
+        "High-Speed Scanning in Human Memory"
+      ],
+      "year": [
+        [
+          1966,
+          8,
+          5
+        ]
+      ]
+    },
+    {
+      "course": "cognitive",
+      "chapter": "3",
+      "doi": "10.1068/p281059",
+      "title": [
+        "Gorillas in Our Midst: Sustained Inattentional Blindness for Dynamic Events"
+      ],
+      "year": [
+        [
+          1999,
+          9
+        ]
+      ]
+    },
+    {
+      "course": "cognitive",
+      "chapter": "4",
+      "doi": "10.1017/S0140525X01003922",
+      "title": [
+        "The magical number 4 in short-term memory: A reconsideration of mental storage capacity"
+      ],
+      "year": [
+        [
+          2001,
+          2
+        ]
+      ]
+    },
+    {
+      "course": "cognitive",
+      "chapter": "5",
+      "doi": "10.1111/j.1467-9280.2006.01693.x",
+      "title": [
+        "Test-Enhanced Learning"
+      ],
+      "year": [
+        [
+          2006,
+          3
+        ]
+      ]
+    },
+    {
+      "course": "cognitive",
+      "chapter": "6",
+      "doi": "10.1016/S0022-5371(74)80011-3",
+      "title": [
+        "Reconstruction of automobile destruction: An example of the interaction between language and memory"
+      ],
+      "year": [
+        [
+          1974,
+          10
+        ]
+      ]
+    },
+    {
+      "course": "cognitive",
+      "chapter": "8",
+      "doi": "10.1080/17470216008416717",
+      "title": [
+        "On the Failure to Eliminate Hypotheses in a Conceptual Task"
+      ],
+      "year": [
+        [
+          1960,
+          7
+        ]
+      ]
+    },
+    {
+      "course": "cognitive",
+      "chapter": "9",
+      "doi": "10.1126/science.185.4157.1124",
+      "title": [
+        "Judgment under Uncertainty: Heuristics and Biases"
+      ],
+      "year": [
+        [
+          1974,
+          9,
+          27
+        ]
+      ]
+    },
+    {
+      "course": "cognitive",
+      "chapter": "10",
+      "doi": "10.1177/1529100612453266",
+      "title": [
+        "Improving Students\u2019 Learning With Effective Learning Techniques"
+      ],
+      "year": [
+        [
+          2013,
+          1
+        ]
+      ]
+    },
+    {
+      "course": "cognitive",
+      "chapter": 1,
+      "doi": "10.1016/j.tics.2005.12.004",
+      "title": [
+        "Can cognitive processes be inferred from neuroimaging data?"
+      ],
+      "year": [
+        [
+          2006,
+          2
+        ]
+      ]
+    },
+    {
+      "course": "cognitive",
+      "chapter": 5,
+      "doi": "10.1177/1529100612453266",
+      "title": [
+        "Improving Students\u2019 Learning With Effective Learning Techniques"
+      ],
+      "year": [
+        [
+          2013,
+          1
+        ]
+      ]
+    },
+    {
+      "course": "cognitive",
+      "chapter": 6,
+      "doi": "10.1177/1529100616686966",
+      "title": [
+        "The Relationship Between Eyewitness Confidence and Identification Accuracy: A New Synthesis"
+      ],
+      "year": [
+        [
+          2017,
+          3,
+          22
+        ]
+      ]
+    },
+    {
+      "course": "cognitive",
+      "chapter": 7,
+      "doi": "10.1037/10096-006",
+      "title": [
+        "Grounding in communication."
+      ],
+      "year": [
+        [
+          1991
+        ]
+      ]
+    }
+  ],
+  "open_readings": [
+    {
+      "url": "https://openstax.org/books/psychology-2e/pages/11-1-what-is-personality",
+      "status": 200,
+      "title_found": true
+    },
+    {
+      "url": "https://openstax.org/books/psychology-2e/pages/11-4-learning-approaches",
+      "status": 200,
+      "title_found": true
+    },
+    {
+      "url": "https://openstax.org/books/psychology-2e/pages/11-5-humanistic-approaches",
+      "status": 200,
+      "title_found": true
+    },
+    {
+      "url": "https://openstax.org/books/psychology-2e/pages/11-6-biological-approaches",
+      "status": 200,
+      "title_found": true
+    },
+    {
+      "url": "https://openstax.org/books/psychology-2e/pages/11-7-trait-theorists",
+      "status": 200,
+      "title_found": true
+    },
+    {
+      "url": "https://openstax.org/books/psychology-2e/pages/11-8-cultural-understandings-of-personality",
+      "status": 200,
+      "title_found": true
+    },
+    {
+      "url": "https://openstax.org/books/psychology-2e/pages/11-9-personality-assessment",
+      "status": 200,
+      "title_found": true
+    },
+    {
+      "url": "https://openstax.org/books/psychology-2e/pages/2-2-approaches-to-research",
+      "status": 200,
+      "title_found": true
+    },
+    {
+      "url": "https://openstax.org/books/psychology-2e/pages/5-1-sensation-versus-perception",
+      "status": 200,
+      "title_found": true
+    },
+    {
+      "url": "https://openstax.org/books/psychology-2e/pages/7-2-language",
+      "status": 200,
+      "title_found": true
+    },
+    {
+      "url": "https://openstax.org/books/psychology-2e/pages/7-3-problem-solving",
+      "status": 200,
+      "title_found": true
+    },
+    {
+      "url": "https://openstax.org/books/psychology-2e/pages/8-1-how-memory-functions",
+      "status": 200,
+      "title_found": true
+    },
+    {
+      "url": "https://openstax.org/books/psychology-2e/pages/8-3-problems-with-memory",
+      "status": 200,
+      "title_found": true
+    },
+    {
+      "url": "https://openstax.org/books/psychology-2e/pages/8-4-ways-to-enhance-memory",
+      "status": 200,
+      "title_found": true
+    }
+  ]
+}
